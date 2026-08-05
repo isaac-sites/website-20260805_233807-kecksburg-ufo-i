@@ -1,0 +1,2157 @@
+{
+  "version": 1,
+  "page_count": 96,
+  "total_page_seconds": 354.5322,
+  "average_page_seconds": 3.693,
+  "phase_totals_seconds": {
+    "internal_links": 161.3795,
+    "monetization": 97.5451,
+    "content_assembly": 55.3845,
+    "media_svg": 26.7337,
+    "youtube": 5.3483,
+    "quality_write": 4.0734,
+    "content_cleanup_final": 2.0297,
+    "preparation": 1.9935,
+    "content_cleanup_initial": 0.0447
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_classified_lost_neve_b3173c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 13.0343,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6995,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.3153,
+        "youtube": 0.0143,
+        "content_assembly": 0.5396,
+        "monetization": 10.3873,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_acorn_craft_testimon_0a3938",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.8105,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.669,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.3116,
+        "youtube": 0.0144,
+        "content_assembly": 0.5523,
+        "monetization": 5.1861,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kecksburg_official_s_8dbebe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.5147,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6399,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.3084,
+        "youtube": 0.0143,
+        "content_assembly": 0.5422,
+        "monetization": 4.9334,
+        "quality_write": 0.0397
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.0174,
+      "phases": {
+        "preparation": 0.027,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8307,
+        "content_cleanup_final": 0.0425,
+        "media_svg": 0.2151,
+        "youtube": 1.3324,
+        "content_assembly": 0.6882,
+        "monetization": 2.8256,
+        "quality_write": 0.0551
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 6.2864,
+      "phases": {
+        "preparation": 0.0233,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.7887,
+        "content_cleanup_final": 0.0406,
+        "media_svg": 0.6678,
+        "youtube": 1.3601,
+        "content_assembly": 0.6858,
+        "monetization": 1.6667,
+        "quality_write": 0.0527
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8524,
+      "phases": {
+        "preparation": 0.0267,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.7992,
+        "content_cleanup_final": 0.0312,
+        "media_svg": 0.1365,
+        "youtube": 1.3719,
+        "content_assembly": 0.6985,
+        "monetization": 1.733,
+        "quality_write": 0.0546
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_interview_framing_ke_506942",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.5988,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6715,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.3149,
+        "youtube": 0.0141,
+        "content_assembly": 0.5467,
+        "monetization": 2.9733,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_strewn_fields_search_940368",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0972,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6654,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.314,
+        "youtube": 0.0092,
+        "content_assembly": 0.5407,
+        "monetization": 2.4939,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_ribbeck_search_zone_fc7e89",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0498,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6581,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.3105,
+        "youtube": 0.0095,
+        "content_assembly": 0.5486,
+        "monetization": 2.4446,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_murphy_missing_photo_8f61f8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0442,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6529,
+        "content_cleanup_final": 0.0163,
+        "media_svg": 0.3119,
+        "youtube": 0.0136,
+        "content_assembly": 0.5466,
+        "monetization": 2.4472,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_event_hypothesis_0e38b7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0324,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6833,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.308,
+        "youtube": 0.0133,
+        "content_assembly": 0.5443,
+        "monetization": 2.409,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0246,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.716,
+        "content_cleanup_final": 0.0278,
+        "media_svg": 0.1522,
+        "youtube": 0.018,
+        "content_assembly": 0.6588,
+        "monetization": 2.3706,
+        "quality_write": 0.0536
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0226,
+      "phases": {
+        "preparation": 0.0758,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7099,
+        "content_cleanup_final": 0.0283,
+        "media_svg": 0.1553,
+        "youtube": 0.0149,
+        "content_assembly": 0.6713,
+        "monetization": 2.3124,
+        "quality_write": 0.0542
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0133,
+      "phases": {
+        "preparation": 0.0264,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6923,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.1466,
+        "youtube": 0.0187,
+        "content_assembly": 0.6591,
+        "monetization": 2.3969,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_thor_agena_timeline_35558f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9797,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6383,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.311,
+        "youtube": 0.0108,
+        "content_assembly": 0.541,
+        "monetization": 2.408,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_witness_corroboratio_0c01a0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9517,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.673,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.3164,
+        "youtube": 0.0139,
+        "content_assembly": 0.5476,
+        "monetization": 2.324,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_military_convoy_clai_4a8b6f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9348,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.646,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.3071,
+        "youtube": 0.0139,
+        "content_assembly": 0.5458,
+        "monetization": 2.3452,
+        "quality_write": 0.04
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.8752,
+      "phases": {
+        "preparation": 0.0258,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6697,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.1504,
+        "youtube": 0.0248,
+        "content_assembly": 0.6429,
+        "monetization": 2.2863,
+        "quality_write": 0.0524
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_persistent_meteor_tr_8db16b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3686,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6864,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.3203,
+        "youtube": 0.0098,
+        "content_assembly": 0.5582,
+        "monetization": 1.7134,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_scattered_impact_rep_2ff5e8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9546,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6581,
+        "content_cleanup_final": 0.0147,
+        "media_svg": 0.3107,
+        "youtube": 0.0132,
+        "content_assembly": 0.538,
+        "monetization": 1.362,
+        "quality_write": 0.0404
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 6.2864,
+      "phases": {
+        "preparation": 0.0233,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.7887,
+        "content_cleanup_final": 0.0406,
+        "media_svg": 0.6678,
+        "youtube": 1.3601,
+        "content_assembly": 0.6858,
+        "monetization": 1.6667,
+        "quality_write": 0.0527
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8524,
+      "phases": {
+        "preparation": 0.0267,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.7992,
+        "content_cleanup_final": 0.0312,
+        "media_svg": 0.1365,
+        "youtube": 1.3719,
+        "content_assembly": 0.6985,
+        "monetization": 1.733,
+        "quality_write": 0.0546
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7093,
+      "phases": {
+        "preparation": 0.0278,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6839,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 0.1499,
+        "youtube": 0.0216,
+        "content_assembly": 0.6643,
+        "monetization": 0.0824,
+        "quality_write": 0.0515
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.0174,
+      "phases": {
+        "preparation": 0.027,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8307,
+        "content_cleanup_final": 0.0425,
+        "media_svg": 0.2151,
+        "youtube": 1.3324,
+        "content_assembly": 0.6882,
+        "monetization": 2.8256,
+        "quality_write": 0.0551
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6974,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6833,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.1414,
+        "youtube": 0.0261,
+        "content_assembly": 0.6759,
+        "monetization": 1.0671,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0226,
+      "phases": {
+        "preparation": 0.0758,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7099,
+        "content_cleanup_final": 0.0283,
+        "media_svg": 0.1553,
+        "youtube": 0.0149,
+        "content_assembly": 0.6713,
+        "monetization": 2.3124,
+        "quality_write": 0.0542
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_television_national_641733",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7762,
+      "phases": {
+        "preparation": 0.0264,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7378,
+        "content_cleanup_final": 0.0267,
+        "media_svg": 0.1564,
+        "youtube": 0.0156,
+        "content_assembly": 0.6616,
+        "monetization": 0.0999,
+        "quality_write": 0.0514
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7583,
+      "phases": {
+        "preparation": 0.0765,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6604,
+        "content_cleanup_final": 0.0223,
+        "media_svg": 0.1377,
+        "youtube": 0.0213,
+        "content_assembly": 0.6526,
+        "monetization": 1.14,
+        "quality_write": 0.047
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.875,
+      "phases": {
+        "preparation": 0.0266,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7332,
+        "content_cleanup_final": 0.0228,
+        "media_svg": 0.2658,
+        "youtube": 0.0162,
+        "content_assembly": 0.6594,
+        "monetization": 0.1028,
+        "quality_write": 0.0478
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6439,
+      "phases": {
+        "preparation": 0.0265,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6803,
+        "content_cleanup_final": 0.0208,
+        "media_svg": 0.0949,
+        "youtube": 0.0184,
+        "content_assembly": 0.6503,
+        "monetization": 0.1033,
+        "quality_write": 0.0489
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.8752,
+      "phases": {
+        "preparation": 0.0258,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6697,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.1504,
+        "youtube": 0.0248,
+        "content_assembly": 0.6429,
+        "monetization": 2.2863,
+        "quality_write": 0.0524
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9412,
+      "phases": {
+        "preparation": 0.0262,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8458,
+        "content_cleanup_final": 0.0502,
+        "media_svg": 0.1536,
+        "youtube": 0.0102,
+        "content_assembly": 0.7105,
+        "monetization": 0.087,
+        "quality_write": 0.0569
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8557,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7684,
+        "content_cleanup_final": 0.0353,
+        "media_svg": 0.1533,
+        "youtube": 0.0109,
+        "content_assembly": 0.7064,
+        "monetization": 0.0997,
+        "quality_write": 0.055
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8008,
+      "phases": {
+        "preparation": 0.027,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.8271,
+        "content_cleanup_final": 0.0405,
+        "media_svg": 0.0883,
+        "youtube": 0.0219,
+        "content_assembly": 0.6885,
+        "monetization": 1.051,
+        "quality_write": 0.0557
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.641,
+      "phases": {
+        "preparation": 0.0266,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6899,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.0935,
+        "youtube": 0.0183,
+        "content_assembly": 0.6657,
+        "monetization": 1.0758,
+        "quality_write": 0.0507
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0133,
+      "phases": {
+        "preparation": 0.0264,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6923,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.1466,
+        "youtube": 0.0187,
+        "content_assembly": 0.6591,
+        "monetization": 2.3969,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.841,
+      "phases": {
+        "preparation": 0.0272,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6568,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 0.2762,
+        "youtube": 0.0192,
+        "content_assembly": 0.6409,
+        "monetization": 1.1451,
+        "quality_write": 0.0516
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8244,
+      "phases": {
+        "preparation": 0.0265,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7596,
+        "content_cleanup_final": 0.0397,
+        "media_svg": 0.1371,
+        "youtube": 0.018,
+        "content_assembly": 0.6823,
+        "monetization": 0.1043,
+        "quality_write": 0.0565
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8921,
+      "phases": {
+        "preparation": 0.0262,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6688,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 0.3556,
+        "youtube": 0.0141,
+        "content_assembly": 0.6476,
+        "monetization": 1.1136,
+        "quality_write": 0.0455
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7162,
+      "phases": {
+        "preparation": 0.0264,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7253,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.1486,
+        "youtube": 0.0111,
+        "content_assembly": 0.6668,
+        "monetization": 1.0569,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0246,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.716,
+        "content_cleanup_final": 0.0278,
+        "media_svg": 0.1522,
+        "youtube": 0.018,
+        "content_assembly": 0.6588,
+        "monetization": 2.3706,
+        "quality_write": 0.0536
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7276,
+      "phases": {
+        "preparation": 0.026,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7431,
+        "content_cleanup_final": 0.0271,
+        "media_svg": 0.0974,
+        "youtube": 0.0164,
+        "content_assembly": 0.6833,
+        "monetization": 0.0831,
+        "quality_write": 0.0507
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7986,
+      "phases": {
+        "preparation": 0.0261,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6541,
+        "content_cleanup_final": 0.0247,
+        "media_svg": 0.1403,
+        "youtube": 0.0133,
+        "content_assembly": 0.6624,
+        "monetization": 1.2272,
+        "quality_write": 0.0501
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5794,
+      "phases": {
+        "preparation": 0.0261,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.683,
+        "content_cleanup_final": 0.0229,
+        "media_svg": 0.1269,
+        "youtube": 0.0207,
+        "content_assembly": 0.6601,
+        "monetization": 0.9888,
+        "quality_write": 0.0503
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_same_day_co_3cd207",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6794,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6501,
+        "content_cleanup_final": 0.0165,
+        "media_svg": 0.3046,
+        "youtube": 0.0137,
+        "content_assembly": 0.5394,
+        "monetization": 0.1024,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_blue_book_credibilit_2ffb77",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6444,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6934,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.3112,
+        "youtube": 0.0113,
+        "content_assembly": 0.5449,
+        "monetization": 1.0041,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_soviet_debris_milita_e604e3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6707,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6284,
+        "content_cleanup_final": 0.0147,
+        "media_svg": 0.3061,
+        "youtube": 0.014,
+        "content_assembly": 0.5508,
+        "monetization": 0.1006,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_acorn_prop_design_ac7d4c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6867,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6577,
+        "content_cleanup_final": 0.0173,
+        "media_svg": 0.3111,
+        "youtube": 0.0132,
+        "content_assembly": 0.5468,
+        "monetization": 0.0839,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kosmos_96_reentry_59d4de",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6934,
+      "phases": {
+        "preparation": 0.0179,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6769,
+        "content_cleanup_final": 0.0204,
+        "media_svg": 0.3086,
+        "youtube": 0.0151,
+        "content_assembly": 0.5466,
+        "monetization": 0.0689,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_detroit_trail_photos_d39d5b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6677,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6537,
+        "content_cleanup_final": 0.023,
+        "media_svg": 0.3085,
+        "youtube": 0.0133,
+        "content_assembly": 0.5344,
+        "monetization": 0.0795,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_false_landing_perspe_e22a0c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.709,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6772,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 0.3068,
+        "youtube": 0.0162,
+        "content_assembly": 0.5459,
+        "monetization": 0.0831,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_meteor_fragmentation_480a7a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7232,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.691,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.3139,
+        "youtube": 0.0137,
+        "content_assembly": 0.5457,
+        "monetization": 0.0805,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_pilot_sightings_time_d86926",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7489,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7397,
+        "content_cleanup_final": 0.0163,
+        "media_svg": 0.3089,
+        "youtube": 0.0113,
+        "content_assembly": 0.5392,
+        "monetization": 0.0794,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_persistent_meteor_tr_8db16b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3686,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6864,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.3203,
+        "youtube": 0.0098,
+        "content_assembly": 0.5582,
+        "monetization": 1.7134,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_seismograph_shock_wa_3beae2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7993,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7725,
+        "content_cleanup_final": 0.0213,
+        "media_svg": 0.3123,
+        "youtube": 0.0089,
+        "content_assembly": 0.5469,
+        "monetization": 0.0811,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_elyria_grass_fires_812351",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6712,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6335,
+        "content_cleanup_final": 0.0135,
+        "media_svg": 0.3066,
+        "youtube": 0.0134,
+        "content_assembly": 0.5468,
+        "monetization": 1.1013,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_kecksburg_object_sha_4bce8d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6296,
+      "phases": {
+        "preparation": 0.019,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7433,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 0.3199,
+        "youtube": 0.0142,
+        "content_assembly": 0.5455,
+        "monetization": 0.9316,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_witness_corroboratio_0c01a0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9517,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.673,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.3164,
+        "youtube": 0.0139,
+        "content_assembly": 0.5476,
+        "monetization": 2.324,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_early_crash_signals_78a003",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5927,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6301,
+        "content_cleanup_final": 0.0141,
+        "media_svg": 0.3094,
+        "youtube": 0.0138,
+        "content_assembly": 0.5335,
+        "monetization": 1.0374,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_night_search_limits_d949f5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5694,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6334,
+        "content_cleanup_final": 0.0144,
+        "media_svg": 0.3117,
+        "youtube": 0.0141,
+        "content_assembly": 0.5382,
+        "monetization": 1.0045,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_john_murphy_missing_027d8b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7376,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.654,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.3083,
+        "youtube": 0.0095,
+        "content_assembly": 0.5414,
+        "monetization": 1.1461,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_missing_acorn_early_65b60a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6953,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6607,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.3143,
+        "youtube": 0.0136,
+        "content_assembly": 0.5488,
+        "monetization": 0.0816,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_fireball_trajectory_b0c45e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6529,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.64,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.3157,
+        "youtube": 0.0141,
+        "content_assembly": 0.5423,
+        "monetization": 0.0663,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_space_debris_kosmos_787407",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6769,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6566,
+        "content_cleanup_final": 0.0173,
+        "media_svg": 0.3061,
+        "youtube": 0.0092,
+        "content_assembly": 0.5446,
+        "monetization": 0.0873,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_ribbeck_search_zone_fc7e89",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0498,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6581,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.3105,
+        "youtube": 0.0095,
+        "content_assembly": 0.5486,
+        "monetization": 2.4446,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_thor_agena_timeline_35558f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9797,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6383,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.311,
+        "youtube": 0.0108,
+        "content_assembly": 0.541,
+        "monetization": 2.408,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_crash_theory_rejecte_c06a49",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6306,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6298,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 0.3082,
+        "youtube": 0.0131,
+        "content_assembly": 0.5418,
+        "monetization": 1.0689,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_expected_crash_wreck_97e008",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7765,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.708,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.3053,
+        "youtube": 0.0138,
+        "content_assembly": 0.5597,
+        "monetization": 0.1053,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_cordon_con_7c2552",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6817,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6381,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.312,
+        "youtube": 0.0142,
+        "content_assembly": 0.5425,
+        "monetization": 1.0993,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_memory_con_0d700a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7036,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6666,
+        "content_cleanup_final": 0.0208,
+        "media_svg": 0.3111,
+        "youtube": 0.0102,
+        "content_assembly": 0.5511,
+        "monetization": 0.0852,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_military_convoy_clai_4a8b6f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9348,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.646,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.3071,
+        "youtube": 0.0139,
+        "content_assembly": 0.5458,
+        "monetization": 2.3452,
+        "quality_write": 0.04
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_acorn_craft_testimon_0a3938",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.8105,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.669,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.3116,
+        "youtube": 0.0144,
+        "content_assembly": 0.5523,
+        "monetization": 5.1861,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kecksburg_official_s_8dbebe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.5147,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6399,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.3084,
+        "youtube": 0.0143,
+        "content_assembly": 0.5422,
+        "monetization": 4.9334,
+        "quality_write": 0.0397
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_nasa_missing_records_c508f8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7086,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6783,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.3096,
+        "youtube": 0.0139,
+        "content_assembly": 0.556,
+        "monetization": 0.0694,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_angular_speed_proxim_5273b8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7359,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.682,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.3073,
+        "youtube": 0.0136,
+        "content_assembly": 0.5506,
+        "monetization": 0.1008,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_fireball_cloud_light_d252ef",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7048,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6647,
+        "content_cleanup_final": 0.0212,
+        "media_svg": 0.3077,
+        "youtube": 0.0137,
+        "content_assembly": 0.5446,
+        "monetization": 0.0982,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_sonic_boom_false_loc_76c136",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.761,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6963,
+        "content_cleanup_final": 0.0223,
+        "media_svg": 0.3043,
+        "youtube": 0.0138,
+        "content_assembly": 0.5522,
+        "monetization": 1.1131,
+        "quality_write": 0.0397
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_scattered_impact_rep_2ff5e8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9546,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6581,
+        "content_cleanup_final": 0.0147,
+        "media_svg": 0.3107,
+        "youtube": 0.0132,
+        "content_assembly": 0.538,
+        "monetization": 1.362,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_elyria_fire_debris_r_a04f81",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.71,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6594,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.3086,
+        "youtube": 0.0139,
+        "content_assembly": 0.5452,
+        "monetization": 0.1026,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_livonia_metal_proven_6b0508",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7083,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6575,
+        "content_cleanup_final": 0.0168,
+        "media_svg": 0.3132,
+        "youtube": 0.0147,
+        "content_assembly": 0.5478,
+        "monetization": 0.101,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_radioactive_satellit_14dab6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7367,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6813,
+        "content_cleanup_final": 0.0193,
+        "media_svg": 0.3163,
+        "youtube": 0.0095,
+        "content_assembly": 0.5533,
+        "monetization": 0.0999,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_space_debris_first_r_876a7f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7334,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7229,
+        "content_cleanup_final": 0.0136,
+        "media_svg": 0.3297,
+        "youtube": 0.0104,
+        "content_assembly": 0.5404,
+        "monetization": 1.0605,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_bright_fireballs_tin_11478a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6973,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6755,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.3116,
+        "youtube": 0.0089,
+        "content_assembly": 0.5395,
+        "monetization": 0.0826,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_dark_flight_off_cour_74f989",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7558,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6901,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.3279,
+        "youtube": 0.0106,
+        "content_assembly": 0.553,
+        "monetization": 0.0987,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_wind_model_fall_zone_e00237",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7733,
+      "phases": {
+        "preparation": 0.0209,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7281,
+        "content_cleanup_final": 0.0247,
+        "media_svg": 0.3047,
+        "youtube": 0.0091,
+        "content_assembly": 0.5595,
+        "monetization": 0.0828,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_strewn_fields_search_940368",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0972,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6654,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.314,
+        "youtube": 0.0092,
+        "content_assembly": 0.5407,
+        "monetization": 2.4939,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_woodland_meteorite_s_fa9f5c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8247,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6822,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.3118,
+        "youtube": 0.0076,
+        "content_assembly": 0.5465,
+        "monetization": 1.2024,
+        "quality_write": 0.0395
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_kecksburg_ohio_truck_856c13",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6989,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6516,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.307,
+        "youtube": 0.0134,
+        "content_assembly": 0.549,
+        "monetization": 0.1037,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_lockbourne_wright_pa_92049a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6902,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6498,
+        "content_cleanup_final": 0.0196,
+        "media_svg": 0.3093,
+        "youtube": 0.0147,
+        "content_assembly": 0.5421,
+        "monetization": 0.0995,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_retrieval_convoy_mis_9d9d19",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7371,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7109,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.3028,
+        "youtube": 0.0141,
+        "content_assembly": 0.5495,
+        "monetization": 0.0833,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_michigan_meteor_wron_9756d0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.681,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6408,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.3129,
+        "youtube": 0.009,
+        "content_assembly": 0.542,
+        "monetization": 0.099,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_murphy_missing_photo_8f61f8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0442,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6529,
+        "content_cleanup_final": 0.0163,
+        "media_svg": 0.3119,
+        "youtube": 0.0136,
+        "content_assembly": 0.5466,
+        "monetization": 2.4472,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_sanderson_false_rout_640527",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6017,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6571,
+        "content_cleanup_final": 0.0146,
+        "media_svg": 0.3112,
+        "youtube": 0.0138,
+        "content_assembly": 0.5428,
+        "monetization": 1.0044,
+        "quality_write": 0.04
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_ap_no_object_reports_98e9bb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6186,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6274,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.3135,
+        "youtube": 0.0134,
+        "content_assembly": 0.5354,
+        "monetization": 1.0571,
+        "quality_write": 0.0375
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_deadline_reporting_d_1ed33a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6374,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6365,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.3096,
+        "youtube": 0.0139,
+        "content_assembly": 0.5486,
+        "monetization": 1.0534,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_official_denial_dist_82bb78",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7409,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6846,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.3068,
+        "youtube": 0.0138,
+        "content_assembly": 0.552,
+        "monetization": 1.1056,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_farm_equipment_candi_5fe9d6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7199,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6565,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.3138,
+        "youtube": 0.0139,
+        "content_assembly": 0.547,
+        "monetization": 0.1137,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_darkness_terrain_mis_bd9c34",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5947,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6481,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.3102,
+        "youtube": 0.0135,
+        "content_assembly": 0.5455,
+        "monetization": 0.9992,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_industrial_object_ma_e3608d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7012,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6514,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.3036,
+        "youtube": 0.0152,
+        "content_assembly": 0.5473,
+        "monetization": 0.11,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_search_equipment_mis_09a387",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6817,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6427,
+        "content_cleanup_final": 0.0157,
+        "media_svg": 0.3089,
+        "youtube": 0.0133,
+        "content_assembly": 0.5434,
+        "monetization": 0.102,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_preexisting_object_r_af2bd2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7617,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6841,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.3128,
+        "youtube": 0.0137,
+        "content_assembly": 0.5533,
+        "monetization": 1.1181,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_two_event_story_fusi_f78c9c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6791,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6534,
+        "content_cleanup_final": 0.0121,
+        "media_svg": 0.3085,
+        "youtube": 0.0134,
+        "content_assembly": 0.537,
+        "monetization": 1.0984,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_why_pennsylvanias_ro_709aba",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6752,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6433,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.3115,
+        "youtube": 0.0092,
+        "content_assembly": 0.5329,
+        "monetization": 0.1007,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_missing_recovery_rec_b83ab3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7406,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6905,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.3173,
+        "youtube": 0.0137,
+        "content_assembly": 0.557,
+        "monetization": 0.0842,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_missing_kecksburg_re_cecdc6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6842,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6609,
+        "content_cleanup_final": 0.0205,
+        "media_svg": 0.3064,
+        "youtube": 0.0139,
+        "content_assembly": 0.5403,
+        "monetization": 0.0839,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_nasa_foia_search_fai_c92041",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7732,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6674,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.315,
+        "youtube": 0.0141,
+        "content_assembly": 0.5489,
+        "monetization": 1.1514,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_army_engineers_scien_363191",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5979,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6387,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.309,
+        "youtube": 0.0133,
+        "content_assembly": 0.5381,
+        "monetization": 1.0231,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_kecksburg_crash_risk_a093ba",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6284,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6565,
+        "content_cleanup_final": 0.0181,
+        "media_svg": 0.3121,
+        "youtube": 0.014,
+        "content_assembly": 0.5434,
+        "monetization": 1.0278,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_response_larger_than_aa499f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6429,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6467,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.3142,
+        "youtube": 0.0143,
+        "content_assembly": 0.5443,
+        "monetization": 1.0506,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_dark_flight_distance_786023",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6698,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6444,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.311,
+        "youtube": 0.0102,
+        "content_assembly": 0.5466,
+        "monetization": 0.0821,
+        "quality_write": 0.0395
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_classified_lost_neve_b3173c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 13.0343,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6995,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.3153,
+        "youtube": 0.0143,
+        "content_assembly": 0.5396,
+        "monetization": 10.3873,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_kecksburg_fragment_p_edfe54",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6629,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6284,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.31,
+        "youtube": 0.0096,
+        "content_assembly": 0.5423,
+        "monetization": 0.0984,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_camera_triangula_1f9911",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.655,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6278,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.3106,
+        "youtube": 0.0146,
+        "content_assembly": 0.5435,
+        "monetization": 0.0831,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_event_hypothesis_0e38b7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0324,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6833,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.308,
+        "youtube": 0.0133,
+        "content_assembly": 0.5443,
+        "monetization": 2.409,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_retelling_witness_co_d61d9e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8262,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6783,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.3115,
+        "youtube": 0.0103,
+        "content_assembly": 0.5721,
+        "monetization": 1.1752,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_interview_framing_ke_506942",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.5988,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6715,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.3149,
+        "youtube": 0.0141,
+        "content_assembly": 0.5467,
+        "monetization": 2.9733,
+        "quality_write": 0.0423
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 96,
+    "reused_pages": 115,
+    "rebuilt_pages": 96,
+    "error_pages": 0,
+    "page_work_wall_seconds": 140.0452,
+    "rebuilt_pages_per_minute": 41.1296,
+    "queued_rebuild_pages_per_minute": 41.1296,
+    "apparent_page_work_speedup": 2.5316,
+    "youtube_cache_prepare": {
+      "entries": 47458,
+      "updated": true,
+      "elapsed_seconds": 2.8855
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 96,
+      "successful_pages": 96,
+      "failed_pages": 0,
+      "worker_summary": {
+        "29072": {
+          "pages": 32,
+          "successes": 32,
+          "failures": 0,
+          "total_worker_seconds": 123.0565,
+          "max_worker_seconds": 7.5553,
+          "last_base_name": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_interview_framing_ke_506942"
+        },
+        "6984": {
+          "pages": 35,
+          "successes": 35,
+          "failures": 0,
+          "total_worker_seconds": 120.0366,
+          "max_worker_seconds": 5.9444,
+          "last_base_name": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_retelling_witness_co_d61d9e"
+        },
+        "5660": {
+          "pages": 29,
+          "successes": 29,
+          "failures": 0,
+          "total_worker_seconds": 116.9899,
+          "max_worker_seconds": 13.1061,
+          "last_base_name": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_event_hypothesis_0e38b7"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_classified_lost_neve_b3173c",
+          "level": 3,
+          "success": true,
+          "worker_pid": 5660,
+          "worker_duration_seconds": 13.1061,
+          "total_seconds": 13.0343,
+          "worker_started_at_utc": "2026-08-05T22:24:50.899216Z",
+          "worker_finished_at_utc": "2026-08-05T22:25:03.933563Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_acorn_craft_testimon_0a3938",
+          "level": 3,
+          "success": true,
+          "worker_pid": 5660,
+          "worker_duration_seconds": 7.8511,
+          "total_seconds": 7.8105,
+          "worker_started_at_utc": "2026-08-05T22:24:10.091941Z",
+          "worker_finished_at_utc": "2026-08-05T22:24:17.902487Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kecksburg_official_s_8dbebe",
+          "level": 3,
+          "success": true,
+          "worker_pid": 29072,
+          "worker_duration_seconds": 7.5553,
+          "total_seconds": 7.5147,
+          "worker_started_at_utc": "2026-08-05T22:24:11.942315Z",
+          "worker_finished_at_utc": "2026-08-05T22:24:19.457036Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe",
+          "level": 2,
+          "success": true,
+          "worker_pid": 5660,
+          "worker_duration_seconds": 7.1057,
+          "total_seconds": 7.0174,
+          "worker_started_at_utc": "2026-08-05T22:23:12.066973Z",
+          "worker_finished_at_utc": "2026-08-05T22:23:19.084426Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Kecksburg_UFO_incide_ab793e",
+          "level": 1,
+          "success": true,
+          "worker_pid": 29072,
+          "worker_duration_seconds": 6.3796,
+          "total_seconds": 6.2864,
+          "worker_started_at_utc": "2026-08-05T22:23:07.531911Z",
+          "worker_finished_at_utc": "2026-08-05T22:23:13.818321Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3",
+          "level": 2,
+          "success": true,
+          "worker_pid": 6984,
+          "worker_duration_seconds": 5.9444,
+          "total_seconds": 5.8524,
+          "worker_started_at_utc": "2026-08-05T22:23:09.749643Z",
+          "worker_finished_at_utc": "2026-08-05T22:23:15.602048Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_interview_framing_ke_506942",
+          "level": 3,
+          "success": true,
+          "worker_pid": 29072,
+          "worker_duration_seconds": 5.638,
+          "total_seconds": 5.5988,
+          "worker_started_at_utc": "2026-08-05T22:25:05.000384Z",
+          "worker_finished_at_utc": "2026-08-05T22:25:10.599187Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_strewn_fields_search_940368",
+          "level": 3,
+          "success": true,
+          "worker_pid": 29072,
+          "worker_duration_seconds": 5.1675,
+          "total_seconds": 5.0972,
+          "worker_started_at_utc": "2026-08-05T22:24:28.774450Z",
+          "worker_finished_at_utc": "2026-08-05T22:24:33.871707Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_murphy_missing_photo_8f61f8",
+          "level": 3,
+          "success": true,
+          "worker_pid": 6984,
+          "worker_duration_seconds": 5.111,
+          "total_seconds": 5.0442,
+          "worker_started_at_utc": "2026-08-05T22:24:34.940764Z",
+          "worker_finished_at_utc": "2026-08-05T22:24:39.985012Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536",
+          "level": 2,
+          "success": true,
+          "worker_pid": 29072,
+          "worker_duration_seconds": 5.105,
+          "total_seconds": 5.0246,
+          "worker_started_at_utc": "2026-08-05T22:23:34.566636Z",
+          "worker_finished_at_utc": "2026-08-05T22:23:39.591233Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

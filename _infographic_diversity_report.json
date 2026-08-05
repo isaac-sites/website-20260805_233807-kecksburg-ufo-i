@@ -1,0 +1,5075 @@
+{
+  "generated_at_utc": "2026-08-05T22:25:54.132498Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 211,
+    "pages_review_recommended": 0,
+    "warning_reason_counts": {}
+  },
+  "pages": [
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e",
+      "title": "Kecksburg UFO Incident",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Fireball Key Stages 1965",
+        "Kecksburg Landing Hypotheses",
+        "Evidence Quality of Kecksburg Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8",
+      "title": "Why Kecksburg Built a Giant Acorn",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Kecksburg Space Acorn",
+        "Interpretations of the Kecksburg Monument",
+        "Kecksburg Volunteer Fire Department Roles"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_acorn_monument_resto_92fc49",
+      "title": "When the Kecksburg Prop Became a Landmark",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Kecksburg Space Acorn",
+        "Prop vs. Civic Landmark Comparison",
+        "Kecksburg Monument Infrastructure Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_acorn_prop_design_ac7d4c",
+      "title": "How Television Gave Kecksburg Its Acorn Shape",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Anatomy of the Kecksburg Prop",
+        "Prop vs. Historical Evidence",
+        "Evolution of the Space Acorn"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_fire_department_acor_694980",
+      "title": "Why Kecksburg's Firefighters Embraced the Acorn",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Volunteer Fire Department Evolution",
+        "Diverse Interpretations of Kecksburg Folklore",
+        "Economic Benefits of the Acorn Monument"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_prop_after_filming_5a14ff",
+      "title": "How a TV Prop Stayed in Kecksburg",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Kecksburg Space Acorn",
+        "Prop Identity vs. Historical Evidence",
+        "Kecksburg Volunteer Fire Department Roles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_roadside_attraction_557411",
+      "title": "Monument, Replica or Evidence From 1965?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Space Acorn Provenance",
+        "Kecksburg Monument Interpretations",
+        "Evidence Standards for Replicas"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_symbol_band_visual_m_2e3cec",
+      "title": "How TV Fixed Kecksburg's Mysterious Symbols",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Monument Visual Evolution",
+        "Evidence vs. Artistic Reconstruction",
+        "Mechanisms of Memory Hardening"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d",
+      "title": "Did Witnesses See a Metallic Acorn?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg UFO Narrative Evolution",
+        "Witness Observation Quality Comparison",
+        "Kecksburg Acorn Physical Profile"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_direct_vs_covered_si_a0d1f3",
+      "title": "Who Actually Saw the Acorn Shaped Object?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Kecksburg Witness Evidence Hierarchy",
+        "Kecksburg Object Description Variants",
+        "Kecksburg Physical Evidence Markers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_kecksburg_object_sha_4bce8d",
+      "title": "What Shape Was the Kecksburg Object Really?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Kecksburg Object Physical Characteristics",
+        "Witness Interpretations of the Kecksburg Shape",
+        "Standardization of the Kecksburg Image"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_late_testimony_timel_7df499",
+      "title": "Why Did the Acorn Story Emerge So Late?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg UFO Narrative Evolution",
+        "1965 Records vs. Later Memories",
+        "Mechanisms of Memory Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_romansky_symbol_band_e43716",
+      "title": "Were Kecksburg's Symbols Really Hieroglyphics?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "list_vertical",
+        "tree_roots"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Romansky's Testimony vs. Popular Legend",
+        "Evidence Gaps in Kecksburg Claims",
+        "Witness Observations of the Bumper"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_unsolved_mysteries_p_c2e86e",
+      "title": "How a TV Prop Defined Kecksburg's UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of the Kecksburg Space Acorn",
+        "Reconstruction vs. Historical Evidence",
+        "Impact of the Kecksburg Prop"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_witness_corroboratio_0c01a0",
+      "title": "Independent Witnesses or One Shared Kecksburg Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg UFO Narrative Evolution",
+        "Corroboration Strength in Kecksburg Records",
+        "Channels of Narrative Influence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7",
+      "title": "Did Officials Expect an Aircraft Crash?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Emergency Response Key Stages",
+        "Interpretations of the Failed Search",
+        "Potential Causes for Descending Light"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_aircraft_missile_che_96ef92",
+      "title": "Were Any Aircraft or Missiles Actually Missing?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Asset Verification Key Stages",
+        "Kecksburg Crash Evidence Analysis",
+        "Unexplained Kecksburg Possibilities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_crash_theory_rejecte_c06a49",
+      "title": "When Did the Plane Crash Explanation Fall Apart?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Aviation Crash Investigation Key Stages",
+        "Kecksburg Aircraft vs. Meteor Hypotheses",
+        "Negative Findings in Kecksburg Search"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_early_crash_signals_78a003",
+      "title": "Why Kecksburg First Looked Like a Plane Crash",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Kecksburg Emergency Response Time line",
+        "Initial Responder Hazard Hypotheses",
+        "Kecksburg Witness Observation Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_expected_crash_wreck_97e008",
+      "title": "What Evidence Should a Plane Crash Have Left?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Standard Aviation Accident Investigation Flow",
+        "Kecksburg Evidence vs. Aircraft Crash Expectations",
+        "Expected Indicators of Aircraft Loss"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_night_search_limits_d949f5",
+      "title": "Could Searchers Have Missed Something in the Woods?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Woodland Search Obstacles",
+        "Kecksburg Search Result Interpretations",
+        "Potential Undiscovered Woodland Debris"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_response_escalation_b2239e",
+      "title": "How a Local Alert Became a Major Search",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Emergency Response Progression",
+        "Kecksburg Search Outcome Interpretations",
+        "Agency Roles in Kecksburg Response"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3",
+      "title": "Why Cold War Secrecy Fuelled the Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Incident Key Stages and Records",
+        "Interpretations of the Kecksburg Fireball",
+        "Cold War Aerospace Secrecy Pillars"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_blue_book_credibilit_2ffb77",
+      "title": "Why Blue Book Could Not End Suspicion",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "earth_core",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "Public Perception vs. Official Records",
+        "Factors Fueling Kecksburg Suspicion",
+        "Project Blue Book Investigation Flow"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_kosmos_96_timing_pro_0b34f8",
+      "title": "Could Kosmos 96 Have Reached Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Kosmos 96 Mission and Decay",
+        "Kosmos 96 vs. Kecksburg Fireball",
+        "Factors Fueling the Kosmos 96 Theory"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_kosmos_mission_secre_29cc55",
+      "title": "Why the Kosmos Name Revealed So Little",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Soviet Kosmos Designation Categories",
+        "Kecksburg Fireball Interpretations",
+        "Western Analysis of Kosmos Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_dust_recovery_c_425aa6",
+      "title": "Did Cold War Recovery Teams Fit the Kecksburg Story?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Operation Blue Fly Logistics Chain",
+        "Kecksburg Recovery Interpretations",
+        "Project Moon Dust Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_secret_aircraft_ufo_3ef2a5",
+      "title": "When Secret Aircraft Looked Like UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cold War Secrecy and UFO Perception",
+        "Factors Creating Extraordinary Sightings",
+        "Kecksburg Incident Contextual Anchors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_u2_cover_story_trust_2be989",
+      "title": "How the U 2 Crisis Damaged Official Trust",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1960 U 2 Incident",
+        "Public Perception of Kecksburg 1965",
+        "Consequences of the U 2 Exposure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf",
+      "title": "What Changed Between 1965 and Later Retellings?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Incident Narrative Evolution",
+        "Contemporary Record vs. Later Testimony",
+        "Verified 1965 Kecksburg Elements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_john_murphy_missing_027d8b",
+      "title": "What Happened to John Murphy's Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "John Murphy's Kecksburg Reporting Time line",
+        "Interpretations of Missing Kecksburg Evidence",
+        "Missing Kecksburg Documentation Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_cordon_con_7c2552",
+      "title": "Did the Kecksburg Cordon Hide a Recovery?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Cordon Time line and Evolution",
+        "Interpretations of the Kecksburg Perimeter",
+        "Practical Reasons for Woodland Restrictions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_geiger_cou_2dc4b1",
+      "title": "Why Were Geiger Counters at Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of the Kecksburg Narrative",
+        "Geiger Counter Interpretations in Kecksburg",
+        "1965 Aerospace Debris Possibilities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_headline_s_776186",
+      "title": "How the Kecksburg Story Changed Overnight",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Narrative Shift Time line",
+        "Interpretations of Changing Headlines",
+        "Documented Kecksburg Facts"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_memory_con_0d700a",
+      "title": "Did Kecksburg Memories Grow More Alike?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Memory Convergence in Kecksburg Testimony",
+        "Evaluating Kecksburg Witness Reliability",
+        "Factors Influencing Memory Contamination"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_missing_acorn_early_65b60a",
+      "title": "Where Was the Acorn in 1965?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Incident Documentation Time line",
+        "Contemporary vs Retrospective Evidence",
+        "Hypotheses for Missing Early Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f",
+      "title": "How Strong Is the Kecksburg Crash Claim?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Kecksburg Incident Evidence Hierarchy",
+        "Kecksburg Recovery Narrative Analysis",
+        "Verified vs. Unverified Kecksburg Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_acorn_craft_testimon_0a3938",
+      "title": "How Reliable Is the Acorn Shaped Craft Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Acorn Narrative Evolution",
+        "Mechanisms of Memory Distortion",
+        "Evaluating Kecksburg Acorn Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_fireball_trajectory_b0c45e",
+      "title": "Did the Fireball Really Reach Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Fireball Atmospheric Progression",
+        "Kecksburg Landing Evidence Gap",
+        "Factors Complicating Fireball Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kecksburg_official_s_8dbebe",
+      "title": "What Did Officials Find in the Woods?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Search Operation Time line",
+        "Kecksburg Evidence: Fact vs. Folklore",
+        "Precautionary Measures at Kecksburg"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kosmos_96_reentry_59d4de",
+      "title": "Was Kosmos 96 the Kecksburg Object?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kosmos 96 Mission and Decay Time line",
+        "Kosmos 96 vs. Kecksburg Fireball Evidence",
+        "Arguments for the Kosmos 96 Hypothesis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_military_convoy_clai_4a8b6f",
+      "title": "Where Is the Evidence for the Military Convoy?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Kecksburg Convoy Transport Chain",
+        "Evidence vs. Missing Documentation",
+        "Expected Military Logistics Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_nasa_missing_records_c508f8",
+      "title": "Do NASA's Missing Files Prove a Cover Up?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "NASA FOIA Litigation Procedural Flow",
+        "Interpretations of Missing Archives",
+        "Causes of Archival Failures"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6",
+      "title": "Why Distant Fireballs Seem to Land Nearby",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Fireball Perception and Occlusion Process",
+        "Apparent vs. Calculated Endpoints",
+        "Visual Cues Inhibiting Distance Estimation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_angular_speed_proxim_5273b8",
+      "title": "Does Fast Motion Make a Fireball Look Closer?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Visual Perception of Fireball Motion",
+        "Perception vs. Geometric Reality",
+        "Factors Distorting Distance Judgments"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_fireball_cloud_light_d252ef",
+      "title": "Why Fireball Light Can Feel Close to Home",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Visual Cues of Atmospheric Fireballs",
+        "Fireball Perception vs. Actual Distance",
+        "Factors Influencing Fireball Brightness"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_fireball_trajectory_dfa43d",
+      "title": "How Investigators Locate a Fireball in Three Dimensions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "prism",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Fireball Trajectory Reconstruction Process",
+        "Data Sources for Fireball Analysis",
+        "Optical Impression vs. Measured Trajectory"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_horizon_false_landin_cbb01a",
+      "title": "Why Fireballs Seem to Vanish Behind Nearby Hills",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanics of Horizon Occlusion",
+        "Apparent vs. Physical Endpoints",
+        "Factors Influencing Witness Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_multiple_towns_local_7f4587",
+      "title": "How One Fireball Seems Local to Many Towns",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Meteor Trajectory Reconstruction Process",
+        "Kecksburg Incident Interpretation Models",
+        "Fireball Observation Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_sonic_boom_false_loc_76c136",
+      "title": "Can a Late Boom Point to the Wrong Place?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Meteor Fireball Acoustic Propagation",
+        "Distance vs. Sound Delay Estimates",
+        "Psychological Factors in Kecksburg Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930",
+      "title": "How the Great Lakes Fireball Unfolded",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "December 9, 1965 Fireball Key Stages",
+        "Fireball Trajectory Interpretations",
+        "Reported Ground Effects and Debris"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_direction_d_791747",
+      "title": "Why Did Witnesses Disagree About the Fireball's Direction?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "timeline_vertical",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "taxonomy"
+      ],
+      "titles": [
+        "Great Lakes Fireball Trajectory Models",
+        "Scientific Reconstruction of the Fireball",
+        "Factors Distorting Witness Observations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_photo_endpo_a050a7",
+      "title": "Where Did the Great Lakes Fireball Actually End?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Reconstructing the Great Lakes Fireball Path",
+        "Fireball Endpoint: Science vs. Narrative",
+        "Key Evidence in the Michigan Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_shock_waves_b32821",
+      "title": "Why the Fireball's Booms Arrived After the Flash",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Physics of the 1965 Fireball Delay",
+        "Seismic Evidence Near Detroit",
+        "Misconceptions from Delayed Booms"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_kecksburg_search_res_7d7dac",
+      "title": "What Did Searchers Actually Find in the Kecksburg Woods?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Search Response Time line",
+        "Kecksburg Evidence Discrepancies",
+        "Kecksburg Incident Data Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_kecksburg_story_entr_c8de6d",
+      "title": "When Did Kecksburg Become the Center of the Story?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Kecksburg Incident",
+        "Interpretations of the Kecksburg Landing",
+        "Factors Shaping the Kecksburg Legend"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_scattered_impact_rep_2ff5e8",
+      "title": "How One Fireball Created Many Suspected Crash Sites",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Great Lakes Fireball Time line",
+        "Perception vs. Physical Evidence",
+        "Reported Locations in Michigan and Ohio"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590",
+      "title": "Were Metal Fragments Found Elsewhere?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Reported Debris in Michigan and Ohio",
+        "Potential Origins of Recovered Material",
+        "Criteria for Persuasive Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_battle_creek_stone_c_25ef48",
+      "title": "Why Battle Creek's Stone Was Never Confirmed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Meteorite Recognition Scientific Workflow",
+        "Battle Creek Stone vs. Meteorites",
+        "Meteorite Identification Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_elyria_fire_debris_r_a04f81",
+      "title": "Did Falling Debris Ignite the Elyria Fires?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "9 December 1965 Fireball Key Stages",
+        "Elyria Debris Evidence Gaps",
+        "Alternative Causes for Local Observations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_fragment_origin_iden_2a61ea",
+      "title": "Meteorite, Slag or Spacecraft Metal?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chain of Custody for Great Lakes Fragments",
+        "Meteorite vs. Industrial Slag Characteristics",
+        "Laboratory Tests for Fragment Origin"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_great_lakes_strewn_f_835139",
+      "title": "Do the Great Lakes Finds Fit One Fall?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "comparison_columns",
+        "tree_roots"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Meteorite Strewn Field Characteristics",
+        "Great Lakes Fireball Evidence Analysis",
+        "Factors Weakening the Great Lakes Pattern"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_jackson_wire_fragmen_c1cc06",
+      "title": "How One Jackson Fragment Became Regional News",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The Jackson Report Echo Effect",
+        "Jackson Report Claim Verification",
+        "Regional Fireball Recovery Sites"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_livonia_metal_proven_6b0508",
+      "title": "Did Livonia's Metal Really Fall From the Fireball?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Livonia Metal Provenance Requirements",
+        "Livonia Metal Interpretations",
+        "Livonia Fireball Physical Descriptions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c",
+      "title": "Why Space Debris Would Trigger a Cordon",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Standard Aerospace Hazard Response",
+        "Kecksburg Secrecy Interpretations",
+        "Spacecraft Re entry Hazards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_hydrazine_debris_ris_ec9767",
+      "title": "Could Fallen Space Debris Still Contain Toxic Fuel?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Standard Hazardous Debris Response",
+        "Hydrazine Hazard vs. Fire Risk",
+        "Hydrazine Impact Site Observations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_kosmos_954_cleanup_b4964e",
+      "title": "What Kosmos 954 Revealed About Space Debris Cleanup",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "structure_taxonomy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Operation Morning Light Recovery Workflow",
+        "Kosmos 954 Impact and Liability Data",
+        "Hazards of Unidentified Aerospace Debris"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_moon_dust_debris_rec_989e8d",
+      "title": "Why Foreign Space Debris Attracted Military Recovery Teams",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Project Moon Dust Recovery Workflow",
+        "Safety vs Intelligence Objectives",
+        "Documented Moon Dust Recoveries"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_radioactive_satellit_14dab6",
+      "title": "Why Radioactive Space Debris Was a Real Concern",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Nuclear Space Technology",
+        "Nuclear Space Power Technology Types",
+        "Cold War Hazardous Debris Protocols"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_space_debris_first_r_876a7f",
+      "title": "What Should Happen First When Space Debris Lands?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Initial Aerospace Debris Response Key Stages",
+        "Safe Observation vs. Prohibited Actions",
+        "Specialist Support Hierarchy for Debris"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_stored_energy_debris_21214a",
+      "title": "Why Apparently Inert Space Debris Can Still Explode",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Spacecraft Debris Recovery Safety Protocol",
+        "Pressure Vessel Survival Factors",
+        "Stored Energy Hazards in Debris"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75",
+      "title": "What Happened in the Kecksburg Woods?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Kecksburg Ground Search Time line",
+        "Competing Kecksburg Recovery Narratives",
+        "Evidence Strength in Kecksburg Woods"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_air_force_geiger_sea_d306b0",
+      "title": "Why the Air Force Brought Geiger Counters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Ground Search Response",
+        "Interpretations of Radiation Equipment",
+        "Potential Debris Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_blue_book_search_rec_a5ddde",
+      "title": "What the Air Force Record Actually Says",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Blue Book Kecksburg Time line",
+        "Interpretations of Blue Book Records",
+        "Unresolved Kecksburg Data Gaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_early_civilian_searc_8da848",
+      "title": "Who Entered the Woods Before the Cordon?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Kecksburg Ground Search Key Stages",
+        "Witness Accounts of the Site",
+        "Kecksburg Search Response Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_ed_myers_search_acco_c99579",
+      "title": "Why the Fire Chief Said Nothing Crashed",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "gem"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Ed Myers's Search Time line",
+        "Competing Kecksburg Narratives",
+        "Evidence Weight of Myers's Testimony"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_firefighter_object_a_902885",
+      "title": "Did Firefighters Really Reach a Metallic Object?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Jim Romansky's Metallic Craft Description",
+        "Firefighter Accounts vs. Contemporary Records",
+        "Varied Firefighter Experiences in Kecksburg"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_kecksburg_police_cor_f2ba2a",
+      "title": "Why Police Closed Off the Kecksburg Woods",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Kecksburg Site Access Time line",
+        "Interpretations of the Kecksburg Cordon",
+        "Justifications for Site Restrictions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe",
+      "title": "Could Kosmos 96 Have Fallen at Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kosmos 96 Orbital Decay Time line",
+        "Kosmos 96 vs. Kecksburg Fireball",
+        "Kosmos 96 Technical Specifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_launch_fail_37e3b0",
+      "title": "How Kosmos 96 Became a Falling Spacecraft",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Kosmos 96 Launch Failure Key Stages",
+        "Kosmos 96 vs. Kecksburg Theory",
+        "Factors Linking Kosmos 96 to Kecksburg"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_orbit_uncer_59a67e",
+      "title": "Could Tracking Error Save the Kosmos 96 Theory?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Orbital Decay Prediction Mechanics",
+        "Kosmos 96 vs Kecksburg Theory",
+        "Evidence Against Kecksburg Hypothesis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_same_day_co_3cd207",
+      "title": "How a Date Match Became a Re entry Myth",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "tree_map",
+        "versus"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Kosmos 96 vs. Kecksburg Fireball",
+        "Criteria for Spacecraft Identification",
+        "The Same Day Trap Mechanics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_shape_promp_052087",
+      "title": "Did Soviet Capsule Images Shape the Acorn Story?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Kecksburg Witness Testimony",
+        "Kosmos 96 Shape Argument Analysis",
+        "Psychology of Retrospective Memory"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_timing_conf_0ea2a4",
+      "title": "Why the Re entry Time Does Not Match Kecksburg",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Kosmos 96 Re entry Key Stages",
+        "Kosmos 96 vs Kecksburg Theory",
+        "Evidence Against Kosmos 96 Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_soviet_debris_milita_e604e3",
+      "title": "Why Soviet Space Debris Would Draw Military Attention",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cold War Space Debris Recovery Workflow",
+        "Kosmos 96 Theory vs. Physical Evidence",
+        "Recoverable Soviet Hardware Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9",
+      "title": "Why Astronomers Call It a Meteor",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bolide Formation and Atmospheric Entry",
+        "Kecksburg Incident Interpretations",
+        "Evidence of the 1965 Bolide"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_detroit_trail_photos_d39d5b",
+      "title": "Where Did the Great Lakes Fireball End?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Triangulating the 1965 Fireball Path",
+        "Lake Erie vs. Kecksburg Interpretations",
+        "Evidence Types for the 1965 Fireball"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_false_landing_perspe_e22a0c",
+      "title": "Why Did the Fireball Seem to Land Nearby?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Meteor Fragmentation and Visual Perception",
+        "Kecksburg Fireball Distance Interpretations",
+        "Factors Influencing Kecksburg Perceptions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_meteor_fragmentation_480a7a",
+      "title": "Can a Breaking Meteor Look Like a Craft?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Bolide Fragmentation Mechanics",
+        "Kecksburg Fireball Interpretations",
+        "Optical Effects of Bolides"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_persistent_meteor_tr_8db16b",
+      "title": "Can a Meteor Trail Look Like a Turn?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Formation of Persistent Meteor Trains",
+        "Kecksburg Fireball Interpretation Models",
+        "Detroit Photograph Atmospheric Markers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_pilot_sightings_time_d86926",
+      "title": "Why the Pilot Reports Matter So Much",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Fireball Key Stages 9 December 1965",
+        "Meteor vs. Craft Interpretations",
+        "Pilot Observation Data Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_seismograph_shock_wa_3beae2",
+      "title": "What Did the Detroit Seismograph Really Record?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Meteor Shock Wave Ground Coupling",
+        "Detroit Seismograph Interpretation Analysis",
+        "Evidence Strengths for Meteor Theory"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e",
+      "title": "Why a Real Meteor May Leave No Find",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Meteoroid Atmospheric Fragmentation Process",
+        "Kecksburg Search Interpretation Models",
+        "Factors Inhibiting Meteorite Recovery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_bright_fireballs_tin_11478a",
+      "title": "Why Huge Fireballs Can Leave Almost Nothing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "Meteoroid Destruction and Ablation Process",
+        "Žďár nad Sázavou vs Tagish Lake Falls",
+        "Factors Limiting Meteorite Recovery"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_dark_flight_off_cour_74f989",
+      "title": "Where Meteorites Go After the Light Ends",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Meteoroid Descent and Dark Flight",
+        "Witness Perception vs. Physical Reality",
+        "Fragment Dynamics in Strewn Fields"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_ribbeck_search_zone_fc7e89",
+      "title": "Why the First Ribbeck Search Missed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "lighthouse"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Ribbeck Meteorite Recovery Time line",
+        "Entry Prediction vs. Landing Reality",
+        "Lessons from the Ribbeck Fall"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_strewn_fields_search_940368",
+      "title": "Why Searchers Can Walk Past the Main Fall",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Meteorite Fragmentation and Descent Path",
+        "Košice Meteorite Fall Recovery Data",
+        "Factors Hindering Meteorite Recovery"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_wind_model_fall_zone_e00237",
+      "title": "How Far Can a Fall Prediction Miss?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Meteorite Transition to Dark Flight",
+        "Fragment Size and Wind Sensitivity",
+        "WRF Model Prediction Uncertainties"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_woodland_meteorite_s_fa9f5c",
+      "title": "Why Forests Swallow Meteorites So Quickly",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Meteorite Degradation in Woodland",
+        "Woodland vs Open Terrain Recovery",
+        "Woodland Concealment Mechanisms"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03",
+      "title": "Was an Object Removed by the Military?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Retrieval Truck Time line",
+        "Interpretations of the Retrieval Claim",
+        "Evidence Gaps in the Retrieval Story"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_jerry_betters_truck_f2415a",
+      "title": "What Does Jerry Betters' Truck Drawing Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Jerry Betters' Truck Drawing Features",
+        "Evidence Value of the Sketch",
+        "Kecksburg Retrieval Narrative Time line"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_john_hays_truck_test_4620ae",
+      "title": "How Strong Is John Hays' Truck Account?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "John Hays Testimony Key Stages",
+        "Evidence Strengths and Limits",
+        "Kecksburg Truck Observation Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_kecksburg_convoy_gua_853609",
+      "title": "Was There Really a Kecksburg Military Convoy?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Convoy Narrative Evolution",
+        "Corroborated vs. Elaborate Claims",
+        "Factors Affecting Witness Reliability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_kecksburg_ohio_truck_856c13",
+      "title": "Could the Kecksburg Truck Reach Ohio That Night?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg to Ohio Transport Route",
+        "Logistical Feasibility vs. Historical Proof",
+        "Missing Evidence Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_lockbourne_wright_pa_92049a",
+      "title": "Where Was the Alleged Kecksburg Cargo Taken?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Proposed Kecksburg Retrieval Logistics",
+        "Lockbourne vs Wright Patterson Claims",
+        "Required Evidence for Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_retrieval_convoy_mis_9d9d19",
+      "title": "What Paper Trail Should a Retrieval Leave?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Military Logistics for Kecksburg Recovery",
+        "NASA Records vs. Military Logistics",
+        "Evidence Categories for Retrieval Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117",
+      "title": "Where Is the Physical Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Fireball Evidence Chain",
+        "Kecksburg Evidence Confidence Levels",
+        "Required Evidence for Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_credible_kecksburg_f_6b8a9a",
+      "title": "What Would Make a Kecksburg Fragment Credible?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Fragment Provenance Requirements",
+        "Scientific Credibility vs. Historical Interest",
+        "Potential Sources of Unlabeled Metal"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_fireball_trajectory_9b9ccf",
+      "title": "Could the Great Lakes Fireball Reach Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Meteorite Recovery Calculation Workflow",
+        "Kecksburg vs. Great Lakes Trajectory",
+        "Evidence Requirements for Recovery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_kecksburg_ground_tra_0abfef",
+      "title": "Where Are the Landing Marks at Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "venn",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Expected Traces by Landing Speed",
+        "Kecksburg Missing Physical Evidence",
+        "Standard Meteorite Recovery Process"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_modern_fireball_reco_57d7c5",
+      "title": "How Real Fireball Recoveries Are Verified",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Modern Meteorite Recovery Workflow",
+        "Kecksburg vs. Modern Standards",
+        "Modern Recovery Protocol Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_murphy_missing_photo_8f61f8",
+      "title": "Can Missing Photographs Count as Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Circular Logic of Kecksburg Cover up",
+        "Interpretations of Missing Murphy Film",
+        "Required Records for Film Authentication"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_nasa_lost_debris_rec_6a8619",
+      "title": "What Did NASA Actually Examine After Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "NASA Kecksburg Records FOIA Time line",
+        "Kecksburg Evidence Verification Gaps",
+        "Missing Kecksburg Analytical Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4",
+      "title": "Why Did So Many Places Report a Landing?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Regional Fireball Landing Claims",
+        "Perception vs. Physical Trajectory",
+        "Kecksburg vs. Regional Landing Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_elyria_grass_fires_812351",
+      "title": "Did the Elyria Grass Fires Mark an Impact?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Elyria Fireball Response Time line",
+        "Elyria Impact Interpretations",
+        "Unverified Elyria Evidence Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_fireball_false_dista_a6624e",
+      "title": "Why the Fireball Seemed to Land Nearby",
+      "infographic_count": 3,
+      "templates": [
+        "logic_equation",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Fireball Perspective Mechanics",
+        "Kecksburg Landing Site Interpretations",
+        "Factors Influencing Fireball Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_lake_st_clair_search_a2acce",
+      "title": "What Did Crews Expect to Find in Lake St Clair?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Coast Guard Lake St Clair Search",
+        "Interpretations of the 1965 Fireball",
+        "Factors Influencing Witness Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_lapeer_radar_chaff_744ccc",
+      "title": "Why Lapeer's Metallic Debris Was Not a Meteor",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Lapeer County Debris Investigation Time line",
+        "Lapeer Debris Interpretation Hierarchy",
+        "Factors Influencing Debris Misidentification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_michigan_meteor_wron_9756d0",
+      "title": "Why Ordinary Objects Looked Like Fresh Meteorites",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Michigan Meteor Wrong Formation Process",
+        "Michigan Fragment Claims vs. Reality",
+        "Michigan Community Fragment Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_sanderson_false_rout_640527",
+      "title": "How Timing Errors Invented a Flight Path",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sanderson's Route Reconstruction Process",
+        "Sanderson Route vs. Geographic Reality",
+        "Flaws in the Kecksburg Flight Narrative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832",
+      "title": "How the First News Reports Changed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Incident Reporting Key Stages",
+        "Interpretations of Newspaper Records",
+        "Evidence Types in Kecksburg Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_ap_no_object_reports_98e9bb",
+      "title": "How Wire Reports Framed the Kecksburg Search",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Associated Press Kecksburg Reporting Key Stages",
+        "Syndicated vs. Local Narrative Scope",
+        "Evidence from AP Wire Dispatches"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_cordon_vs_no_object_aff359",
+      "title": "Can Both Kecksburg Newspaper Versions Be True?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Investigation Time line",
+        "Kecksburg Newspaper Interpretations",
+        "Kecksburg Search Logistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_deadline_reporting_d_1ed33a",
+      "title": "How Deadline Reporting Distorted the Kecksburg Record",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Newspaper Reporting Cycle",
+        "Kecksburg Reporting Mechanisms",
+        "Evidence from Kecksburg Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_early_headline_landi_09cba7",
+      "title": "Did the First Kecksburg Headline Overstate the Facts?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Incident Reporting Key Stages",
+        "Kecksburg Headline vs. Article Content",
+        "Evidence from the Tribune Review"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_federal_post_search_dc67e5",
+      "title": "What Officials Said After the Kecksburg Search Ended",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Federal Response Time line",
+        "Rejected vs. Accepted Explanations",
+        "Official Government Findings Summary"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_regional_fireball_co_7e1c08",
+      "title": "How Regional Fireball Reports Changed the Kecksburg Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_chain",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Kecksburg Regional Fireball Time line",
+        "Regional vs Local Interpretations",
+        "Evidence of the 1965 Fireball"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841",
+      "title": "Why Officials Said Nothing Was Found",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Search Response Time line",
+        "Kecksburg Official vs. Witness Claims",
+        "Factors Fueling Kecksburg Controversy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_geiger_counter_claim_deb383",
+      "title": "Did Geiger Counters Detect Anything at Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Search Operational Key Stages",
+        "Interpretation of Geiger Counter Use",
+        "Factors Influencing Search Procedures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_kecksburg_headline_s_776186",
+      "title": "Did the Headlines Reverse the Kecksburg Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Newspaper Reporting Key Stages",
+        "Interpretations of Kecksburg Headlines",
+        "Kecksburg Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_nasa_records_lawsuit_90a24e",
+      "title": "Did the NASA Lawsuit Prove a Kecksburg Cover Up?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "NASA FOIA Litigation Progression",
+        "Kecksburg Lawsuit Misconceptions",
+        "Scope of the Kecksburg Litigation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_negative_search_limi_1ed382",
+      "title": "What Did the Kecksburg Search Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Search Operation Time line",
+        "Interpretations of the Negative Search",
+        "Evidence Gaps in Kecksburg Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_official_denial_dist_82bb78",
+      "title": "Why Did the Official Denial Convince So Few?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Incident Public Perception Flow",
+        "Kecksburg Official vs. Witness Accounts",
+        "Factors Driving Kecksburg Distrust"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_official_meteor_expl_ce189d",
+      "title": "Why Officials Settled on a Meteor Explanation",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "process_steps",
+        "cards_grid"
+      ],
+      "roles": [
+        "summary",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Meteor vs. Aircraft Evidence Analysis",
+        "Meteoroid Atmospheric Break up Key Stages",
+        "Factors Influencing Eyewitness Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2",
+      "title": "Was the Woods Object Unrelated to the Fireball?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Narrative Convergence of Kecksburg",
+        "Kecksburg Woods Object Theories",
+        "Evidence for Ordinary Objects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_darkness_terrain_mis_bd9c34",
+      "title": "How Darkness Could Transform an Ordinary Object",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Perception Distortion Process",
+        "Kecksburg Visual Interpretation Factors",
+        "Kecksburg Night Perception Variables"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_farm_equipment_candi_5fe9d6",
+      "title": "Could Farm Machinery Explain the Kecksburg Object?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "list_vertical",
+        "venn"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Kecksburg Incident Interpretations",
+        "Common Rural Machinery Shapes",
+        "Woodland Perception Effects"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_industrial_object_ma_e3608d",
+      "title": "Which Industrial Objects Could Look Like a Craft?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Kecksburg Industrial Object Candidates",
+        "Visual Perception in Kecksburg Woods",
+        "Industrial Objects vs. Witness Testimony"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_preexisting_object_r_af2bd2",
+      "title": "Can Old Records Identify the Woods Object?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Verifying the Kecksburg Ordinary Object Theory",
+        "Documentary Evidence vs. Witness Testimony",
+        "Potential Sources for Kecksburg Site Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_search_equipment_mis_09a387",
+      "title": "Was Search Equipment Mistaken for the Object?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Search Logistics Key Stages",
+        "Kecksburg Recovery Interpretations",
+        "Rural Search Gear Inventory"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_two_event_story_fusi_f78c9c",
+      "title": "How Two Events Became One Kecksburg Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Incident Narrative Time line",
+        "Event Fusion Theory Mechanisms",
+        "Evidence of the Kecksburg Incident"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6",
+      "title": "Is Kecksburg Really Pennsylvania's Roswell?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "fact_box_sidebar",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Roswell vs. Kecksburg Evidence",
+        "Shared Narrative Themes",
+        "Kecksburg Narrative Evolution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_debris_vs_fireball_a7f933",
+      "title": "Debris at Roswell, Fireball at Kecksburg",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Debris Recovery Key Stages",
+        "Roswell vs. Kecksburg Evidence Bases",
+        "Roswell Material Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_military_secrecy_ufo_d52873",
+      "title": "Does Military Secrecy Make a UFO Case Stronger?",
+      "infographic_count": 3,
+      "templates": [
+        "earth_core",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Reasons for Military Secrecy Constraints",
+        "Evidence Limits of Military Secrecy",
+        "Witness Testimony and Documentary Gaps"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_project_mogul_compar_490c2a",
+      "title": "What Project Mogul Means for Kecksburg Comparisons",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Mogul Investigation Time line",
+        "Roswell vs. Kecksburg Evidence",
+        "Project Mogul Technical Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_roswell_press_releas_e74886",
+      "title": "Why Roswell Had a Smoking Gun Headline",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell 1947 Official Record Key Stages",
+        "Roswell vs Kecksburg Documentation",
+        "Evidence Bases for Kecksburg Mystery"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_television_roswell_r_0d3729",
+      "title": "How Television Made Kecksburg the New Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Kecksburg Narrative",
+        "Visual Elements of the Kecksburg Reconstruction",
+        "Media Influence on Kecksburg Identity"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_why_pennsylvanias_ro_709aba",
+      "title": "Why Kecksburg Became Pennsylvania's Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Narrative Development Time line",
+        "Kecksburg vs. Roswell Evidence",
+        "Components of the Kecksburg Myth"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41",
+      "title": "What Do the Blue Book Records Say?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Project Blue Book Kecksburg Response",
+        "Kecksburg Record Interpretations",
+        "Blue Book Archive Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_blue_book_limited_au_15a1d3",
+      "title": "What Blue Book Was Actually Responsible For",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Workflow",
+        "Interpreting Kecksburg Record Gaps",
+        "Potential Record Holders for Kecksburg"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_early_meteor_press_e_f46a41",
+      "title": "Why Was Kecksburg Called a Meteor So Early?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Incident Response Time line",
+        "Interpretations of the Kecksburg Memo",
+        "Blue Book Evidence Summary"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_missing_recovery_rec_b83ab3",
+      "title": "Which Documents Could Prove a Kecksburg Recovery?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chain of Custody Recovery Key Stages",
+        "Kecksburg Record Evidence Comparison",
+        "Field Records for Physical Recovery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_sanitized_blue_book_e38bab",
+      "title": "What Was Removed From the Public Blue Book Files?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "tree_roots"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Blue Book Archive Sanitization Process",
+        "Sanitized Records vs. Evidence of Concealment",
+        "Kecksburg Investigation Data Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_scattered_kecksburg_3828f9",
+      "title": "Could Kecksburg Records Be Filed Somewhere Else?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Archival Search Strategies for Kecksburg",
+        "Kecksburg Record Gaps: Causes vs. Claims",
+        "Diverse Record Series for UAP Events"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_space_debris_kosmos_787407",
+      "title": "Why Blue Book's Space Debris Claim Matters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Incident Historical Time line",
+        "Kosmos 96 vs. Blue Book Records",
+        "Evidence Limits of the Record"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536",
+      "title": "Can Government Records Resolve Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg FOIA Litigation Time line",
+        "Archival Gaps vs. Classification",
+        "NASA Search Investigation Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_classified_lost_neve_b3173c",
+      "title": "Classified, Lost or Never Written?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "versus",
+        "timeline_snake"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Kecksburg Record Gap Categories",
+        "Lost vs. Secret Records",
+        "Kean v. NASA Litigation Flow"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_federal_recordkeepin_05700e",
+      "title": "Could Better Recordkeeping Have Prevented the Gaps?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Federal Records Reporting Protocol",
+        "Kecksburg Record Gap Interpretations",
+        "1965 Record keeping Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_foia_limits_kecksbur_057cdd",
+      "title": "Why FOIA Could Not Solve Kecksburg",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "NASA FOIA Litigation Procedural Flow",
+        "FOIA Capabilities vs. Limitations",
+        "Interpretations of Missing Kecksburg Files"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_missing_kecksburg_re_cecdc6",
+      "title": "Were the Missing Boxes Really About Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "NASA Fragology Record Management Flow",
+        "Interpretations of Missing Kecksburg Records",
+        "Missing Inventory Data Limitations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_nasa_changing_kecksb_69b74b",
+      "title": "Why NASA Could Not Support Its Kecksburg Claim",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "FOIA Litigation and Record Search",
+        "Reasons for Missing Kecksburg Analysis",
+        "Expected Documentation for Space Objects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_nasa_foia_search_fai_c92041",
+      "title": "What the NASA Lawsuit Actually Proved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Kean v. NASA FOIA Litigation Time line",
+        "Legal Outcomes of Kean v. NASA",
+        "NASA Record Search Deficiencies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822",
+      "title": "Why Was the Search Area Sealed Off?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Cordon Response Key Stages",
+        "Kecksburg Cordon Interpretations",
+        "Potential Hazards at Kecksburg Site"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_aircraft_missile_inv_f7e4b4",
+      "title": "What Were Officials Trying to Rule Out?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Inventory Check Key Stages",
+        "Kecksburg Official vs. Witness Claims",
+        "Categories of Missing Assets Checked"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_army_engineers_scien_363191",
+      "title": "Why Call Engineers to a Supposed Meteor?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Kecksburg Incident Investigation Key Stages",
+        "Potential Impact Scenarios at Kecksburg",
+        "Specialist Roles in Impact Assessment"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_kecksburg_crash_risk_a093ba",
+      "title": "Was Kecksburg Treated Like an Aircraft Crash?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Standard Aircraft Crash Response Logic",
+        "Potential Hazards in Unknown Wreckage",
+        "Interpretations of the Kecksburg Cordon"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_radiation_unknown_sp_be6fea",
+      "title": "Why Bring Radiation Detectors to Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Search Safety Protocol",
+        "Geiger Counter Capabilities vs Limitations",
+        "1960 s Nuclear Space Hardware Context"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_reentry_debris_hazar_3a6863",
+      "title": "Could Ordinary Space Debris Be Dangerous?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Standard Aerospace Debris Response Protocol",
+        "Kecksburg Security Perimeter Interpretations",
+        "Aerospace Debris Physical Hazards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_response_larger_than_aa499f",
+      "title": "Why Did an Empty Search Look Suspicious?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Emergency Response Time line",
+        "Interpretations of the Kecksburg Response",
+        "Factors Fueling Kecksburg Controversy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec",
+      "title": "Was Kecksburg a Secret American Spacecraft?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Missing Launch and Recovery Trail",
+        "Kecksburg Object Identification Theories",
+        "American Re entry Engineering Features"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_kecksburg_capsule_si_823936",
+      "title": "Was the Kecksburg Object Too Large for Mark 2?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "structure_taxonomy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Object vs. Mark 2 Dimensions",
+        "Witness Size Estimate Categories",
+        "Candidate Classes by Size Test"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_mark_2_match_tested_934cf1",
+      "title": "Was Kecksburg Really a Mark 2 Vehicle?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "GE Mark 2 Re entry Vehicle Specs",
+        "Kecksburg Object vs. Mark 2 Vehicle",
+        "Evidence Gaps in Mark 2 Theory"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_reentry_steering_lim_d35311",
+      "title": "Could a Secret Capsule Really Steer to Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "X 23 PRIME Flight Development Time line",
+        "Ballistic vs. Lifting Re entry Mechanics",
+        "Factors Influencing Witness Observations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_secret_vehicle_types_a8e3e6",
+      "title": "Which Secret American Vehicle Best Fits Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "tree_map",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Kecksburg Re entry Vehicle Candidates",
+        "CORONA Reconnaissance Capsule Features",
+        "Experimental Re entry Development Time line"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_thor_agena_timeline_35558f",
+      "title": "Did the Thor Agena Mission Put Anything Over Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Thor Agena Mission Key Stages 1965",
+        "Kecksburg Theory vs. Mission Records",
+        "CORONA Satellite System Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_x23_prime_timing_62d66b",
+      "title": "Why X 23 PRIME Is the Wrong Kecksburg Candidate",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "X 23 PRIME Flight History",
+        "X 23 vs Kecksburg Evidence",
+        "X 23 A PRIME Technical Capabilities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e",
+      "title": "What the Booms and Seismograph Recorded",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Kecksburg Fireball Atmospheric Progression",
+        "Detroit Seismograph Data Interpretations",
+        "Evidence Limits of the Kecksburg Event"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_ballistic_vs_fragmen_490f4d",
+      "title": "One Fireball, Several Different Kinds of Boom",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Bolide Acoustic Generation Key Stages",
+        "Ballistic Shock vs Fragmentation Pulses",
+        "Kecksburg Fireball Acoustic Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_booms_meteor_vs_reen_b1761d",
+      "title": "Can Sonic Booms Reveal What the Object Was?",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "venn",
+        "process_steps"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Acoustic Signatures of Atmospheric Entries",
+        "Evidence for Kecksburg Atmospheric Analysis",
+        "Limitations of Kecksburg Acoustic Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_delayed_boom_false_i_4b1833",
+      "title": "Why Kecksburg's Booms Sounded Like an Impact",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Acoustic Propagation of Meteor Fireballs",
+        "Kecksburg Boom Interpretation Analysis",
+        "Factors Distorting Boom Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_modern_sensors_kecks_568189",
+      "title": "How Today's Sensors Would Test the Kecksburg Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Modern Fireball Trajectory Reconstruction",
+        "1965 vs Modern Fireball Investigation",
+        "Fireball Data Collection Sources"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_seismic_proof_ground_dc0fba",
+      "title": "What Would Real Seismic Proof of Impact Look Like?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Seismic Evidence Requirements for Kecksburg",
+        "Airwave vs. Ground Impact Signals",
+        "Physical Evidence for Kecksburg Strike"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_terrain_weather_boom_a07d0c",
+      "title": "Why the Booms Seemed to Come From Kecksburg",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Acoustic Propagation of Fireball Shock Waves",
+        "Interpreting Kecksburg Booms and Impacts",
+        "Factors Complicating Sound Localization"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28",
+      "title": "How Stan Gordon Shaped the Kecksburg Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg Recovery Narrative Key Stages",
+        "Kecksburg Witness Testimony Categories",
+        "Stan Gordon's Archive Strengths"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_archive_audit_0adaa5",
+      "title": "Can Gordon's Kecksburg Archive Be Independently Checked?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Kecksburg Incident Historical Evidence Chain",
+        "Gordon Archive vs. Auditable Archives",
+        "Independently Verifiable Kecksburg Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_interview_che_f5c5a5",
+      "title": "How Gordon Tried to Separate Memory From Copying",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Stan Gordon's Witness Verification Process",
+        "Kecksburg Site Visit Objectives",
+        "Challenges to Independent Memory"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_witness_netwo_007d85",
+      "title": "How Gordon Found Kecksburg's Missing Witnesses",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tree_map",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Stan Gordon's Witness Network Expansion",
+        "Kecksburg Witness Categories Identified",
+        "Methodological Strengths and Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_kecksburg_witness_ty_a615c1",
+      "title": "Who Really Counts as a Kecksburg Witness?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Kecksburg Witness Categories in Gordon's Files",
+        "Evidential Weight of Kecksburg Testimonies",
+        "Specific Details of Direct Observers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_preserved_kecksburg_ab0486",
+      "title": "What Gordon Saved Before the Witnesses Were Gone",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Stan Gordon's Kecksburg Documentation Process",
+        "Official vs. Gordon Archive Records",
+        "Kecksburg Witness Perspectives Collected"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_television_witness_w_92fa04",
+      "title": "Did Television Find Witnesses or Shape Their Memories?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg UFO Media Publicity Time line",
+        "Publicity Benefits vs. Memory Risks",
+        "Kecksburg Informant Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_television_national_641733",
+      "title": "How Television Reinvented Kecksburg",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Kecksburg UFO Narrative",
+        "Historical Record vs. Television Reconstruction",
+        "Cultural Functions of the Space Acorn"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_television_national_641733_broadcast_reframed_m_d0e9ad",
+      "title": "How Television Changed the Central Kecksburg Question",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Kecksburg Narrative Reconstruction Key Stages",
+        "Kecksburg Interpretations Before and After 1990",
+        "Dramatization Techniques in Unsolved Mysteries"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_television_national_641733_kecksburg_filming_op_0125a2",
+      "title": "Why Some Kecksburg Residents Wanted Filming Stopped",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg UFO Media Time line",
+        "Conflicting Interpretations of Kecksburg",
+        "Opposition Groups in Kecksburg"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_television_national_641733_later_programs_kecks_0f97ad",
+      "title": "Why Later UFO Shows Kept Repeating Kecksburg",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Standardized Kecksburg Narrative Key Stages",
+        "Kecksburg UFO Interpretations in Media",
+        "Visual Iconography of Kecksburg Media"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_television_national_641733_reconstruction_vs_re_232681",
+      "title": "When Reconstruction Starts Looking Like Historical Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "structure_taxonomy",
+        "cards_grid"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Witness Testimony vs Television Imagery",
+        "Kecksburg Incident Evidential Layers",
+        "Risks of Reenactment on Memory"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_television_national_641733_ufo_festival_local_i_4d88ad",
+      "title": "How Kecksburg Turned UFO Fame Into a Festival",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Kecksburg UFO Reputation",
+        "Interpretations of the 1965 Mystery",
+        "Kecksburg UFO Festival Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_television_national_641733_vast_of_night_influe_b38a97",
+      "title": "How Kecksburg Echoed Through The Vast of Night",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Information Flow in The Vast of Night",
+        "Kecksburg Legend vs. Film Narrative",
+        "Kecksburg Elements in The Vast of Night"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2",
+      "title": "Did the Fireball Actually Reach Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Triangulation of the 1965 Fireball Trail",
+        "Kecksburg Impact Interpretations",
+        "Factors Creating False Sky to Ground Links"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_dark_flight_distance_786023",
+      "title": "Could Dark Flight Carry Debris All the Way to Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Meteorite Dark Flight Progression",
+        "Drift vs. Redirection Analysis",
+        "Variables Influencing Dark Flight"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_kecksburg_fragment_p_edfe54",
+      "title": "What Would Prove a Fragment Broke Toward Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Requirements for a Kecksburg Bound Fragment",
+        "Lake Erie vs. Kecksburg Evidence",
+        "Required Records for Trajectory Split"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_modern_error_scale_6ad6ca",
+      "title": "Are Modern Meteor Errors Large Enough to Reach Kecksburg?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Meteor Trajectory Modeling Workflow",
+        "Kecksburg vs. Lake Erie Gap",
+        "Meteor Trajectory Error Sources"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_camera_triangula_1f9911",
+      "title": "How Two Michigan Photos Fixed the Fireball's Path",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Triangulation of the 1965 Fireball Path",
+        "Eyewitness Perception vs. Geometric Evidence",
+        "Limitations of the Michigan Photographs"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_event_hypothesis_0e38b7",
+      "title": "Were the Fireball and Kecksburg Reports Separate Events?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Kecksburg Local Response Time line",
+        "Two Event Hypothesis vs. Single Narrative",
+        "Regional Fireball Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_wind_distortion_limi_8b49ad",
+      "title": "Could High Altitude Winds Mislead the Kecksburg Reconstruction?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Persistent Train Atmospheric Deformation",
+        "Kecksburg Reconstruction Error Analysis",
+        "Persistent Train Deformation Types"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.6,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe",
+      "title": "How Did the Witness Story Grow?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "tug_of_war",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Kecksburg Narrative",
+        "Witness Categories in Kecksburg",
+        "Mechanisms of Memory Distortion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_early_reports_memory_f1dc8d",
+      "title": "What Did Kecksburg Witnesses Say First?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "December 1965 Kecksburg News Time line",
+        "Kecksburg Narrative Evolution Comparison",
+        "Missing Details in 1965 Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_interview_framing_ke_506942",
+      "title": "How Interviewers Shaped the Kecksburg Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kecksburg UFO Witness Interview Evolution",
+        "Investigative vs Television Interviewing",
+        "Factors Influencing Witness Recollection"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_kecksburg_collective_85efd7",
+      "title": "How Kecksburg Became a Community Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Kecksburg UFO Festival Narrative Cycle",
+        "Kecksburg Incident Interpretations",
+        "Kecksburg Space Acorn Symbolism"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_neighbour_talk_misin_216da3",
+      "title": "How Community Talk Could Reshape Kecksburg Memories",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Memory Distortion",
+        "Corroboration vs Shared Reconstruction",
+        "Kecksburg Incident Memory Drivers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_retelling_witness_co_d61d9e",
+      "title": "Why Kecksburg Stories Grew More Certain",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Memory Reconstruction in Kecksburg Accounts",
+        "Confidence vs. Historical Accuracy",
+        "Kecksburg Witness Testimony Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_source_confusion_tes_bcf753",
+      "title": "Did Witnesses Remember Seeing or Hearing It?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Source Monitoring Errors",
+        "Vulnerable Kecksburg Narrative Details",
+        "Interpreting Kecksburg Witness Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

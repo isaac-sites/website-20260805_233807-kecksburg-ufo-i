@@ -1,0 +1,2928 @@
+{
+  "generated_at": "2026-08-05T23:25:57",
+  "passed": true,
+  "baseline": {
+    "article_pages": 242,
+    "amazon_specific_pages": 205,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Kecksburg_UFO_incide_ab793e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_acorn_monument_resto_92fc49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_acorn_prop_design_ac7d4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_fire_department_acor_694980": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_prop_after_filming_5a14ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_roadside_attraction_557411": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_symbol_band_visual_m_2e3cec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_direct_vs_covered_si_a0d1f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_kecksburg_object_sha_4bce8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_late_testimony_timel_7df499": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_romansky_symbol_band_e43716": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_unsolved_mysteries_p_c2e86e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_witness_corroboratio_0c01a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_aircraft_missile_che_96ef92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_crash_theory_rejecte_c06a49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_early_crash_signals_78a003": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_expected_crash_wreck_97e008": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_night_search_limits_d949f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_response_escalation_b2239e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_blue_book_credibilit_2ffb77": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_kosmos_96_timing_pro_0b34f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_kosmos_mission_secre_29cc55": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_dust_recovery_c_425aa6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_secret_aircraft_ufo_3ef2a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_u2_cover_story_trust_2be989": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_john_murphy_missing_027d8b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_cordon_con_7c2552": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_geiger_cou_2dc4b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_headline_s_776186": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_memory_con_0d700a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_missing_acorn_early_65b60a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_acorn_craft_testimon_0a3938": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_fireball_trajectory_b0c45e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kecksburg_official_s_8dbebe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kosmos_96_reentry_59d4de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_military_convoy_clai_4a8b6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_nasa_missing_records_c508f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_angular_speed_proxim_5273b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_fireball_cloud_light_d252ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_fireball_trajectory_dfa43d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_horizon_false_landin_cbb01a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_multiple_towns_local_7f4587": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_sonic_boom_false_loc_76c136": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_direction_d_791747": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_photo_endpo_a050a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_shock_waves_b32821": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_kecksburg_search_res_7d7dac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_kecksburg_story_entr_c8de6d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_scattered_impact_rep_2ff5e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_battle_creek_stone_c_25ef48": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_elyria_fire_debris_r_a04f81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_fragment_origin_iden_2a61ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_great_lakes_strewn_f_835139": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_jackson_wire_fragmen_c1cc06": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_livonia_metal_proven_6b0508": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_hydrazine_debris_ris_ec9767": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_kosmos_954_cleanup_b4964e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_moon_dust_debris_rec_989e8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_radioactive_satellit_14dab6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_space_debris_first_r_876a7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_stored_energy_debris_21214a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_air_force_geiger_sea_d306b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_blue_book_search_rec_a5ddde": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_early_civilian_searc_8da848": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_ed_myers_search_acco_c99579": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_firefighter_object_a_902885": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_kecksburg_police_cor_f2ba2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_launch_fail_37e3b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_orbit_uncer_59a67e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_same_day_co_3cd207": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_shape_promp_052087": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_timing_conf_0ea2a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_soviet_debris_milita_e604e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_bright_fireballs_tin_11478a": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_dark_flight_off_cour_74f989": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_ribbeck_search_zone_fc7e89": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_strewn_fields_search_940368": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_wind_model_fall_zone_e00237": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_woodland_meteorite_s_fa9f5c": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_detroit_trail_photos_d39d5b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_false_landing_perspe_e22a0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_meteor_fragmentation_480a7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_persistent_meteor_tr_8db16b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_pilot_sightings_time_d86926": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_seismograph_shock_wa_3beae2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_jerry_betters_truck_f2415a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_john_hays_truck_test_4620ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_kecksburg_convoy_gua_853609": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_kecksburg_ohio_truck_856c13": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_lockbourne_wright_pa_92049a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_retrieval_convoy_mis_9d9d19": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_credible_kecksburg_f_6b8a9a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_fireball_trajectory_9b9ccf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_kecksburg_ground_tra_0abfef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_modern_fireball_reco_57d7c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_murphy_missing_photo_8f61f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_nasa_lost_debris_rec_6a8619": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_elyria_grass_fires_812351": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_fireball_false_dista_a6624e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_lake_st_clair_search_a2acce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_lapeer_radar_chaff_744ccc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_michigan_meteor_wron_9756d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_sanderson_false_rout_640527": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_ap_no_object_reports_98e9bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_cordon_vs_no_object_aff359": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_deadline_reporting_d_1ed33a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_early_headline_landi_09cba7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_federal_post_search_dc67e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_regional_fireball_co_7e1c08": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_geiger_counter_claim_deb383": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_kecksburg_headline_s_776186": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_nasa_records_lawsuit_90a24e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_negative_search_limi_1ed382": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_official_denial_dist_82bb78": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_official_meteor_expl_ce189d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_darkness_terrain_mis_bd9c34": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_farm_equipment_candi_5fe9d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_industrial_object_ma_e3608d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_preexisting_object_r_af2bd2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_search_equipment_mis_09a387": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_two_event_story_fusi_f78c9c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_debris_vs_fireball_a7f933": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_military_secrecy_ufo_d52873": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_project_mogul_compar_490c2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_roswell_press_releas_e74886": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_television_roswell_r_0d3729": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_why_pennsylvanias_ro_709aba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_blue_book_limited_au_15a1d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_early_meteor_press_e_f46a41": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_missing_recovery_rec_b83ab3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_sanitized_blue_book_e38bab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_scattered_kecksburg_3828f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_space_debris_kosmos_787407": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_classified_lost_neve_b3173c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_federal_recordkeepin_05700e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_foia_limits_kecksbur_057cdd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_missing_kecksburg_re_cecdc6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_nasa_changing_kecksb_69b74b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_nasa_foia_search_fai_c92041": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_aircraft_missile_inv_f7e4b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_army_engineers_scien_363191": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_kecksburg_crash_risk_a093ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_radiation_unknown_sp_be6fea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_reentry_debris_hazar_3a6863": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_response_larger_than_aa499f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_kecksburg_capsule_si_823936": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_mark_2_match_tested_934cf1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_reentry_steering_lim_d35311": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_secret_vehicle_types_a8e3e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_thor_agena_timeline_35558f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_x23_prime_timing_62d66b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_ballistic_vs_fragmen_490f4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_booms_meteor_vs_reen_b1761d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_delayed_boom_false_i_4b1833": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_modern_sensors_kecks_568189": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_seismic_proof_ground_dc0fba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_terrain_weather_boom_a07d0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_archive_audit_0adaa5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_interview_che_f5c5a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_witness_netwo_007d85": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_kecksburg_witness_ty_a615c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_preserved_kecksburg_ab0486": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_television_witness_w_92fa04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733_broadcast_reframed_m_d0e9ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733_kecksburg_filming_op_0125a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733_later_programs_kecks_0f97ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733_reconstruction_vs_re_232681": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733_ufo_festival_local_i_4d88ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733_vast_of_night_influe_b38a97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_dark_flight_distance_786023": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_kecksburg_fragment_p_edfe54": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_modern_error_scale_6ad6ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_camera_triangula_1f9911": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_event_hypothesis_0e38b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_wind_distortion_limi_8b49ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_early_reports_memory_f1dc8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_interview_framing_ke_506942": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_kecksburg_collective_85efd7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_neighbour_talk_misin_216da3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_retelling_witness_co_d61d9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_source_confusion_tes_bcf753": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Kecksburg_UFO_incide_ab793e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_acorn_monument_resto_92fc49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_acorn_prop_design_ac7d4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_fire_department_acor_694980": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_prop_after_filming_5a14ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_roadside_attraction_557411": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_symbol_band_visual_m_2e3cec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_direct_vs_covered_si_a0d1f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_kecksburg_object_sha_4bce8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_late_testimony_timel_7df499": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_romansky_symbol_band_e43716": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_unsolved_mysteries_p_c2e86e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_witness_corroboratio_0c01a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_aircraft_missile_che_96ef92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_crash_theory_rejecte_c06a49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_early_crash_signals_78a003": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_expected_crash_wreck_97e008": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_night_search_limits_d949f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_response_escalation_b2239e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_blue_book_credibilit_2ffb77": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_kosmos_96_timing_pro_0b34f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_kosmos_mission_secre_29cc55": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_dust_recovery_c_425aa6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_secret_aircraft_ufo_3ef2a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_u2_cover_story_trust_2be989": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_john_murphy_missing_027d8b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_cordon_con_7c2552": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_geiger_cou_2dc4b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_headline_s_776186": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_memory_con_0d700a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_missing_acorn_early_65b60a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_acorn_craft_testimon_0a3938": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_fireball_trajectory_b0c45e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kecksburg_official_s_8dbebe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kosmos_96_reentry_59d4de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_military_convoy_clai_4a8b6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_nasa_missing_records_c508f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_angular_speed_proxim_5273b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_fireball_cloud_light_d252ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_fireball_trajectory_dfa43d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_horizon_false_landin_cbb01a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_multiple_towns_local_7f4587": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_sonic_boom_false_loc_76c136": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_direction_d_791747": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_photo_endpo_a050a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_shock_waves_b32821": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_kecksburg_search_res_7d7dac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_kecksburg_story_entr_c8de6d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_scattered_impact_rep_2ff5e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_battle_creek_stone_c_25ef48": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_elyria_fire_debris_r_a04f81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_fragment_origin_iden_2a61ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_great_lakes_strewn_f_835139": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_jackson_wire_fragmen_c1cc06": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_livonia_metal_proven_6b0508": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_hydrazine_debris_ris_ec9767": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_kosmos_954_cleanup_b4964e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_moon_dust_debris_rec_989e8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_radioactive_satellit_14dab6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_space_debris_first_r_876a7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_stored_energy_debris_21214a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_air_force_geiger_sea_d306b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_blue_book_search_rec_a5ddde": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_early_civilian_searc_8da848": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_ed_myers_search_acco_c99579": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_firefighter_object_a_902885": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_kecksburg_police_cor_f2ba2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_launch_fail_37e3b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_orbit_uncer_59a67e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_same_day_co_3cd207": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_shape_promp_052087": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_timing_conf_0ea2a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_soviet_debris_milita_e604e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_bright_fireballs_tin_11478a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_dark_flight_off_cour_74f989": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_ribbeck_search_zone_fc7e89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_strewn_fields_search_940368": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_wind_model_fall_zone_e00237": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_woodland_meteorite_s_fa9f5c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_detroit_trail_photos_d39d5b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_false_landing_perspe_e22a0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_meteor_fragmentation_480a7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_persistent_meteor_tr_8db16b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_pilot_sightings_time_d86926": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_seismograph_shock_wa_3beae2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_jerry_betters_truck_f2415a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_john_hays_truck_test_4620ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_kecksburg_convoy_gua_853609": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_kecksburg_ohio_truck_856c13": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_lockbourne_wright_pa_92049a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_retrieval_convoy_mis_9d9d19": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_credible_kecksburg_f_6b8a9a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_fireball_trajectory_9b9ccf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_kecksburg_ground_tra_0abfef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_modern_fireball_reco_57d7c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_murphy_missing_photo_8f61f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_nasa_lost_debris_rec_6a8619": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_elyria_grass_fires_812351": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_fireball_false_dista_a6624e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_lake_st_clair_search_a2acce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_lapeer_radar_chaff_744ccc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_michigan_meteor_wron_9756d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_sanderson_false_rout_640527": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_ap_no_object_reports_98e9bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_cordon_vs_no_object_aff359": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_deadline_reporting_d_1ed33a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_early_headline_landi_09cba7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_federal_post_search_dc67e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_regional_fireball_co_7e1c08": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_geiger_counter_claim_deb383": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_kecksburg_headline_s_776186": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_nasa_records_lawsuit_90a24e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_negative_search_limi_1ed382": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_official_denial_dist_82bb78": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_official_meteor_expl_ce189d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_darkness_terrain_mis_bd9c34": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_farm_equipment_candi_5fe9d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_industrial_object_ma_e3608d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_preexisting_object_r_af2bd2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_search_equipment_mis_09a387": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_two_event_story_fusi_f78c9c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_debris_vs_fireball_a7f933": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_military_secrecy_ufo_d52873": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_project_mogul_compar_490c2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_roswell_press_releas_e74886": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_television_roswell_r_0d3729": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_why_pennsylvanias_ro_709aba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_blue_book_limited_au_15a1d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_early_meteor_press_e_f46a41": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_missing_recovery_rec_b83ab3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_sanitized_blue_book_e38bab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_scattered_kecksburg_3828f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_space_debris_kosmos_787407": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_classified_lost_neve_b3173c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_federal_recordkeepin_05700e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_foia_limits_kecksbur_057cdd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_missing_kecksburg_re_cecdc6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_nasa_changing_kecksb_69b74b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_nasa_foia_search_fai_c92041": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_aircraft_missile_inv_f7e4b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_army_engineers_scien_363191": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_kecksburg_crash_risk_a093ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_radiation_unknown_sp_be6fea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_reentry_debris_hazar_3a6863": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_response_larger_than_aa499f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_kecksburg_capsule_si_823936": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_mark_2_match_tested_934cf1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_reentry_steering_lim_d35311": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_secret_vehicle_types_a8e3e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_thor_agena_timeline_35558f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_x23_prime_timing_62d66b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_ballistic_vs_fragmen_490f4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_booms_meteor_vs_reen_b1761d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_delayed_boom_false_i_4b1833": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_modern_sensors_kecks_568189": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_seismic_proof_ground_dc0fba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_terrain_weather_boom_a07d0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_archive_audit_0adaa5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_interview_che_f5c5a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_witness_netwo_007d85": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_kecksburg_witness_ty_a615c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_preserved_kecksburg_ab0486": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_television_witness_w_92fa04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733_broadcast_reframed_m_d0e9ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733_kecksburg_filming_op_0125a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733_later_programs_kecks_0f97ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733_reconstruction_vs_re_232681": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733_ufo_festival_local_i_4d88ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_television_national_641733_vast_of_night_influe_b38a97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_dark_flight_distance_786023": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_kecksburg_fragment_p_edfe54": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_modern_error_scale_6ad6ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_camera_triangula_1f9911": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_event_hypothesis_0e38b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_wind_distortion_limi_8b49ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_early_reports_memory_f1dc8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_interview_framing_ke_506942": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_kecksburg_collective_85efd7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_neighbour_talk_misin_216da3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_retelling_witness_co_d61d9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_source_confusion_tes_bcf753": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 242,
+  "regressions": []
+}

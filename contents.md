@@ -1,0 +1,4403 @@
+---
+layout: default
+title: "Contents"
+permalink: /contents/
+home: true
+contents_page: true
+description: Browse the full structured site index.
+---
+
+<section class="home-structure-intro home-structure-intro--public-compact home-structure-intro--indexed-hierarchy" data-home-public-intro>
+<div class="home-structure-intro-copy">
+<p class="home-structure-intro-kicker">Topic guide</p>
+<h1 class="home-structure-intro-title">Kecksburg UFO incide</h1>
+<p class="home-structure-intro-summary">A practical guide to Kecksburg UFO incide, from the main overview to focused routes through the topic.</p>
+<div class="home-structure-actions" aria-label="Homepage starting points">
+<a class="home-structure-action home-structure-action-primary" href="/kecksburg-ufo-incident/">Start here</a>
+<a class="home-structure-action home-structure-action-secondary" href="#browse-reports">Browse or search</a>
+</div>
+</div>
+</section>
+
+<section class="home-adaptive-home home-adaptive-home--indexed-hierarchy" data-home-archetype="indexed-hierarchy" data-home-level-1-count="1" data-home-level-1-tier="solo" data-home-top-child-tier="overflow" data-home-max-breadth="180" data-home-max-depth="2">
+<section id="home-full-index" class="home-mode-panel is-active home-adaptive-secondary" data-home-mode-panel="vertical" data-home-mode-label="Topic view">
+<section id="home-vertical-view" class="home-hierarchy-band home-vertical-shell" data-home-vertical-map data-home-vertical-l1-count="30" data-home-vertical-top-count="1">
+<div class="home-vertical-actions" role="group" aria-label="Topic view controls">
+<button class="sidebar-tree-btn" type="button" data-home-vertical-expand-all>Expand all</button>
+<button class="sidebar-tree-btn" type="button" data-home-vertical-collapse-all>Collapse all</button>
+</div>
+<div class="home-vertical-tree" data-home-vertical-tree>
+<div class="home-vertical-node is-expanded is-locked-open" data-depth="1" data-level="1" data-node-id="node-kecksburg-ufo-incide-ab793e" data-semantic-level="root" data-home-vertical-locked-open="true" id="topic-vertical-kecksburg-ufo-incide-ab793e">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer home-vertical-toggle-spacer-locked" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-root" data-depth="1" data-level="1" data-node-id="node-kecksburg-ufo-incide-ab793e" data-node-kind="root" data-semantic-level="root">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'kecksburg-ufo-incident/' | relative_url }}" title="Kecksburg" aria-label="Open page: Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e-photo1.webp' | relative_url }}" alt="Overview image for Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Kecksburg</span>
+<span class="ct-node-summary">The Kecksburg UFO incident began on 9 December 1965, when a brilliant fireball crossed the skies of the Great Lakes region and reports emerged that something had fallen into woodland near Kecksburg, Pennsylvania.</span>
+</span>
+</a>
+<span class="ct-node-badge" title="211 pages" aria-label="211 pages">211 pages</span>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kecksburg-ufo-incident/' | relative_url }}" title="Kecksburg" aria-label="Read more about Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e">
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'account-changes/' | relative_url }}" title="What Changed Between 1965 and Later Retellings? | Kecksburg" aria-label="Open page: What Changed Between 1965 and Later Retellings? | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf-overview.webp' | relative_url }}" alt="Overview image for What Changed Between 1965 and Later Retellings? | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Account Changes</span>
+<span class="ct-node-title-full">What Changed Between 1965 and Later Retellings?</span>
+<span class="ct-node-summary">Comparing contemporary reports with later interviews reveals where the Kecksburg narrative gained new detail and certainty.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Changed Between 1965 and Later Retellings? | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'account-changes/' | relative_url }}" title="What Changed Between 1965 and Later Retellings? | Kecksburg" aria-label="Read more about What Changed Between 1965 and Later Retellings? | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-memory-con-0d700a" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-memory-con-0d700a" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'memory-convergence/' | relative_url }}" title="Did Kecksburg Memories Grow More Alike? | Account Changes" aria-label="Open page: Did Kecksburg Memories Grow More Alike? | Account Changes">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_memory_con_0d700a-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Kecksburg Memories Grow More Alike? | Account Changes" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Memory Convergence</span>
+<span class="ct-node-title-full">Did Kecksburg Memories Grow More Alike?</span>
+<span class="ct-node-summary">Repeated interviews, documentaries and shared retellings may have made separate memories more detailed and more alike without proving fabrication.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'memory-convergence/' | relative_url }}" title="Did Kecksburg Memories Grow More Alike? | Account Changes" aria-label="Read more about Did Kecksburg Memories Grow More Alike? | Account Changes">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-cordon-con-7c2552" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-cordon-con-7c2552" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cordon-meaning/' | relative_url }}" title="Did the Kecksburg Cordon Hide a Recovery? | Account Changes" aria-label="Open page: Did the Kecksburg Cordon Hide a Recovery? | Account Changes">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_cordon_con_7c2552-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Kecksburg Cordon Hide a Recovery? | Account Changes" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Cordon Meaning</span>
+<span class="ct-node-title-full">Did the Kecksburg Cordon Hide a Recovery?</span>
+<span class="ct-node-summary">A documented safety perimeter was later recast as evidence that authorities already knew a craft had landed and intended to hide it.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cordon-meaning/' | relative_url }}" title="Did the Kecksburg Cordon Hide a Recovery? | Account Changes" aria-label="Read more about Did the Kecksburg Cordon Hide a Recovery? | Account Changes">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-headline-s-776186" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-headline-s-776186" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'headline-shift/' | relative_url }}" title="How the Kecksburg Story Changed Overnight | Account Changes" aria-label="Open page: How the Kecksburg Story Changed Overnight | Account Changes">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_headline_s_776186-Illustration-1.webp' | relative_url }}" alt="Overview image for How the Kecksburg Story Changed Overnight | Account Changes" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Headline Shift</span>
+<span class="ct-node-title-full">How the Kecksburg Story Changed Overnight</span>
+<span class="ct-node-summary">The first day&#x27;s reports moved from a suspected fall and sealed woods to an official claim that searchers had found nothing.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'headline-shift/' | relative_url }}" title="How the Kecksburg Story Changed Overnight | Account Changes" aria-label="Read more about How the Kecksburg Story Changed Overnight | Account Changes">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-john-murphy-missing-027d8b" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-john-murphy-missing-027d8b" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'murphy-claims/' | relative_url }}" title="What Happened to John Murphy&#x27;s Evidence? | Account Changes" aria-label="Open page: What Happened to John Murphy&#x27;s Evidence? | Account Changes">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_john_murphy_missing_027d8b-Illustration-1.webp' | relative_url }}" alt="Overview image for What Happened to John Murphy&#x27;s Evidence? | Account Changes" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Murphy Claims</span>
+<span class="ct-node-title-full">What Happened to John Murphy&#x27;s Evidence?</span>
+<span class="ct-node-summary">The alleged removal of John Murphy&#x27;s photographs and broadcast material rests mainly on later recollections rather than surviving records.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'murphy-claims/' | relative_url }}" title="What Happened to John Murphy&#x27;s Evidence? | Account Changes" aria-label="Read more about What Happened to John Murphy&#x27;s Evidence? | Account Changes">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-missing-acorn-early-65b60a" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-missing-acorn-early-65b60a" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-acorn/' | relative_url }}" title="Where Was the Acorn in 1965? | Account Changes" aria-label="Open page: Where Was the Acorn in 1965? | Account Changes">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_missing_acorn_early_65b60a-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Was the Acorn in 1965? | Account Changes" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Missing Acorn</span>
+<span class="ct-node-title-full">Where Was the Acorn in 1965?</span>
+<span class="ct-node-summary">Contemporary coverage documented a search but did not record the detailed metallic shape, symbol band or buried craft described later.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-acorn/' | relative_url }}" title="Where Was the Acorn in 1965? | Account Changes" aria-label="Read more about Where Was the Acorn in 1965? | Account Changes">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-geiger-cou-2dc4b1" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-geiger-cou-2dc4b1" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'geiger-counters/' | relative_url }}" title="Why Were Geiger Counters at Kecksburg? | Account Changes" aria-label="Open page: Why Were Geiger Counters at Kecksburg? | Account Changes">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_geiger_cou_2dc4b1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Were Geiger Counters at Kecksburg? | Account Changes" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Geiger Counters</span>
+<span class="ct-node-title-full">Why Were Geiger Counters at Kecksburg?</span>
+<span class="ct-node-summary">Radiation detectors were a sensible precaution for unknown aerospace debris, but later retellings made them seem like proof of an exotic object.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'geiger-counters/' | relative_url }}" title="Why Were Geiger Counters at Kecksburg? | Account Changes" aria-label="Read more about Why Were Geiger Counters at Kecksburg? | Account Changes">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'acorn-monument/' | relative_url }}" title="Why Kecksburg Built a Giant Acorn" aria-label="Open page: Why Kecksburg Built a Giant Acorn">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8-overview.webp' | relative_url }}" alt="Overview image for Why Kecksburg Built a Giant Acorn" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Acorn Monument</span>
+<span class="ct-node-title-full">Why Kecksburg Built a Giant Acorn</span>
+<span class="ct-node-summary">The town&#x27;s famous acorn monument was based on a television prop rather than a verified object recovered in 1965.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Kecksburg Built a Giant Acorn" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'acorn-monument/' | relative_url }}" title="Why Kecksburg Built a Giant Acorn" aria-label="Read more about Why Kecksburg Built a Giant Acorn">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-prop-after-filming-5a14ff" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-prop-after-filming-5a14ff" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'after-filming/' | relative_url }}" title="How a TV Prop Stayed in Kecksburg | Acorn Monument" aria-label="Open page: How a TV Prop Stayed in Kecksburg | Acorn Monument">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_prop_after_filming_5a14ff-Illustration-1.webp' | relative_url }}" alt="Overview image for How a TV Prop Stayed in Kecksburg | Acorn Monument" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">After Filming</span>
+<span class="ct-node-title-full">How a TV Prop Stayed in Kecksburg</span>
+<span class="ct-node-summary">After production ended, the model remained in Kecksburg and gradually shifted from abandoned scenery into a community-owned landmark.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'after-filming/' | relative_url }}" title="How a TV Prop Stayed in Kecksburg | Acorn Monument" aria-label="Read more about How a TV Prop Stayed in Kecksburg | Acorn Monument">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-acorn-prop-design-ac7d4c" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-acorn-prop-design-ac7d4c" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'prop-design/' | relative_url }}" title="How Television Gave Kecksburg Its Acorn Shape | Acorn Monument" aria-label="Open page: How Television Gave Kecksburg Its Acorn Shape | Acorn Monument">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_acorn_prop_design_ac7d4c-Illustration-1.webp' | relative_url }}" alt="Overview image for How Television Gave Kecksburg Its Acorn Shape | Acorn Monument" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Prop Design</span>
+<span class="ct-node-title-full">How Television Gave Kecksburg Its Acorn Shape</span>
+<span class="ct-node-summary">The television model turned disputed witness descriptions into a single, memorable shape with a flange, metallic surface and symbol-like markings.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'prop-design/' | relative_url }}" title="How Television Gave Kecksburg Its Acorn Shape | Acorn Monument" aria-label="Read more about How Television Gave Kecksburg Its Acorn Shape | Acorn Monument">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-symbol-band-visual-m-2e3cec" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-symbol-band-visual-m-2e3cec" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'symbol-band-2e1662/' | relative_url }}" title="How TV Fixed Kecksburg&#x27;s Mysterious Symbols | Acorn Monument" aria-label="Open page: How TV Fixed Kecksburg&#x27;s Mysterious Symbols | Acorn Monument">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_symbol_band_visual_m_2e3cec-Illustration-1.webp' | relative_url }}" alt="Overview image for How TV Fixed Kecksburg&#x27;s Mysterious Symbols | Acorn Monument" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Symbol Band</span>
+<span class="ct-node-title-full">How TV Fixed Kecksburg&#x27;s Mysterious Symbols</span>
+<span class="ct-node-summary">Stylized markings on the prop gave an imprecise witness claim a definite pattern that later photographs and broadcasts repeatedly reinforced.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'symbol-band-2e1662/' | relative_url }}" title="How TV Fixed Kecksburg&#x27;s Mysterious Symbols | Acorn Monument" aria-label="Read more about How TV Fixed Kecksburg&#x27;s Mysterious Symbols | Acorn Monument">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-roadside-attraction-557411" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-roadside-attraction-557411" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'attraction-or-evidence/' | relative_url }}" title="Monument, Replica or Evidence From 1965? | Acorn Monument" aria-label="Open page: Monument, Replica or Evidence From 1965? | Acorn Monument">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_roadside_attraction_557411-Illustration-1.webp' | relative_url }}" alt="Overview image for Monument, Replica or Evidence From 1965? | Acorn Monument" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Attraction or Evidence</span>
+<span class="ct-node-title-full">Monument, Replica or Evidence From 1965?</span>
+<span class="ct-node-summary">Its location, presentation and documented origin identify the acorn as a commemorative attraction rather than recovered wreckage or a...</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'attraction-or-evidence/' | relative_url }}" title="Monument, Replica or Evidence From 1965? | Acorn Monument" aria-label="Read more about Monument, Replica or Evidence From 1965? | Acorn Monument">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-acorn-monument-resto-92fc49" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-acorn-monument-resto-92fc49" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'monument-makeover/' | relative_url }}" title="When the Kecksburg Prop Became a Landmark | Acorn Monument" aria-label="Open page: When the Kecksburg Prop Became a Landmark | Acorn Monument">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_acorn_monument_resto_92fc49-Illustration-1.webp' | relative_url }}" alt="Overview image for When the Kecksburg Prop Became a Landmark | Acorn Monument" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Monument Makeover</span>
+<span class="ct-node-title-full">When the Kecksburg Prop Became a Landmark</span>
+<span class="ct-node-summary">Repairs, repainting, elevation and lighting transformed the aging prop into a deliberate roadside landmark rather than leftover television scenery.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'monument-makeover/' | relative_url }}" title="When the Kecksburg Prop Became a Landmark | Acorn Monument" aria-label="Read more about When the Kecksburg Prop Became a Landmark | Acorn Monument">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-fire-department-acor-694980" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-fire-department-acor-694980" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fire-department/' | relative_url }}" title="Why Kecksburg&#x27;s Firefighters Embraced the Acorn | Acorn Monument" aria-label="Open page: Why Kecksburg&#x27;s Firefighters Embraced the Acorn | Acorn Monument">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_fire_department_acor_694980-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Kecksburg&#x27;s Firefighters Embraced the Acorn | Acorn Monument" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Fire Department</span>
+<span class="ct-node-title-full">Why Kecksburg&#x27;s Firefighters Embraced the Acorn</span>
+<span class="ct-node-summary">The volunteer fire department used the monument as a civic emblem that could attract visitors, support events and help fund emergency equipment.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fire-department/' | relative_url }}" title="Why Kecksburg&#x27;s Firefighters Embraced the Acorn | Acorn Monument" aria-label="Read more about Why Kecksburg&#x27;s Firefighters Embraced the Acorn | Acorn Monument">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'acorn-object/' | relative_url }}" title="Did Witnesses See a Metallic Acorn? | Kecksburg" aria-label="Open page: Did Witnesses See a Metallic Acorn? | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d-photo1.webp' | relative_url }}" alt="Overview image for Did Witnesses See a Metallic Acorn? | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Acorn Object</span>
+<span class="ct-node-title-full">Did Witnesses See a Metallic Acorn?</span>
+<span class="ct-node-summary">Later witnesses described a metallic acorn or bell with a raised band and strange markings, but no verified photograph survives.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Did Witnesses See a Metallic Acorn? | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'acorn-object/' | relative_url }}" title="Did Witnesses See a Metallic Acorn? | Kecksburg" aria-label="Read more about Did Witnesses See a Metallic Acorn? | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-unsolved-mysteries-p-c2e86e" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-unsolved-mysteries-p-c2e86e" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'tv-prop/' | relative_url }}" title="How a TV Prop Defined Kecksburg&#x27;s UFO | Acorn Object" aria-label="Open page: How a TV Prop Defined Kecksburg&#x27;s UFO | Acorn Object">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_unsolved_mysteries_p_c2e86e-Illustration-1.webp' | relative_url }}" alt="Overview image for How a TV Prop Defined Kecksburg&#x27;s UFO | Acorn Object" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">TV Prop</span>
+<span class="ct-node-title-full">How a TV Prop Defined Kecksburg&#x27;s UFO</span>
+<span class="ct-node-summary">A television reconstruction turned witness descriptions into a polished three-dimensional object that later influenced how the incident was...</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tv-prop/' | relative_url }}" title="How a TV Prop Defined Kecksburg&#x27;s UFO | Acorn Object" aria-label="Read more about How a TV Prop Defined Kecksburg&#x27;s UFO | Acorn Object">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-witness-corroboratio-0c01a0" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-witness-corroboratio-0c01a0" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'corroboration/' | relative_url }}" title="Independent Witnesses or One Shared Kecksburg Story? | Acorn Object" aria-label="Open page: Independent Witnesses or One Shared Kecksburg Story? | Acorn Object">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_witness_corroboratio_0c01a0-Illustration-1.webp' | relative_url }}" alt="Overview image for Independent Witnesses or One Shared Kecksburg Story? | Acorn Object" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Corroboration</span>
+<span class="ct-node-title-full">Independent Witnesses or One Shared Kecksburg Story?</span>
+<span class="ct-node-summary">Shared details may reflect independent observation, but they may also reflect community discussion, common interviewers and later media exposure.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'corroboration/' | relative_url }}" title="Independent Witnesses or One Shared Kecksburg Story? | Acorn Object" aria-label="Read more about Independent Witnesses or One Shared Kecksburg Story? | Acorn Object">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-romansky-symbol-band-e43716" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-romansky-symbol-band-e43716" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'symbol-band/' | relative_url }}" title="Were Kecksburg&#x27;s Symbols Really Hieroglyphics? | Acorn Object" aria-label="Open page: Were Kecksburg&#x27;s Symbols Really Hieroglyphics? | Acorn Object">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_romansky_symbol_band_e43716-Illustration-1.webp' | relative_url }}" alt="Overview image for Were Kecksburg&#x27;s Symbols Really Hieroglyphics? | Acorn Object" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Symbol Band</span>
+<span class="ct-node-title-full">Were Kecksburg&#x27;s Symbols Really Hieroglyphics?</span>
+<span class="ct-node-summary">The famous hieroglyphics claim rests on a narrower account of unfamiliar marks confined to a raised band near one end.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'symbol-band/' | relative_url }}" title="Were Kecksburg&#x27;s Symbols Really Hieroglyphics? | Acorn Object" aria-label="Read more about Were Kecksburg&#x27;s Symbols Really Hieroglyphics? | Acorn Object">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-kecksburg-object-sha-4bce8d" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-kecksburg-object-sha-4bce8d" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'object-shape/' | relative_url }}" title="What Shape Was the Kecksburg Object Really? | Acorn Object" aria-label="Open page: What Shape Was the Kecksburg Object Really? | Acorn Object">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_kecksburg_object_sha_4bce8d-Illustration-1.webp' | relative_url }}" alt="Overview image for What Shape Was the Kecksburg Object Really? | Acorn Object" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Object Shape</span>
+<span class="ct-node-title-full">What Shape Was the Kecksburg Object Really?</span>
+<span class="ct-node-summary">Witness descriptions overlap on a rounded metal body, but differences in orientation and wording complicate any single reconstruction.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'object-shape/' | relative_url }}" title="What Shape Was the Kecksburg Object Really? | Acorn Object" aria-label="Read more about What Shape Was the Kecksburg Object Really? | Acorn Object">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-direct-vs-covered-si-a0d1f3" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-direct-vs-covered-si-a0d1f3" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sightings-compared/' | relative_url }}" title="Who Actually Saw the Acorn Shaped Object? | Acorn Object" aria-label="Open page: Who Actually Saw the Acorn Shaped Object? | Acorn Object">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_direct_vs_covered_si_a0d1f3-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Actually Saw the Acorn Shaped Object? | Acorn Object" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Sightings Compared</span>
+<span class="ct-node-title-full">Who Actually Saw the Acorn Shaped Object?</span>
+<span class="ct-node-summary">Accounts of an uncovered object, a distant glow and a tarpaulin-covered load provide very different levels of visual confirmation.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sightings-compared/' | relative_url }}" title="Who Actually Saw the Acorn Shaped Object? | Acorn Object" aria-label="Read more about Who Actually Saw the Acorn Shaped Object? | Acorn Object">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-late-testimony-timel-7df499" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-late-testimony-timel-7df499" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'late-testimony/' | relative_url }}" title="Why Did the Acorn Story Emerge So Late? | Acorn Object" aria-label="Open page: Why Did the Acorn Story Emerge So Late? | Acorn Object">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_late_testimony_timel_7df499-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did the Acorn Story Emerge So Late? | Acorn Object" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Late Testimony</span>
+<span class="ct-node-title-full">Why Did the Acorn Story Emerge So Late?</span>
+<span class="ct-node-summary">The clearest object descriptions surfaced years after 1965, increasing the risk that memory, local stories and repeated interviews became intertwined.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'late-testimony/' | relative_url }}" title="Why Did the Acorn Story Emerge So Late? | Acorn Object" aria-label="Read more about Why Did the Acorn Story Emerge So Late? | Acorn Object">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'area-cordon/' | relative_url }}" title="Why Was the Search Area Sealed Off? | Kecksburg" aria-label="Open page: Why Was the Search Area Sealed Off? | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822-overview.webp' | relative_url }}" alt="Overview image for Why Was the Search Area Sealed Off? | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Area Cordon</span>
+<span class="ct-node-title-full">Why Was the Search Area Sealed Off?</span>
+<span class="ct-node-summary">A cordon could reflect ordinary crash, missile, debris or radiation precautions rather than proof of an extraordinary recovery.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Was the Search Area Sealed Off? | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'area-cordon/' | relative_url }}" title="Why Was the Search Area Sealed Off? | Kecksburg" aria-label="Read more about Why Was the Search Area Sealed Off? | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-reentry-debris-hazar-3a6863" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-reentry-debris-hazar-3a6863" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'debris-hazards/' | relative_url }}" title="Could Ordinary Space Debris Be Dangerous? | Area Cordon" aria-label="Open page: Could Ordinary Space Debris Be Dangerous? | Area Cordon">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_reentry_debris_hazar_3a6863-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Ordinary Space Debris Be Dangerous? | Area Cordon" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Debris Hazards</span>
+<span class="ct-node-title-full">Could Ordinary Space Debris Be Dangerous?</span>
+<span class="ct-node-summary">An unknown object could contain hot metal, toxic propellant, pressurised tanks or unstable components that made civilian access unsafe.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-hazards/' | relative_url }}" title="Could Ordinary Space Debris Be Dangerous? | Area Cordon" aria-label="Read more about Could Ordinary Space Debris Be Dangerous? | Area Cordon">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-kecksburg-crash-risk-a093ba" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-kecksburg-crash-risk-a093ba" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'crash-risks/' | relative_url }}" title="Was Kecksburg Treated Like an Aircraft Crash? | Area Cordon" aria-label="Open page: Was Kecksburg Treated Like an Aircraft Crash? | Area Cordon">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_kecksburg_crash_risk_a093ba-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Kecksburg Treated Like an Aircraft Crash? | Area Cordon" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Crash Risks</span>
+<span class="ct-node-title-full">Was Kecksburg Treated Like an Aircraft Crash?</span>
+<span class="ct-node-summary">Officials could justify an immediate perimeter while ruling out fire, fuel, explosives, survivors and classified aircraft wreckage.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-risks/' | relative_url }}" title="Was Kecksburg Treated Like an Aircraft Crash? | Area Cordon" aria-label="Read more about Was Kecksburg Treated Like an Aircraft Crash? | Area Cordon">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-aircraft-missile-inv-f7e4b4" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-aircraft-missile-inv-f7e4b4" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'inventory-checks/' | relative_url }}" title="What Were Officials Trying to Rule Out? | Area Cordon" aria-label="Open page: What Were Officials Trying to Rule Out? | Area Cordon">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_aircraft_missile_inv_f7e4b4-Illustration-1.webp' | relative_url }}" alt="Overview image for What Were Officials Trying to Rule Out? | Area Cordon" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Inventory Checks</span>
+<span class="ct-node-title-full">What Were Officials Trying to Rule Out?</span>
+<span class="ct-node-summary">The cordon may have remained in place while officials checked whether any aircraft, missile or military test vehicle was missing.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'inventory-checks/' | relative_url }}" title="What Were Officials Trying to Rule Out? | Area Cordon" aria-label="Read more about What Were Officials Trying to Rule Out? | Area Cordon">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-radiation-unknown-sp-be6fea" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-radiation-unknown-sp-be6fea" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'radiation-checks/' | relative_url }}" title="Why Bring Radiation Detectors to Kecksburg? | Area Cordon" aria-label="Open page: Why Bring Radiation Detectors to Kecksburg? | Area Cordon">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_radiation_unknown_sp_be6fea-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Bring Radiation Detectors to Kecksburg? | Area Cordon" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Radiation Checks</span>
+<span class="ct-node-title-full">Why Bring Radiation Detectors to Kecksburg?</span>
+<span class="ct-node-summary">Geiger counters made sense if officials feared radioactive spacecraft parts, even though no verified radiation reading was reported.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radiation-checks/' | relative_url }}" title="Why Bring Radiation Detectors to Kecksburg? | Area Cordon" aria-label="Read more about Why Bring Radiation Detectors to Kecksburg? | Area Cordon">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-army-engineers-scien-363191" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-army-engineers-scien-363191" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'specialist-teams/' | relative_url }}" title="Why Call Engineers to a Supposed Meteor? | Area Cordon" aria-label="Open page: Why Call Engineers to a Supposed Meteor? | Area Cordon">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_army_engineers_scien_363191-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Call Engineers to a Supposed Meteor? | Area Cordon" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Specialist Teams</span>
+<span class="ct-node-title-full">Why Call Engineers to a Supposed Meteor?</span>
+<span class="ct-node-summary">Technical specialists would have been useful for identifying unfamiliar wreckage, ground disturbance and possible chemical or radiological hazards.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'specialist-teams/' | relative_url }}" title="Why Call Engineers to a Supposed Meteor? | Area Cordon" aria-label="Read more about Why Call Engineers to a Supposed Meteor? | Area Cordon">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-response-larger-than-aa499f" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-response-larger-than-aa499f" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'response-gap/' | relative_url }}" title="Why Did an Empty Search Look Suspicious? | Area Cordon" aria-label="Open page: Why Did an Empty Search Look Suspicious? | Area Cordon">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_response_larger_than_aa499f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did an Empty Search Look Suspicious? | Area Cordon" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Response Gap</span>
+<span class="ct-node-title-full">Why Did an Empty Search Look Suspicious?</span>
+<span class="ct-node-summary">A large initial deployment followed by a claim that nothing was found made normal emergency caution resemble a concealed recovery operation.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'response-gap/' | relative_url }}" title="Why Did an Empty Search Look Suspicious? | Area Cordon" aria-label="Read more about Why Did an Empty Search Look Suspicious? | Area Cordon">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book/' | relative_url }}" title="What Do the Blue Book Records Say? | Kecksburg" aria-label="Open page: What Do the Blue Book Records Say? | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41-photo1.webp' | relative_url }}" alt="Overview image for What Do the Blue Book Records Say? | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Blue Book</span>
+<span class="ct-node-title-full">What Do the Blue Book Records Say?</span>
+<span class="ct-node-summary">Available Blue Book material does not confirm a recovered object or relevant US space-debris entry, but incomplete records sustain debate.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Do the Blue Book Records Say? | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book/' | relative_url }}" title="What Do the Blue Book Records Say? | Kecksburg" aria-label="Read more about What Do the Blue Book Records Say? | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-scattered-kecksburg-3828f9" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-scattered-kecksburg-3828f9" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'scattered-filing/' | relative_url }}" title="Could Kecksburg Records Be Filed Somewhere Else? | Blue Book" aria-label="Open page: Could Kecksburg Records Be Filed Somewhere Else? | Blue Book">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_scattered_kecksburg_3828f9-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Kecksburg Records Be Filed Somewhere Else? | Blue Book" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Scattered Filing</span>
+<span class="ct-node-title-full">Could Kecksburg Records Be Filed Somewhere Else?</span>
+<span class="ct-node-summary">Kecksburg papers may have been indexed by another town, reporting unit or event type, making a narrow place-name search incomplete.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'scattered-filing/' | relative_url }}" title="Could Kecksburg Records Be Filed Somewhere Else? | Blue Book" aria-label="Read more about Could Kecksburg Records Be Filed Somewhere Else? | Blue Book">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-blue-book-limited-au-15a1d3" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-blue-book-limited-au-15a1d3" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book-role/' | relative_url }}" title="What Blue Book Was Actually Responsible For" aria-label="Open page: What Blue Book Was Actually Responsible For">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_blue_book_limited_au_15a1d3-Illustration-1.webp' | relative_url }}" alt="Overview image for What Blue Book Was Actually Responsible For" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Blue Book Role</span>
+<span class="ct-node-title-full">What Blue Book Was Actually Responsible For</span>
+<span class="ct-node-summary">Project Blue Book assessed UFO reports, but it was never the master archive for every military or technical action taken at Kecksburg.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-role/' | relative_url }}" title="What Blue Book Was Actually Responsible For" aria-label="Read more about What Blue Book Was Actually Responsible For">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-sanitized-blue-book-e38bab" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-sanitized-blue-book-e38bab" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sanitized-files/' | relative_url }}" title="What Was Removed From the Public Blue Book Files?" aria-label="Open page: What Was Removed From the Public Blue Book Files?">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_sanitized_blue_book_e38bab-Illustration-1.webp' | relative_url }}" alt="Overview image for What Was Removed From the Public Blue Book Files?" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Sanitized Files</span>
+<span class="ct-node-title-full">What Was Removed From the Public Blue Book Files?</span>
+<span class="ct-node-summary">The public Blue Book collection removed personal identifiers, limiting how easily researchers can trace witnesses, investigators and follow-up...</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sanitized-files/' | relative_url }}" title="What Was Removed From the Public Blue Book Files?" aria-label="Read more about What Was Removed From the Public Blue Book Files?">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-missing-recovery-rec-b83ab3" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-missing-recovery-rec-b83ab3" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-records-c0042c/' | relative_url }}" title="Which Documents Could Prove a Kecksburg Recovery? | Blue Book" aria-label="Open page: Which Documents Could Prove a Kecksburg Recovery? | Blue Book">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_missing_recovery_rec_b83ab3-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Documents Could Prove a Kecksburg Recovery? | Blue Book" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Missing Records</span>
+<span class="ct-node-title-full">Which Documents Could Prove a Kecksburg Recovery?</span>
+<span class="ct-node-summary">Search maps, vehicle logs, photographs, inventories and custody records would be far more decisive than the brief memoranda that survive.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records-c0042c/' | relative_url }}" title="Which Documents Could Prove a Kecksburg Recovery? | Blue Book" aria-label="Read more about Which Documents Could Prove a Kecksburg Recovery? | Blue Book">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-space-debris-kosmos-787407" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-space-debris-kosmos-787407" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'kosmos-conflict/' | relative_url }}" title="Why Blue Book&#x27;s Space Debris Claim Matters" aria-label="Open page: Why Blue Book&#x27;s Space Debris Claim Matters">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_space_debris_kosmos_787407-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Blue Book&#x27;s Space Debris Claim Matters" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Kosmos Conflict</span>
+<span class="ct-node-title-full">Why Blue Book&#x27;s Space Debris Claim Matters</span>
+<span class="ct-node-summary">Blue Book said no known space debris re-entered that day, creating a direct conflict with later claims that Kosmos 96 caused the Kecksburg event.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kosmos-conflict/' | relative_url }}" title="Why Blue Book&#x27;s Space Debris Claim Matters" aria-label="Read more about Why Blue Book&#x27;s Space Debris Claim Matters">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-early-meteor-press-e-f46a41" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-early-meteor-press-e-f46a41" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'early-meteor-call/' | relative_url }}" title="Why Was Kecksburg Called a Meteor So Early? | Blue Book" aria-label="Open page: Why Was Kecksburg Called a Meteor So Early? | Blue Book">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_early_meteor_press_e_f46a41-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Was Kecksburg Called a Meteor So Early? | Blue Book" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Early Meteor Call</span>
+<span class="ct-node-title-full">Why Was Kecksburg Called a Meteor So Early?</span>
+<span class="ct-node-summary">The surviving memo shows the Air Force recommending a meteor explanation for the press while Kecksburg enquiries were still continuing.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'early-meteor-call/' | relative_url }}" title="Why Was Kecksburg Called a Meteor So Early? | Blue Book" aria-label="Read more about Why Was Kecksburg Called a Meteor So Early? | Blue Book">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cold-war-context/' | relative_url }}" title="Why Cold War Secrecy Fuelled the Mystery | Kecksburg" aria-label="Open page: Why Cold War Secrecy Fuelled the Mystery | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3-overview.webp' | relative_url }}" alt="Overview image for Why Cold War Secrecy Fuelled the Mystery | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Cold War Context</span>
+<span class="ct-node-title-full">Why Cold War Secrecy Fuelled the Mystery</span>
+<span class="ct-node-summary">Military secrecy, Soviet space failures and classified US programmes made official denials unusually difficult for the public to trust.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Cold War Secrecy Fuelled the Mystery | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cold-war-context/' | relative_url }}" title="Why Cold War Secrecy Fuelled the Mystery | Kecksburg" aria-label="Read more about Why Cold War Secrecy Fuelled the Mystery | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-kosmos-96-timing-pro-0b34f8" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-kosmos-96-timing-pro-0b34f8" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'kosmos-96-b935f8/' | relative_url }}" title="Could Kosmos 96 Have Reached Kecksburg? | Cold War Context" aria-label="Open page: Could Kosmos 96 Have Reached Kecksburg? | Cold War Context">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_kosmos_96_timing_pro_0b34f8-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Kosmos 96 Have Reached Kecksburg? | Cold War Context" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Kosmos 96</span>
+<span class="ct-node-title-full">Could Kosmos 96 Have Reached Kecksburg?</span>
+<span class="ct-node-summary">Kosmos 96 re-entered on the same day as the fireball, but tracking and trajectory evidence weaken the claim that it landed at Kecksburg.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kosmos-96-b935f8/' | relative_url }}" title="Could Kosmos 96 Have Reached Kecksburg? | Cold War Context" aria-label="Read more about Could Kosmos 96 Have Reached Kecksburg? | Cold War Context">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-moon-dust-recovery-c-425aa6" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-moon-dust-recovery-c-425aa6" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'moon-dust/' | relative_url }}" title="Did Cold War Recovery Teams Fit the Kecksburg Story? | Cold War Context" aria-label="Open page: Did Cold War Recovery Teams Fit the Kecksburg Story? | Cold War Context">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_dust_recovery_c_425aa6-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Cold War Recovery Teams Fit the Kecksburg Story? | Cold War Context" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Moon Dust</span>
+<span class="ct-node-title-full">Did Cold War Recovery Teams Fit the Kecksburg Story?</span>
+<span class="ct-node-summary">Project Moon Dust made foreign-spacecraft recovery a real Cold War mission, even though no evidence proves it was activated at Kecksburg.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'moon-dust/' | relative_url }}" title="Did Cold War Recovery Teams Fit the Kecksburg Story? | Cold War Context" aria-label="Read more about Did Cold War Recovery Teams Fit the Kecksburg Story? | Cold War Context">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-u2-cover-story-trust-2be989" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-u2-cover-story-trust-2be989" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'u-2-cover-story/' | relative_url }}" title="How the U 2 Crisis Damaged Official Trust | Cold War Context" aria-label="Open page: How the U 2 Crisis Damaged Official Trust | Cold War Context">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_u2_cover_story_trust_2be989-Illustration-1.webp' | relative_url }}" alt="Overview image for How the U 2 Crisis Damaged Official Trust | Cold War Context" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">U 2 Cover Story</span>
+<span class="ct-node-title-full">How the U 2 Crisis Damaged Official Trust</span>
+<span class="ct-node-summary">The false weather-plane explanation after the U-2 shootdown showed why later aerospace denials could appear strategic rather than trustworthy.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'u-2-cover-story/' | relative_url }}" title="How the U 2 Crisis Damaged Official Trust | Cold War Context" aria-label="Read more about How the U 2 Crisis Damaged Official Trust | Cold War Context">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-secret-aircraft-ufo-3ef2a5" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-secret-aircraft-ufo-3ef2a5" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'secret-aircraft/' | relative_url }}" title="When Secret Aircraft Looked Like UFOs | Cold War Context" aria-label="Open page: When Secret Aircraft Looked Like UFOs | Cold War Context">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_secret_aircraft_ufo_3ef2a5-Illustration-1.webp' | relative_url }}" alt="Overview image for When Secret Aircraft Looked Like UFOs | Cold War Context" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Secret Aircraft</span>
+<span class="ct-node-title-full">When Secret Aircraft Looked Like UFOs</span>
+<span class="ct-node-summary">Classified U-2, A-12 and SR-71 flights produced unfamiliar sightings that officials could not explain publicly without exposing intelligence...</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-aircraft/' | relative_url }}" title="When Secret Aircraft Looked Like UFOs | Cold War Context" aria-label="Read more about When Secret Aircraft Looked Like UFOs | Cold War Context">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-blue-book-credibilit-2ffb77" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-blue-book-credibilit-2ffb77" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book-trust/' | relative_url }}" title="Why Blue Book Could Not End Suspicion | Cold War Context" aria-label="Open page: Why Blue Book Could Not End Suspicion | Cold War Context">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_blue_book_credibilit_2ffb77-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Blue Book Could Not End Suspicion | Cold War Context" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Blue Book Trust</span>
+<span class="ct-node-title-full">Why Blue Book Could Not End Suspicion</span>
+<span class="ct-node-summary">Blue Book&#x27;s public conclusions could not resolve suspicion when classified explanations and inter-agency information gaps remained hidden.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-trust/' | relative_url }}" title="Why Blue Book Could Not End Suspicion | Cold War Context" aria-label="Read more about Why Blue Book Could Not End Suspicion | Cold War Context">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-kosmos-mission-secre-29cc55" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-kosmos-mission-secre-29cc55" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'kosmos-secrecy/' | relative_url }}" title="Why the Kosmos Name Revealed So Little | Cold War Context" aria-label="Open page: Why the Kosmos Name Revealed So Little | Cold War Context">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_kosmos_mission_secre_29cc55-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Kosmos Name Revealed So Little | Cold War Context" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Kosmos Secrecy</span>
+<span class="ct-node-title-full">Why the Kosmos Name Revealed So Little</span>
+<span class="ct-node-summary">The vague Kosmos naming system concealed mission purposes and made failed Soviet spacecraft harder for Western observers to identify with confidence.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kosmos-secrecy/' | relative_url }}" title="Why the Kosmos Name Revealed So Little | Cold War Context" aria-label="Read more about Why the Kosmos Name Revealed So Little | Cold War Context">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'crash-response/' | relative_url }}" title="Did Officials Expect an Aircraft Crash? | Kecksburg" aria-label="Open page: Did Officials Expect an Aircraft Crash? | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7-overview.webp' | relative_url }}" alt="Overview image for Did Officials Expect an Aircraft Crash? | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Crash Response</span>
+<span class="ct-node-title-full">Did Officials Expect an Aircraft Crash?</span>
+<span class="ct-node-summary">Officials may initially have treated the report as a possible aircraft accident, explaining emergency crews and controlled access.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Did Officials Expect an Aircraft Crash? | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-response/' | relative_url }}" title="Did Officials Expect an Aircraft Crash? | Kecksburg" aria-label="Read more about Did Officials Expect an Aircraft Crash? | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-night-search-limits-d949f5" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-night-search-limits-d949f5" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'search-limits/' | relative_url }}" title="Could Searchers Have Missed Something in the Woods? | Crash Response" aria-label="Open page: Could Searchers Have Missed Something in the Woods? | Crash Response">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_night_search_limits_d949f5-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Searchers Have Missed Something in the Woods? | Crash Response" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Search Limits</span>
+<span class="ct-node-title-full">Could Searchers Have Missed Something in the Woods?</span>
+<span class="ct-node-summary">Darkness, woodland, uneven terrain and uncertain directions could have caused searchers to miss small fragments even if no large craft was present.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'search-limits/' | relative_url }}" title="Could Searchers Have Missed Something in the Woods? | Crash Response" aria-label="Read more about Could Searchers Have Missed Something in the Woods? | Crash Response">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-response-escalation-b2239e" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-response-escalation-b2239e" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'response-escalation/' | relative_url }}" title="How a Local Alert Became a Major Search | Crash Response" aria-label="Open page: How a Local Alert Became a Major Search | Crash Response">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_response_escalation_b2239e-Illustration-1.webp' | relative_url }}" alt="Overview image for How a Local Alert Became a Major Search | Crash Response" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Response Escalation</span>
+<span class="ct-node-title-full">How a Local Alert Became a Major Search</span>
+<span class="ct-node-summary">Local firefighters, police, state troopers and Air Force personnel joined the search as an uncertain report developed into a possible crash response.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'response-escalation/' | relative_url }}" title="How a Local Alert Became a Major Search | Crash Response" aria-label="Read more about How a Local Alert Became a Major Search | Crash Response">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-aircraft-missile-che-96ef92" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-aircraft-missile-che-96ef92" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'asset-checks/' | relative_url }}" title="Were Any Aircraft or Missiles Actually Missing? | Crash Response" aria-label="Open page: Were Any Aircraft or Missiles Actually Missing? | Crash Response">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_aircraft_missile_che_96ef92-Illustration-1.webp' | relative_url }}" alt="Overview image for Were Any Aircraft or Missiles Actually Missing? | Crash Response" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Asset Checks</span>
+<span class="ct-node-title-full">Were Any Aircraft or Missiles Actually Missing?</span>
+<span class="ct-node-summary">Officials tested the crash theory by checking whether military aircraft, commercial flights, missiles or other known assets were unaccounted for.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'asset-checks/' | relative_url }}" title="Were Any Aircraft or Missiles Actually Missing? | Crash Response" aria-label="Read more about Were Any Aircraft or Missiles Actually Missing? | Crash Response">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-expected-crash-wreck-97e008" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-expected-crash-wreck-97e008" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'expected-wreckage/' | relative_url }}" title="What Evidence Should a Plane Crash Have Left? | Crash Response" aria-label="Open page: What Evidence Should a Plane Crash Have Left? | Crash Response">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_expected_crash_wreck_97e008-Illustration-1.webp' | relative_url }}" alt="Overview image for What Evidence Should a Plane Crash Have Left? | Crash Response" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Expected Wreckage</span>
+<span class="ct-node-title-full">What Evidence Should a Plane Crash Have Left?</span>
+<span class="ct-node-summary">A genuine aircraft accident would normally produce wreckage, fuel damage, casualties, cargo or a debris trail, none of which was publicly identified.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'expected-wreckage/' | relative_url }}" title="What Evidence Should a Plane Crash Have Left? | Crash Response" aria-label="Read more about What Evidence Should a Plane Crash Have Left? | Crash Response">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-crash-theory-rejecte-c06a49" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-crash-theory-rejecte-c06a49" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'theory-rejected/' | relative_url }}" title="When Did the Plane Crash Explanation Fall Apart? | Crash Response" aria-label="Open page: When Did the Plane Crash Explanation Fall Apart? | Crash Response">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_crash_theory_rejecte_c06a49-Illustration-1.webp' | relative_url }}" alt="Overview image for When Did the Plane Crash Explanation Fall Apart? | Crash Response" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Theory Rejected</span>
+<span class="ct-node-title-full">When Did the Plane Crash Explanation Fall Apart?</span>
+<span class="ct-node-summary">The lack of a missing aircraft, distress call, casualties or wreckage shifted the official explanation from aviation accident toward a major fireball.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'theory-rejected/' | relative_url }}" title="When Did the Plane Crash Explanation Fall Apart? | Crash Response" aria-label="Read more about When Did the Plane Crash Explanation Fall Apart? | Crash Response">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-early-crash-signals-78a003" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-early-crash-signals-78a003" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'crash-signals/' | relative_url }}" title="Why Kecksburg First Looked Like a Plane Crash | Crash Response" aria-label="Open page: Why Kecksburg First Looked Like a Plane Crash | Crash Response">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_early_crash_signals_78a003-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Kecksburg First Looked Like a Plane Crash | Crash Response" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Crash Signals</span>
+<span class="ct-node-title-full">Why Kecksburg First Looked Like a Plane Crash</span>
+<span class="ct-node-summary">Reports of a descending light, smoke, a thump and possible fires gave responders reasonable grounds to suspect an aviation emergency.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-signals/' | relative_url }}" title="Why Kecksburg First Looked Like a Plane Crash | Crash Response" aria-label="Read more about Why Kecksburg First Looked Like a Plane Crash | Crash Response">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-landings/' | relative_url }}" title="Why Did So Many Places Report a Landing? | Kecksburg" aria-label="Open page: Why Did So Many Places Report a Landing? | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4-overview.webp' | relative_url }}" alt="Overview image for Why Did So Many Places Report a Landing? | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">False Landings</span>
+<span class="ct-node-title-full">Why Did So Many Places Report a Landing?</span>
+<span class="ct-node-summary">The same fireball inspired suspected impact reports across a broad region, showing how one sky event can generate many local searches.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Did So Many Places Report a Landing? | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-landings/' | relative_url }}" title="Why Did So Many Places Report a Landing? | Kecksburg" aria-label="Read more about Why Did So Many Places Report a Landing? | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-elyria-grass-fires-812351" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-elyria-grass-fires-812351" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'elyria-fires/' | relative_url }}" title="Did the Elyria Grass Fires Mark an Impact? | False Landings" aria-label="Open page: Did the Elyria Grass Fires Mark an Impact? | False Landings">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_elyria_grass_fires_812351-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Elyria Grass Fires Mark an Impact? | False Landings" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Elyria Fires</span>
+<span class="ct-node-title-full">Did the Elyria Grass Fires Mark an Impact?</span>
+<span class="ct-node-summary">Scattered Ohio grass fires became suspected impact points even though no recovered material connected them to the fireball.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'elyria-fires/' | relative_url }}" title="Did the Elyria Grass Fires Mark an Impact? | False Landings" aria-label="Read more about Did the Elyria Grass Fires Mark an Impact? | False Landings">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-sanderson-false-rout-640527" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-sanderson-false-rout-640527" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-route/' | relative_url }}" title="How Timing Errors Invented a Flight Path | False Landings" aria-label="Open page: How Timing Errors Invented a Flight Path | False Landings">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_sanderson_false_rout_640527-Illustration-1.webp' | relative_url }}" alt="Overview image for How Timing Errors Invented a Flight Path | False Landings" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">False Route</span>
+<span class="ct-node-title-full">How Timing Errors Invented a Flight Path</span>
+<span class="ct-node-summary">Approximate times and a major speed-calculation error turned scattered reports into an impossible slow-moving route toward Pennsylvania.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-route/' | relative_url }}" title="How Timing Errors Invented a Flight Path | False Landings" aria-label="Read more about How Timing Errors Invented a Flight Path | False Landings">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-lake-st-clair-search-a2acce" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-lake-st-clair-search-a2acce" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lake-search/' | relative_url }}" title="What Did Crews Expect to Find in Lake St Clair? | False Landings" aria-label="Open page: What Did Crews Expect to Find in Lake St Clair? | False Landings">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_lake_st_clair_search_a2acce-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did Crews Expect to Find in Lake St Clair? | False Landings" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Lake Search</span>
+<span class="ct-node-title-full">What Did Crews Expect to Find in Lake St Clair?</span>
+<span class="ct-node-summary">Coast Guard crews searched Lake St Clair after reports of an explosion or crash, but they recovered no wreckage.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lake-search/' | relative_url }}" title="What Did Crews Expect to Find in Lake St Clair? | False Landings" aria-label="Read more about What Did Crews Expect to Find in Lake St Clair? | False Landings">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-lapeer-radar-chaff-744ccc" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-lapeer-radar-chaff-744ccc" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lapeer-chaff/' | relative_url }}" title="Why Lapeer&#x27;s Metallic Debris Was Not a Meteor | False Landings" aria-label="Open page: Why Lapeer&#x27;s Metallic Debris Was Not a Meteor | False Landings">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_lapeer_radar_chaff_744ccc-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Lapeer&#x27;s Metallic Debris Was Not a Meteor | False Landings" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Lapeer Chaff</span>
+<span class="ct-node-title-full">Why Lapeer&#x27;s Metallic Debris Was Not a Meteor</span>
+<span class="ct-node-summary">Metallic strips found near a Michigan swamp briefly looked like impact debris before officials identified them as radar chaff.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lapeer-chaff/' | relative_url }}" title="Why Lapeer&#x27;s Metallic Debris Was Not a Meteor | False Landings" aria-label="Read more about Why Lapeer&#x27;s Metallic Debris Was Not a Meteor | False Landings">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-michigan-meteor-wron-9756d0" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-michigan-meteor-wron-9756d0" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'meteor-wrongs/' | relative_url }}" title="Why Ordinary Objects Looked Like Fresh Meteorites | False Landings" aria-label="Open page: Why Ordinary Objects Looked Like Fresh Meteorites | False Landings">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_michigan_meteor_wron_9756d0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Ordinary Objects Looked Like Fresh Meteorites | False Landings" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Meteor Wrongs</span>
+<span class="ct-node-title-full">Why Ordinary Objects Looked Like Fresh Meteorites</span>
+<span class="ct-node-summary">Hot metal, fused fragments and odd stones from several Michigan towns sounded persuasive but were never authenticated as fireball debris.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'meteor-wrongs/' | relative_url }}" title="Why Ordinary Objects Looked Like Fresh Meteorites | False Landings" aria-label="Read more about Why Ordinary Objects Looked Like Fresh Meteorites | False Landings">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-fireball-false-dista-a6624e" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-fireball-false-dista-a6624e" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-distance/' | relative_url }}" title="Why the Fireball Seemed to Land Nearby | False Landings" aria-label="Open page: Why the Fireball Seemed to Land Nearby | False Landings">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_fireball_false_dista_a6624e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Fireball Seemed to Land Nearby | False Landings" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">False Distance</span>
+<span class="ct-node-title-full">Why the Fireball Seemed to Land Nearby</span>
+<span class="ct-node-summary">A bright object disappearing behind trees or rooftops could seem nearby even when its true path was far beyond the local horizon.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-distance/' | relative_url }}" title="Why the Fireball Seemed to Land Nearby | False Landings" aria-label="Read more about Why the Fireball Seemed to Land Nearby | False Landings">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fireball-timeline/' | relative_url }}" title="How the Great Lakes Fireball Unfolded | Kecksburg" aria-label="Open page: How the Great Lakes Fireball Unfolded | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930-overview.webp' | relative_url }}" alt="Overview image for How the Great Lakes Fireball Unfolded | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Fireball Timeline</span>
+<span class="ct-node-title-full">How the Great Lakes Fireball Unfolded</span>
+<span class="ct-node-summary">The documented aerial event unfolded across several states and Ontario before attention shifted to the woods near Kecksburg.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How the Great Lakes Fireball Unfolded | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fireball-timeline/' | relative_url }}" title="How the Great Lakes Fireball Unfolded | Kecksburg" aria-label="Read more about How the Great Lakes Fireball Unfolded | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-scattered-impact-rep-2ff5e8" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-scattered-impact-rep-2ff5e8" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'impact-reports/' | relative_url }}" title="How One Fireball Created Many Suspected Crash Sites | Fireball Timeline" aria-label="Open page: How One Fireball Created Many Suspected Crash Sites | Fireball Timeline">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_scattered_impact_rep_2ff5e8-Illustration-1.webp' | relative_url }}" alt="Overview image for How One Fireball Created Many Suspected Crash Sites | Fireball Timeline" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Impact Reports</span>
+<span class="ct-node-title-full">How One Fireball Created Many Suspected Crash Sites</span>
+<span class="ct-node-summary">Claims from Michigan and Ohio show how one fireball produced several supposed impact sites before Kecksburg dominated the story.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'impact-reports/' | relative_url }}" title="How One Fireball Created Many Suspected Crash Sites | Fireball Timeline" aria-label="Read more about How One Fireball Created Many Suspected Crash Sites | Fireball Timeline">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-kecksburg-search-res-7d7dac" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-kecksburg-search-res-7d7dac" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'search-results/' | relative_url }}" title="What Did Searchers Actually Find in the Kecksburg Woods? | Fireball Timeline" aria-label="Open page: What Did Searchers Actually Find in the Kecksburg Woods? | Fireball Timeline">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_kecksburg_search_res_7d7dac-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did Searchers Actually Find in the Kecksburg Woods? | Fireball Timeline" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Search Results</span>
+<span class="ct-node-title-full">What Did Searchers Actually Find in the Kecksburg Woods?</span>
+<span class="ct-node-summary">Police and Air Force searchers reportedly found no object, leaving the local landing claim without a verified recovery.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'search-results/' | relative_url }}" title="What Did Searchers Actually Find in the Kecksburg Woods? | Fireball Timeline" aria-label="Read more about What Did Searchers Actually Find in the Kecksburg Woods? | Fireball Timeline">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-kecksburg-story-entr-c8de6d" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-kecksburg-story-entr-c8de6d" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'kecksburg-reports/' | relative_url }}" title="When Did Kecksburg Become the Center of the Story? | Fireball Timeline" aria-label="Open page: When Did Kecksburg Become the Center of the Story? | Fireball Timeline">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_kecksburg_story_entr_c8de6d-Illustration-1.webp' | relative_url }}" alt="Overview image for When Did Kecksburg Become the Center of the Story? | Fireball Timeline" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Kecksburg Reports</span>
+<span class="ct-node-title-full">When Did Kecksburg Become the Center of the Story?</span>
+<span class="ct-node-summary">Local reports near 5 pm transformed a regional meteor event into a suspected landing and military search in Pennsylvania.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kecksburg-reports/' | relative_url }}" title="When Did Kecksburg Become the Center of the Story? | Fireball Timeline" aria-label="Read more about When Did Kecksburg Become the Center of the Story? | Fireball Timeline">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-fireball-photo-endpo-a050a7" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-fireball-photo-endpo-a050a7" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-track/' | relative_url }}" title="Where Did the Great Lakes Fireball Actually End? | Fireball Timeline" aria-label="Open page: Where Did the Great Lakes Fireball Actually End? | Fireball Timeline">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_photo_endpo_a050a7-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Did the Great Lakes Fireball Actually End? | Fireball Timeline" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Photo Track</span>
+<span class="ct-node-title-full">Where Did the Great Lakes Fireball Actually End?</span>
+<span class="ct-node-summary">Two Michigan photo sets placed the fireball&#x27;s terminal path near southwestern Ontario rather than Pennsylvania.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-track/' | relative_url }}" title="Where Did the Great Lakes Fireball Actually End? | Fireball Timeline" aria-label="Read more about Where Did the Great Lakes Fireball Actually End? | Fireball Timeline">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-fireball-direction-d-791747" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-fireball-direction-d-791747" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'path-dispute/' | relative_url }}" title="Why Did Witnesses Disagree About the Fireball&#x27;s Direction? | Fireball Timeline" aria-label="Open page: Why Did Witnesses Disagree About the Fireball&#x27;s Direction? | Fireball Timeline">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_direction_d_791747-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did Witnesses Disagree About the Fireball&#x27;s Direction? | Fireball Timeline" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Path Dispute</span>
+<span class="ct-node-title-full">Why Did Witnesses Disagree About the Fireball&#x27;s Direction?</span>
+<span class="ct-node-summary">Conflicting compass directions arose from witness plotting, drifting smoke trails and later photographic triangulation.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'path-dispute/' | relative_url }}" title="Why Did Witnesses Disagree About the Fireball&#x27;s Direction? | Fireball Timeline" aria-label="Read more about Why Did Witnesses Disagree About the Fireball&#x27;s Direction? | Fireball Timeline">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-fireball-shock-waves-b32821" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-fireball-shock-waves-b32821" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'shock-waves-be0138/' | relative_url }}" title="Why the Fireball&#x27;s Booms Arrived After the Flash | Fireball Timeline" aria-label="Open page: Why the Fireball&#x27;s Booms Arrived After the Flash | Fireball Timeline">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_shock_waves_b32821-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Fireball&#x27;s Booms Arrived After the Flash | Fireball Timeline" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Shock Waves</span>
+<span class="ct-node-title-full">Why the Fireball&#x27;s Booms Arrived After the Flash</span>
+<span class="ct-node-summary">The Detroit-area seismic record helps explain why loud reports arrived after the visible fireball and seemed locally disconnected.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'shock-waves-be0138/' | relative_url }}" title="Why the Fireball&#x27;s Booms Arrived After the Flash | Fireball Timeline" aria-label="Read more about Why the Fireball&#x27;s Booms Arrived After the Flash | Fireball Timeline">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ground-search/' | relative_url }}" title="What Happened in the Kecksburg Woods?" aria-label="Open page: What Happened in the Kecksburg Woods?">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75-overview.webp' | relative_url }}" alt="Overview image for What Happened in the Kecksburg Woods?" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Ground Search</span>
+<span class="ct-node-title-full">What Happened in the Kecksburg Woods?</span>
+<span class="ct-node-summary">Conflicting reports about police, firefighters and military personnel make the local search central to the enduring dispute.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Happened in the Kecksburg Woods?" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ground-search/' | relative_url }}" title="What Happened in the Kecksburg Woods?" aria-label="Read more about What Happened in the Kecksburg Woods?">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-firefighter-object-a-902885" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-firefighter-object-a-902885" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'object-accounts/' | relative_url }}" title="Did Firefighters Really Reach a Metallic Object? | Ground Search" aria-label="Open page: Did Firefighters Really Reach a Metallic Object? | Ground Search">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_firefighter_object_a_902885-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Firefighters Really Reach a Metallic Object? | Ground Search" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Object Accounts</span>
+<span class="ct-node-title-full">Did Firefighters Really Reach a Metallic Object?</span>
+<span class="ct-node-summary">Jim Romansky&#x27;s detailed object description conflicts with other responders who reported finding nothing in the Kecksburg woods.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'object-accounts/' | relative_url }}" title="Did Firefighters Really Reach a Metallic Object? | Ground Search" aria-label="Read more about Did Firefighters Really Reach a Metallic Object? | Ground Search">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-blue-book-search-rec-a5ddde" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-blue-book-search-rec-a5ddde" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book-file/' | relative_url }}" title="What the Air Force Record Actually Says | Ground Search" aria-label="Open page: What the Air Force Record Actually Says | Ground Search">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_blue_book_search_rec_a5ddde-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Air Force Record Actually Says | Ground Search" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Blue Book File</span>
+<span class="ct-node-title-full">What the Air Force Record Actually Says</span>
+<span class="ct-node-summary">The surviving Air Force record notes a small investigative team and no recovery, sharply contrasting with later stories of a large retrieval force.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-file/' | relative_url }}" title="What the Air Force Record Actually Says | Ground Search" aria-label="Read more about What the Air Force Record Actually Says | Ground Search">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-early-civilian-searc-8da848" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-early-civilian-searc-8da848" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'early-search/' | relative_url }}" title="Who Entered the Woods Before the Cordon? | Ground Search" aria-label="Open page: Who Entered the Woods Before the Cordon? | Ground Search">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_early_civilian_searc_8da848-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Entered the Woods Before the Cordon? | Ground Search" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Early Search</span>
+<span class="ct-node-title-full">Who Entered the Woods Before the Cordon?</span>
+<span class="ct-node-summary">Residents and volunteer firefighters entered or approached the woods before police and military personnel tightened control of the suspected site.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'early-search/' | relative_url }}" title="Who Entered the Woods Before the Cordon? | Ground Search" aria-label="Read more about Who Entered the Woods Before the Cordon? | Ground Search">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-kecksburg-police-cor-f2ba2a" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-kecksburg-police-cor-f2ba2a" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'police-cordon/' | relative_url }}" title="Why Police Closed Off the Kecksburg Woods | Ground Search" aria-label="Open page: Why Police Closed Off the Kecksburg Woods | Ground Search">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_kecksburg_police_cor_f2ba2a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Police Closed Off the Kecksburg Woods | Ground Search" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Police Cordon</span>
+<span class="ct-node-title-full">Why Police Closed Off the Kecksburg Woods</span>
+<span class="ct-node-summary">State Police restricted access to the suspected impact area while firefighters and military personnel continued searching inside the perimeter.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'police-cordon/' | relative_url }}" title="Why Police Closed Off the Kecksburg Woods | Ground Search" aria-label="Read more about Why Police Closed Off the Kecksburg Woods | Ground Search">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-air-force-geiger-sea-d306b0" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-air-force-geiger-sea-d306b0" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'geiger-search/' | relative_url }}" title="Why the Air Force Brought Geiger Counters | Ground Search" aria-label="Open page: Why the Air Force Brought Geiger Counters | Ground Search">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_air_force_geiger_sea_d306b0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Air Force Brought Geiger Counters | Ground Search" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Geiger Search</span>
+<span class="ct-node-title-full">Why the Air Force Brought Geiger Counters</span>
+<span class="ct-node-summary">Air Force personnel reportedly used radiation detectors while checking whether the unknown fall involved hazardous aircraft or spacecraft debris.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'geiger-search/' | relative_url }}" title="Why the Air Force Brought Geiger Counters | Ground Search" aria-label="Read more about Why the Air Force Brought Geiger Counters | Ground Search">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-ed-myers-search-acco-c99579" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-ed-myers-search-acco-c99579" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'myers-account/' | relative_url }}" title="Why the Fire Chief Said Nothing Crashed | Ground Search" aria-label="Open page: Why the Fire Chief Said Nothing Crashed | Ground Search">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_ed_myers_search_acco_c99579-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Fire Chief Said Nothing Crashed | Ground Search" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Myers Account</span>
+<span class="ct-node-title-full">Why the Fire Chief Said Nothing Crashed</span>
+<span class="ct-node-summary">Fire Chief Ed Myers said he searched until about 10 pm, saw no object and believed later witnesses had changed their stories.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'myers-account/' | relative_url }}" title="Why the Fire Chief Said Nothing Crashed | Ground Search" aria-label="Read more about Why the Fire Chief Said Nothing Crashed | Ground Search">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'kosmos-96/' | relative_url }}" title="Could Kosmos 96 Have Fallen at Kecksburg?" aria-label="Open page: Could Kosmos 96 Have Fallen at Kecksburg?">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe-overview.webp' | relative_url }}" alt="Overview image for Could Kosmos 96 Have Fallen at Kecksburg?" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Kosmos 96</span>
+<span class="ct-node-title-full">Could Kosmos 96 Have Fallen at Kecksburg?</span>
+<span class="ct-node-summary">The failed Soviet Venus probe re-entered on the same date, but tracking placed it over Canada hours before the Kecksburg event.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Could Kosmos 96 Have Fallen at Kecksburg?" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kosmos-96/' | relative_url }}" title="Could Kosmos 96 Have Fallen at Kecksburg?" aria-label="Read more about Could Kosmos 96 Have Fallen at Kecksburg?">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-orbit-uncer-59a67e" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-orbit-uncer-59a67e" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'orbit-uncertainty/' | relative_url }}" title="Could Tracking Error Save the Kosmos 96 Theory?" aria-label="Open page: Could Tracking Error Save the Kosmos 96 Theory?">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_orbit_uncer_59a67e-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Tracking Error Save the Kosmos 96 Theory?" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Orbit Uncertainty</span>
+<span class="ct-node-title-full">Could Tracking Error Save the Kosmos 96 Theory?</span>
+<span class="ct-node-summary">Normal uncertainty in drag and fragmentation cannot easily move Kosmos 96 through several extra orbits to Pennsylvania that evening.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'orbit-uncertainty/' | relative_url }}" title="Could Tracking Error Save the Kosmos 96 Theory?" aria-label="Read more about Could Tracking Error Save the Kosmos 96 Theory?">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-shape-promp-052087" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-shape-promp-052087" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'shape-claims/' | relative_url }}" title="Did Soviet Capsule Images Shape the Acorn Story? | Kosmos 96" aria-label="Open page: Did Soviet Capsule Images Shape the Acorn Story? | Kosmos 96">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_shape_promp_052087-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Soviet Capsule Images Shape the Acorn Story? | Kosmos 96" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Shape Claims</span>
+<span class="ct-node-title-full">Did Soviet Capsule Images Shape the Acorn Story?</span>
+<span class="ct-node-summary">The alleged acorn resemblance is weakened by late descriptions and reports that witnesses saw Soviet capsule images before confirming a match.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'shape-claims/' | relative_url }}" title="Did Soviet Capsule Images Shape the Acorn Story? | Kosmos 96" aria-label="Read more about Did Soviet Capsule Images Shape the Acorn Story? | Kosmos 96">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-same-day-co-3cd207" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-same-day-co-3cd207" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'same-day-trap/' | relative_url }}" title="How a Date Match Became a Re entry Myth | Kosmos 96" aria-label="Open page: How a Date Match Became a Re entry Myth | Kosmos 96">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_same_day_co_3cd207-Illustration-1.webp' | relative_url }}" alt="Overview image for How a Date Match Became a Re entry Myth | Kosmos 96" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Same Day Trap</span>
+<span class="ct-node-title-full">How a Date Match Became a Re entry Myth</span>
+<span class="ct-node-summary">Kosmos 96 became persuasive largely because it fell on the same date, although its time, path and entry geometry did not match the fireball.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'same-day-trap/' | relative_url }}" title="How a Date Match Became a Re entry Myth | Kosmos 96" aria-label="Read more about How a Date Match Became a Re entry Myth | Kosmos 96">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-launch-fail-37e3b0" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-launch-fail-37e3b0" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'launch-failure/' | relative_url }}" title="How Kosmos 96 Became a Falling Spacecraft" aria-label="Open page: How Kosmos 96 Became a Falling Spacecraft">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_launch_fail_37e3b0-Illustration-1.webp' | relative_url }}" alt="Overview image for How Kosmos 96 Became a Falling Spacecraft" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Launch Failure</span>
+<span class="ct-node-title-full">How Kosmos 96 Became a Falling Spacecraft</span>
+<span class="ct-node-summary">A ruptured fuel line left the Venus probe trapped in low Earth orbit, creating the re-entry that later became tied to Kecksburg.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'launch-failure/' | relative_url }}" title="How Kosmos 96 Became a Falling Spacecraft" aria-label="Read more about How Kosmos 96 Became a Falling Spacecraft">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-soviet-debris-milita-e604e3" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-soviet-debris-milita-e604e3" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'military-interest/' | relative_url }}" title="Why Soviet Space Debris Would Draw Military Attention | Kosmos 96" aria-label="Open page: Why Soviet Space Debris Would Draw Military Attention | Kosmos 96">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_soviet_debris_milita_e604e3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Soviet Space Debris Would Draw Military Attention | Kosmos 96" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Military Interest</span>
+<span class="ct-node-title-full">Why Soviet Space Debris Would Draw Military Attention</span>
+<span class="ct-node-summary">Even if Kosmos 96 missed Pennsylvania, the prospect of recoverable Soviet technology could explain why military units treated debris reports...</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'military-interest/' | relative_url }}" title="Why Soviet Space Debris Would Draw Military Attention | Kosmos 96" aria-label="Read more about Why Soviet Space Debris Would Draw Military Attention | Kosmos 96">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-timing-conf-0ea2a4" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-timing-conf-0ea2a4" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'timing-conflict/' | relative_url }}" title="Why the Re entry Time Does Not Match Kecksburg | Kosmos 96" aria-label="Open page: Why the Re entry Time Does Not Match Kecksburg | Kosmos 96">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_timing_conf_0ea2a4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Re entry Time Does Not Match Kecksburg | Kosmos 96" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Timing Conflict</span>
+<span class="ct-node-title-full">Why the Re entry Time Does Not Match Kecksburg</span>
+<span class="ct-node-summary">The decisive conflict is that military tracking placed Kosmos 96 over Canada roughly thirteen hours before the Kecksburg fireball.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'timing-conflict/' | relative_url }}" title="Why the Re entry Time Does Not Match Kecksburg | Kosmos 96" aria-label="Read more about Why the Re entry Time Does Not Match Kecksburg | Kosmos 96">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'metal-reports/' | relative_url }}" title="Were Metal Fragments Found Elsewhere? | Kecksburg" aria-label="Open page: Were Metal Fragments Found Elsewhere? | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590-overview.webp' | relative_url }}" alt="Overview image for Were Metal Fragments Found Elsewhere? | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Metal Reports</span>
+<span class="ct-node-title-full">Were Metal Fragments Found Elsewhere?</span>
+<span class="ct-node-summary">Scattered claims of metallic fragments in Michigan and Ohio complicate efforts to identify which reports belonged to the same event.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Were Metal Fragments Found Elsewhere? | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'metal-reports/' | relative_url }}" title="Were Metal Fragments Found Elsewhere? | Kecksburg" aria-label="Read more about Were Metal Fragments Found Elsewhere? | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-elyria-fire-debris-r-a04f81" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-elyria-fire-debris-r-a04f81" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'elyria-fires-99aefc/' | relative_url }}" title="Did Falling Debris Ignite the Elyria Fires? | Metal Reports" aria-label="Open page: Did Falling Debris Ignite the Elyria Fires? | Metal Reports">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_elyria_fire_debris_r_a04f81-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Falling Debris Ignite the Elyria Fires? | Metal Reports" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Elyria Fires</span>
+<span class="ct-node-title-full">Did Falling Debris Ignite the Elyria Fires?</span>
+<span class="ct-node-summary">Elyria&#x27;s grass fires and suspected debris were reported together, but the surviving accounts do not prove that falling material caused the fires.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'elyria-fires-99aefc/' | relative_url }}" title="Did Falling Debris Ignite the Elyria Fires? | Metal Reports" aria-label="Read more about Did Falling Debris Ignite the Elyria Fires? | Metal Reports">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-livonia-metal-proven-6b0508" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-livonia-metal-proven-6b0508" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'livonia-find/' | relative_url }}" title="Did Livonia&#x27;s Metal Really Fall From the Fireball? | Metal Reports" aria-label="Open page: Did Livonia&#x27;s Metal Really Fall From the Fireball? | Metal Reports">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_livonia_metal_proven_6b0508-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Livonia&#x27;s Metal Really Fall From the Fireball? | Metal Reports" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Livonia Find</span>
+<span class="ct-node-title-full">Did Livonia&#x27;s Metal Really Fall From the Fireball?</span>
+<span class="ct-node-summary">The Livonia fragment became part of the fireball story without a documented recovery trail linking it to the sky.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'livonia-find/' | relative_url }}" title="Did Livonia&#x27;s Metal Really Fall From the Fireball? | Metal Reports" aria-label="Read more about Did Livonia&#x27;s Metal Really Fall From the Fireball? | Metal Reports">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-great-lakes-strewn-f-835139" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-great-lakes-strewn-f-835139" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'strewn-field/' | relative_url }}" title="Do the Great Lakes Finds Fit One Fall? | Metal Reports" aria-label="Open page: Do the Great Lakes Finds Fit One Fall? | Metal Reports">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_great_lakes_strewn_f_835139-Illustration-1.webp' | relative_url }}" alt="Overview image for Do the Great Lakes Finds Fit One Fall? | Metal Reports" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Strewn Field</span>
+<span class="ct-node-title-full">Do the Great Lakes Finds Fit One Fall?</span>
+<span class="ct-node-summary">The reported locations, materials and recovery histories do not align cleanly with the narrow pattern expected from one meteorite fall.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'strewn-field/' | relative_url }}" title="Do the Great Lakes Finds Fit One Fall? | Metal Reports" aria-label="Read more about Do the Great Lakes Finds Fit One Fall? | Metal Reports">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-jackson-wire-fragmen-c1cc06" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-jackson-wire-fragmen-c1cc06" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'jackson-report/' | relative_url }}" title="How One Jackson Fragment Became Regional News | Metal Reports" aria-label="Open page: How One Jackson Fragment Became Regional News | Metal Reports">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_jackson_wire_fragmen_c1cc06-Illustration-1.webp' | relative_url }}" alt="Overview image for How One Jackson Fragment Became Regional News | Metal Reports" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Jackson Report</span>
+<span class="ct-node-title-full">How One Jackson Fragment Became Regional News</span>
+<span class="ct-node-summary">The Jackson fragment story shows how a local suspicion could become regional evidence through repeated wire-service reporting.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'jackson-report/' | relative_url }}" title="How One Jackson Fragment Became Regional News | Metal Reports" aria-label="Read more about How One Jackson Fragment Became Regional News | Metal Reports">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-fragment-origin-iden-2a61ea" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-fragment-origin-iden-2a61ea" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fragment-id/' | relative_url }}" title="Meteorite, Slag or Spacecraft Metal? | Metal Reports" aria-label="Open page: Meteorite, Slag or Spacecraft Metal? | Metal Reports">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_fragment_origin_iden_2a61ea-Illustration-1.webp' | relative_url }}" alt="Overview image for Meteorite, Slag or Spacecraft Metal? | Metal Reports" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Fragment ID</span>
+<span class="ct-node-title-full">Meteorite, Slag or Spacecraft Metal?</span>
+<span class="ct-node-summary">Fusion crust, mineral structure and manufacturing marks can separate plausible meteorites from slag or engineered spacecraft debris.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fragment-id/' | relative_url }}" title="Meteorite, Slag or Spacecraft Metal? | Metal Reports" aria-label="Read more about Meteorite, Slag or Spacecraft Metal? | Metal Reports">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-battle-creek-stone-c-25ef48" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-battle-creek-stone-c-25ef48" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'battle-creek/' | relative_url }}" title="Why Battle Creek&#x27;s Stone Was Never Confirmed | Metal Reports" aria-label="Open page: Why Battle Creek&#x27;s Stone Was Never Confirmed | Metal Reports">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_battle_creek_stone_c_25ef48-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Battle Creek&#x27;s Stone Was Never Confirmed | Metal Reports" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Battle Creek</span>
+<span class="ct-node-title-full">Why Battle Creek&#x27;s Stone Was Never Confirmed</span>
+<span class="ct-node-summary">A Battle Creek woman&#x27;s claimed stone was recorded by geologists but never accepted as a confirmed Michigan meteorite.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'battle-creek/' | relative_url }}" title="Why Battle Creek&#x27;s Stone Was Never Confirmed | Metal Reports" aria-label="Read more about Why Battle Creek&#x27;s Stone Was Never Confirmed | Metal Reports">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'meteor-case/' | relative_url }}" title="Why Astronomers Call It a Meteor | Kecksburg" aria-label="Open page: Why Astronomers Call It a Meteor | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9-overview.webp' | relative_url }}" alt="Overview image for Why Astronomers Call It a Meteor | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Meteor Case</span>
+<span class="ct-node-title-full">Why Astronomers Call It a Meteor</span>
+<span class="ct-node-summary">Photographs, shock waves and the persistent trail strongly support a bright meteor or bolide over the Great Lakes.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Astronomers Call It a Meteor | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'meteor-case/' | relative_url }}" title="Why Astronomers Call It a Meteor | Kecksburg" aria-label="Read more about Why Astronomers Call It a Meteor | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-meteor-fragmentation-480a7a" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-meteor-fragmentation-480a7a" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fragmentation/' | relative_url }}" title="Can a Breaking Meteor Look Like a Craft? | Meteor Case" aria-label="Open page: Can a Breaking Meteor Look Like a Craft? | Meteor Case">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_meteor_fragmentation_480a7a-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Breaking Meteor Look Like a Craft? | Meteor Case" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Fragmentation</span>
+<span class="ct-node-title-full">Can a Breaking Meteor Look Like a Craft?</span>
+<span class="ct-node-summary">Rapid flares and breakup can make a bolide look as though it changes speed, direction or splits into controlled objects.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fragmentation/' | relative_url }}" title="Can a Breaking Meteor Look Like a Craft? | Meteor Case" aria-label="Read more about Can a Breaking Meteor Look Like a Craft? | Meteor Case">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-persistent-meteor-tr-8db16b" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-persistent-meteor-tr-8db16b" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'meteor-trains/' | relative_url }}" title="Can a Meteor Trail Look Like a Turn? | Meteor Case" aria-label="Open page: Can a Meteor Trail Look Like a Turn? | Meteor Case">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_persistent_meteor_tr_8db16b-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Meteor Trail Look Like a Turn? | Meteor Case" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Meteor Trains</span>
+<span class="ct-node-title-full">Can a Meteor Trail Look Like a Turn?</span>
+<span class="ct-node-summary">The Detroit-area trail could twist in high-altitude winds, making a straight meteor path appear to bend, slow or turn.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'meteor-trains/' | relative_url }}" title="Can a Meteor Trail Look Like a Turn? | Meteor Case" aria-label="Read more about Can a Meteor Trail Look Like a Turn? | Meteor Case">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-seismograph-shock-wa-3beae2" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-seismograph-shock-wa-3beae2" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'shock-wave/' | relative_url }}" title="What Did the Detroit Seismograph Really Record? | Meteor Case" aria-label="Open page: What Did the Detroit Seismograph Really Record? | Meteor Case">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_seismograph_shock_wa_3beae2-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did the Detroit Seismograph Really Record? | Meteor Case" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Shock Wave</span>
+<span class="ct-node-title-full">What Did the Detroit Seismograph Really Record?</span>
+<span class="ct-node-summary">The Detroit-area seismograph record shows that an energetic atmospheric event occurred without proving that anything struck the ground.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'shock-wave/' | relative_url }}" title="What Did the Detroit Seismograph Really Record? | Meteor Case" aria-label="Read more about What Did the Detroit Seismograph Really Record? | Meteor Case">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-detroit-trail-photos-d39d5b" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-detroit-trail-photos-d39d5b" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'trail-photos/' | relative_url }}" title="Where Did the Great Lakes Fireball End? | Meteor Case" aria-label="Open page: Where Did the Great Lakes Fireball End? | Meteor Case">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_detroit_trail_photos_d39d5b-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Did the Great Lakes Fireball End? | Meteor Case" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Trail Photos</span>
+<span class="ct-node-title-full">Where Did the Great Lakes Fireball End?</span>
+<span class="ct-node-summary">Two photographs supported a steep route toward western Lake Erie, although limited viewpoints left the exact endpoint uncertain.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trail-photos/' | relative_url }}" title="Where Did the Great Lakes Fireball End? | Meteor Case" aria-label="Read more about Where Did the Great Lakes Fireball End? | Meteor Case">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-false-landing-perspe-e22a0c" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-false-landing-perspe-e22a0c" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-landing/' | relative_url }}" title="Why Did the Fireball Seem to Land Nearby? | Meteor Case" aria-label="Open page: Why Did the Fireball Seem to Land Nearby? | Meteor Case">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_false_landing_perspe_e22a0c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did the Fireball Seem to Land Nearby? | Meteor Case" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">False Landing</span>
+<span class="ct-node-title-full">Why Did the Fireball Seem to Land Nearby?</span>
+<span class="ct-node-summary">A distant fireball sinking toward the horizon could appear to land behind nearby woods even when its true path continued far away.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-landing/' | relative_url }}" title="Why Did the Fireball Seem to Land Nearby? | Meteor Case" aria-label="Read more about Why Did the Fireball Seem to Land Nearby? | Meteor Case">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-pilot-sightings-time-d86926" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-pilot-sightings-time-d86926" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'pilot-reports/' | relative_url }}" title="Why the Pilot Reports Matter So Much | Meteor Case" aria-label="Open page: Why the Pilot Reports Matter So Much | Meteor Case">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_pilot_sightings_time_d86926-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Pilot Reports Matter So Much | Meteor Case" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Pilot Reports</span>
+<span class="ct-node-title-full">Why the Pilot Reports Matter So Much</span>
+<span class="ct-node-summary">Twenty-three reported pilot observations clustered around the instrument timing, strengthening the case for one fast-moving atmospheric event.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pilot-reports/' | relative_url }}" title="Why the Pilot Reports Matter So Much | Meteor Case" aria-label="Read more about Why the Pilot Reports Matter So Much | Meteor Case">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'newspaper-record/' | relative_url }}" title="How the First News Reports Changed | Kecksburg" aria-label="Open page: How the First News Reports Changed | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832-overview.webp' | relative_url }}" alt="Overview image for How the First News Reports Changed | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Newspaper Record</span>
+<span class="ct-node-title-full">How the First News Reports Changed</span>
+<span class="ct-node-summary">Early reports described a restricted search, while later editions said officials found absolutely nothing.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How the First News Reports Changed | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'newspaper-record/' | relative_url }}" title="How the First News Reports Changed | Kecksburg" aria-label="Read more about How the First News Reports Changed | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-cordon-vs-no-object-aff359" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-cordon-vs-no-object-aff359" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cordon-vs-result/' | relative_url }}" title="Can Both Kecksburg Newspaper Versions Be True? | Newspaper Record" aria-label="Open page: Can Both Kecksburg Newspaper Versions Be True? | Newspaper Record">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_cordon_vs_no_object_aff359-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Both Kecksburg Newspaper Versions Be True? | Newspaper Record" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Cordon vs Result</span>
+<span class="ct-node-title-full">Can Both Kecksburg Newspaper Versions Be True?</span>
+<span class="ct-node-summary">The early cordon and the later no-object result can fit one continuous search rather than two irreconcilable stories.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cordon-vs-result/' | relative_url }}" title="Can Both Kecksburg Newspaper Versions Be True? | Newspaper Record" aria-label="Read more about Can Both Kecksburg Newspaper Versions Be True? | Newspaper Record">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-early-headline-landi-09cba7" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-early-headline-landi-09cba7" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'early-headline/' | relative_url }}" title="Did the First Kecksburg Headline Overstate the Facts? | Newspaper Record" aria-label="Open page: Did the First Kecksburg Headline Overstate the Facts? | Newspaper Record">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_early_headline_landi_09cba7-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the First Kecksburg Headline Overstate the Facts? | Newspaper Record" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Early Headline</span>
+<span class="ct-node-title-full">Did the First Kecksburg Headline Overstate the Facts?</span>
+<span class="ct-node-summary">The first local report treated a suspected landing site as established even while its own details remained provisional.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'early-headline/' | relative_url }}" title="Did the First Kecksburg Headline Overstate the Facts? | Newspaper Record" aria-label="Read more about Did the First Kecksburg Headline Overstate the Facts? | Newspaper Record">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-deadline-reporting-d-1ed33a" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-deadline-reporting-d-1ed33a" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'deadline-errors/' | relative_url }}" title="How Deadline Reporting Distorted the Kecksburg Record | Newspaper Record" aria-label="Open page: How Deadline Reporting Distorted the Kecksburg Record | Newspaper Record">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_deadline_reporting_d_1ed33a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Deadline Reporting Distorted the Kecksburg Record | Newspaper Record" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Deadline Errors</span>
+<span class="ct-node-title-full">How Deadline Reporting Distorted the Kecksburg Record</span>
+<span class="ct-node-summary">Breaking-news routines turned expectations, radio traffic and witness claims into wording that later readers mistook for confirmed fact.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'deadline-errors/' | relative_url }}" title="How Deadline Reporting Distorted the Kecksburg Record | Newspaper Record" aria-label="Read more about How Deadline Reporting Distorted the Kecksburg Record | Newspaper Record">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-regional-fireball-co-7e1c08" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-regional-fireball-co-7e1c08" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'regional-fireball/' | relative_url }}" title="How Regional Fireball Reports Changed the Kecksburg Story | Newspaper Record" aria-label="Open page: How Regional Fireball Reports Changed the Kecksburg Story | Newspaper Record">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_regional_fireball_co_7e1c08-Illustration-1.webp' | relative_url }}" alt="Overview image for How Regional Fireball Reports Changed the Kecksburg Story | Newspaper Record" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Regional Fireball</span>
+<span class="ct-node-title-full">How Regional Fireball Reports Changed the Kecksburg Story</span>
+<span class="ct-node-summary">Newspapers across several states described a broad fireball event that encouraged a meteor explanation without resolving the local search.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'regional-fireball/' | relative_url }}" title="How Regional Fireball Reports Changed the Kecksburg Story | Newspaper Record" aria-label="Read more about How Regional Fireball Reports Changed the Kecksburg Story | Newspaper Record">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-ap-no-object-reports-98e9bb" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-ap-no-object-reports-98e9bb" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ap-reports/' | relative_url }}" title="How Wire Reports Framed the Kecksburg Search | Newspaper Record" aria-label="Open page: How Wire Reports Framed the Kecksburg Search | Newspaper Record">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_ap_no_object_reports_98e9bb-Illustration-1.webp' | relative_url }}" alt="Overview image for How Wire Reports Framed the Kecksburg Search | Newspaper Record" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">AP Reports</span>
+<span class="ct-node-title-full">How Wire Reports Framed the Kecksburg Search</span>
+<span class="ct-node-summary">Wire coverage spread the official account that troopers and Air Force personnel searched with Geiger counters and found nothing.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ap-reports/' | relative_url }}" title="How Wire Reports Framed the Kecksburg Search | Newspaper Record" aria-label="Read more about How Wire Reports Framed the Kecksburg Search | Newspaper Record">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-federal-post-search-dc67e5" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-federal-post-search-dc67e5" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'federal-statements/' | relative_url }}" title="What Officials Said After the Kecksburg Search Ended | Newspaper Record" aria-label="Open page: What Officials Said After the Kecksburg Search Ended | Newspaper Record">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_federal_post_search_dc67e5-Illustration-1.webp' | relative_url }}" alt="Overview image for What Officials Said After the Kecksburg Search Ended | Newspaper Record" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Federal Statements</span>
+<span class="ct-node-title-full">What Officials Said After the Kecksburg Search Ended</span>
+<span class="ct-node-summary">Federal statements favored a natural phenomenon and said military aircraft, missiles and known space debris were accounted for.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'federal-statements/' | relative_url }}" title="What Officials Said After the Kecksburg Search Ended | Newspaper Record" aria-label="Read more about What Officials Said After the Kecksburg Search Ended | Newspaper Record">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'official-finding/' | relative_url }}" title="Why Officials Said Nothing Was Found | Kecksburg" aria-label="Open page: Why Officials Said Nothing Was Found | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841-overview.webp' | relative_url }}" alt="Overview image for Why Officials Said Nothing Was Found | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Official Finding</span>
+<span class="ct-node-title-full">Why Officials Said Nothing Was Found</span>
+<span class="ct-node-summary">Police and Air Force searchers publicly reported no recovered object, leaving later retrieval claims in direct tension with the record.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Officials Said Nothing Was Found | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'official-finding/' | relative_url }}" title="Why Officials Said Nothing Was Found | Kecksburg" aria-label="Read more about Why Officials Said Nothing Was Found | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-geiger-counter-claim-deb383" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-geiger-counter-claim-deb383" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'geiger-counters-98b82b/' | relative_url }}" title="Did Geiger Counters Detect Anything at Kecksburg? | Official Finding" aria-label="Open page: Did Geiger Counters Detect Anything at Kecksburg? | Official Finding">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_geiger_counter_claim_deb383-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Geiger Counters Detect Anything at Kecksburg? | Official Finding" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Geiger Counters</span>
+<span class="ct-node-title-full">Did Geiger Counters Detect Anything at Kecksburg?</span>
+<span class="ct-node-summary">Search teams used Geiger counters as a precaution, but no contemporary report says the instruments detected radiation or confirmed an object.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'geiger-counters-98b82b/' | relative_url }}" title="Did Geiger Counters Detect Anything at Kecksburg? | Official Finding" aria-label="Read more about Did Geiger Counters Detect Anything at Kecksburg? | Official Finding">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-kecksburg-headline-s-776186" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-kecksburg-headline-s-776186" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'headline-shift-1f01fa/' | relative_url }}" title="Did the Headlines Reverse the Kecksburg Story? | Official Finding" aria-label="Open page: Did the Headlines Reverse the Kecksburg Story? | Official Finding">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_kecksburg_headline_s_776186-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Headlines Reverse the Kecksburg Story? | Official Finding" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Headline Shift</span>
+<span class="ct-node-title-full">Did the Headlines Reverse the Kecksburg Story?</span>
+<span class="ct-node-summary">Early reports of a fallen object and a sealed area were replaced by a later headline saying searchers had failed to find anything.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'headline-shift-1f01fa/' | relative_url }}" title="Did the Headlines Reverse the Kecksburg Story? | Official Finding" aria-label="Read more about Did the Headlines Reverse the Kecksburg Story? | Official Finding">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-nasa-records-lawsuit-90a24e" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-nasa-records-lawsuit-90a24e" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'nasa-records/' | relative_url }}" title="Did the NASA Lawsuit Prove a Kecksburg Cover Up? | Official Finding" aria-label="Open page: Did the NASA Lawsuit Prove a Kecksburg Cover Up? | Official Finding">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_nasa_records_lawsuit_90a24e-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the NASA Lawsuit Prove a Kecksburg Cover Up? | Official Finding" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">NASA Records</span>
+<span class="ct-node-title-full">Did the NASA Lawsuit Prove a Kecksburg Cover Up?</span>
+<span class="ct-node-summary">The court dispute exposed problems in NASA&#x27;s record search, but it did not establish that an unknown craft had been recovered at Kecksburg.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nasa-records/' | relative_url }}" title="Did the NASA Lawsuit Prove a Kecksburg Cover Up? | Official Finding" aria-label="Read more about Did the NASA Lawsuit Prove a Kecksburg Cover Up? | Official Finding">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-negative-search-limi-1ed382" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-negative-search-limi-1ed382" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'search-limits-830ee4/' | relative_url }}" title="What Did the Kecksburg Search Really Prove? | Official Finding" aria-label="Open page: What Did the Kecksburg Search Really Prove? | Official Finding">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_negative_search_limi_1ed382-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did the Kecksburg Search Really Prove? | Official Finding" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Search Limits</span>
+<span class="ct-node-title-full">What Did the Kecksburg Search Really Prove?</span>
+<span class="ct-node-summary">The official search established that no object was publicly recovered, but it did not prove that every part of the woods was fully examined.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'search-limits-830ee4/' | relative_url }}" title="What Did the Kecksburg Search Really Prove? | Official Finding" aria-label="Read more about What Did the Kecksburg Search Really Prove? | Official Finding">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-official-denial-dist-82bb78" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-official-denial-dist-82bb78" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'public-distrust/' | relative_url }}" title="Why Did the Official Denial Convince So Few? | Official Finding" aria-label="Open page: Why Did the Official Denial Convince So Few? | Official Finding">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_official_denial_dist_82bb78-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did the Official Denial Convince So Few? | Official Finding" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Public Distrust</span>
+<span class="ct-node-title-full">Why Did the Official Denial Convince So Few?</span>
+<span class="ct-node-summary">Restricted access, visible military activity and a sparse public explanation made the nothing-found conclusion difficult for many residents to trust.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'public-distrust/' | relative_url }}" title="Why Did the Official Denial Convince So Few? | Official Finding" aria-label="Read more about Why Did the Official Denial Convince So Few? | Official Finding">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-official-meteor-expl-ce189d" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-official-meteor-expl-ce189d" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'meteor-finding/' | relative_url }}" title="Why Officials Settled on a Meteor Explanation | Official Finding" aria-label="Open page: Why Officials Settled on a Meteor Explanation | Official Finding">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_official_meteor_expl_ce189d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Officials Settled on a Meteor Explanation | Official Finding" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Meteor Finding</span>
+<span class="ct-node-title-full">Why Officials Settled on a Meteor Explanation</span>
+<span class="ct-node-summary">Meteor reports, pilot sightings and shock-wave evidence gave authorities a natural explanation for the regional fireball seen before the Kecksburg...</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'meteor-finding/' | relative_url }}" title="Why Officials Settled on a Meteor Explanation | Official Finding" aria-label="Read more about Why Officials Settled on a Meteor Explanation | Official Finding">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ordinary-object/' | relative_url }}" title="Was the Woods Object Unrelated to the Fireball? | Kecksburg" aria-label="Open page: Was the Woods Object Unrelated to the Fireball? | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2-overview.webp' | relative_url }}" alt="Overview image for Was the Woods Object Unrelated to the Fireball? | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Ordinary Object</span>
+<span class="ct-node-title-full">Was the Woods Object Unrelated to the Fireball?</span>
+<span class="ct-node-summary">An unrelated vehicle, equipment item or debris could have been present in the woods and later linked to the distant fireball.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Was the Woods Object Unrelated to the Fireball? | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ordinary-object/' | relative_url }}" title="Was the Woods Object Unrelated to the Fireball? | Kecksburg" aria-label="Read more about Was the Woods Object Unrelated to the Fireball? | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-preexisting-object-r-af2bd2" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-preexisting-object-r-af2bd2" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'site-records/' | relative_url }}" title="Can Old Records Identify the Woods Object? | Ordinary Object" aria-label="Open page: Can Old Records Identify the Woods Object? | Ordinary Object">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_preexisting_object_r_af2bd2-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Old Records Identify the Woods Object? | Ordinary Object" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Site Records</span>
+<span class="ct-node-title-full">Can Old Records Identify the Woods Object?</span>
+<span class="ct-node-summary">Land records, farm inventories, photographs and local testimony could test whether machinery or scrap occupied the site before the fireball.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'site-records/' | relative_url }}" title="Can Old Records Identify the Woods Object? | Ordinary Object" aria-label="Read more about Can Old Records Identify the Woods Object? | Ordinary Object">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-farm-equipment-candi-5fe9d6" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-farm-equipment-candi-5fe9d6" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'farm-equipment/' | relative_url }}" title="Could Farm Machinery Explain the Kecksburg Object? | Ordinary Object" aria-label="Open page: Could Farm Machinery Explain the Kecksburg Object? | Ordinary Object">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_farm_equipment_candi_5fe9d6-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Farm Machinery Explain the Kecksburg Object? | Ordinary Object" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Farm Equipment</span>
+<span class="ct-node-title-full">Could Farm Machinery Explain the Kecksburg Object?</span>
+<span class="ct-node-summary">Tanks, hoppers and machinery housings offer testable conventional matches for the rounded object later described near Kecksburg.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'farm-equipment/' | relative_url }}" title="Could Farm Machinery Explain the Kecksburg Object? | Ordinary Object" aria-label="Read more about Could Farm Machinery Explain the Kecksburg Object? | Ordinary Object">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-darkness-terrain-mis-bd9c34" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-darkness-terrain-mis-bd9c34" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'night-misperception/' | relative_url }}" title="How Darkness Could Transform an Ordinary Object" aria-label="Open page: How Darkness Could Transform an Ordinary Object">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_darkness_terrain_mis_bd9c34-Illustration-1.webp' | relative_url }}" alt="Overview image for How Darkness Could Transform an Ordinary Object" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Night Misperception</span>
+<span class="ct-node-title-full">How Darkness Could Transform an Ordinary Object</span>
+<span class="ct-node-summary">Torchlight, smoke, slopes and vegetation could have distorted the size, shape and distance of an ordinary object in the woods.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'night-misperception/' | relative_url }}" title="How Darkness Could Transform an Ordinary Object" aria-label="Read more about How Darkness Could Transform an Ordinary Object">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-two-event-story-fusi-f78c9c" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-two-event-story-fusi-f78c9c" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'event-fusion/' | relative_url }}" title="How Two Events Became One Kecksburg Story | Ordinary Object" aria-label="Open page: How Two Events Became One Kecksburg Story | Ordinary Object">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_two_event_story_fusi_f78c9c-Illustration-1.webp' | relative_url }}" alt="Overview image for How Two Events Became One Kecksburg Story | Ordinary Object" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Event Fusion</span>
+<span class="ct-node-title-full">How Two Events Became One Kecksburg Story</span>
+<span class="ct-node-summary">A regional fireball and an unrelated ground object could have merged through local assumptions, rumours and later retellings.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'event-fusion/' | relative_url }}" title="How Two Events Became One Kecksburg Story | Ordinary Object" aria-label="Read more about How Two Events Became One Kecksburg Story | Ordinary Object">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-search-equipment-mis-09a387" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-search-equipment-mis-09a387" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'search-gear/' | relative_url }}" title="Was Search Equipment Mistaken for the Object? | Ordinary Object" aria-label="Open page: Was Search Equipment Mistaken for the Object? | Ordinary Object">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_search_equipment_mis_09a387-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Search Equipment Mistaken for the Object? | Ordinary Object" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Search Gear</span>
+<span class="ct-node-title-full">Was Search Equipment Mistaken for the Object?</span>
+<span class="ct-node-summary">Generators, communications gear or machinery brought by responders may later have been remembered as the object being removed.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'search-gear/' | relative_url }}" title="Was Search Equipment Mistaken for the Object? | Ordinary Object" aria-label="Read more about Was Search Equipment Mistaken for the Object? | Ordinary Object">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-industrial-object-ma-e3608d" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-industrial-object-ma-e3608d" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'industrial-objects/' | relative_url }}" title="Which Industrial Objects Could Look Like a Craft? | Ordinary Object" aria-label="Open page: Which Industrial Objects Could Look Like a Craft? | Ordinary Object">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_industrial_object_ma_e3608d-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Industrial Objects Could Look Like a Craft? | Ordinary Object" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Industrial Objects</span>
+<span class="ct-node-title-full">Which Industrial Objects Could Look Like a Craft?</span>
+<span class="ct-node-summary">Culvert sections, pressure vessels and cable drums can produce capsule-like silhouettes when viewed obliquely through trees.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'industrial-objects/' | relative_url }}" title="Which Industrial Objects Could Look Like a Craft? | Ordinary Object" aria-label="Read more about Which Industrial Objects Could Look Like a Craft? | Ordinary Object">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'physical-evidence/' | relative_url }}" title="Where Is the Physical Evidence? | Kecksburg" aria-label="Open page: Where Is the Physical Evidence? | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117-overview.webp' | relative_url }}" alt="Overview image for Where Is the Physical Evidence? | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Physical Evidence</span>
+<span class="ct-node-title-full">Where Is the Physical Evidence?</span>
+<span class="ct-node-summary">No authenticated fragment, photograph or measured object links the Kecksburg woods to the documented Great Lakes fireball.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Where Is the Physical Evidence? | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'physical-evidence/' | relative_url }}" title="Where Is the Physical Evidence? | Kecksburg" aria-label="Read more about Where Is the Physical Evidence? | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-murphy-missing-photo-8f61f8" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-murphy-missing-photo-8f61f8" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-photos/' | relative_url }}" title="Can Missing Photographs Count as Evidence? | Physical Evidence" aria-label="Open page: Can Missing Photographs Count as Evidence? | Physical Evidence">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_murphy_missing_photo_8f61f8-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Missing Photographs Count as Evidence? | Physical Evidence" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Missing Photos</span>
+<span class="ct-node-title-full">Can Missing Photographs Count as Evidence?</span>
+<span class="ct-node-summary">Claims that John Murphy&#x27;s close-range film was confiscated cannot establish what the unseen images showed without negatives or independent records.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-photos/' | relative_url }}" title="Can Missing Photographs Count as Evidence? | Physical Evidence" aria-label="Read more about Can Missing Photographs Count as Evidence? | Physical Evidence">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-fireball-trajectory-9b9ccf" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-fireball-trajectory-9b9ccf" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'trajectory-match/' | relative_url }}" title="Could the Great Lakes Fireball Reach Kecksburg? | Physical Evidence" aria-label="Open page: Could the Great Lakes Fireball Reach Kecksburg? | Physical Evidence">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_fireball_trajectory_9b9ccf-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the Great Lakes Fireball Reach Kecksburg? | Physical Evidence" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Trajectory Match</span>
+<span class="ct-node-title-full">Could the Great Lakes Fireball Reach Kecksburg?</span>
+<span class="ct-node-summary">The physical-object claim depends on whether the photographed fireball&#x27;s reconstructed path could plausibly end near Kecksburg.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trajectory-match/' | relative_url }}" title="Could the Great Lakes Fireball Reach Kecksburg? | Physical Evidence" aria-label="Read more about Could the Great Lakes Fireball Reach Kecksburg? | Physical Evidence">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-modern-fireball-reco-57d7c5" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-modern-fireball-reco-57d7c5" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'modern-standard/' | relative_url }}" title="How Real Fireball Recoveries Are Verified | Physical Evidence" aria-label="Open page: How Real Fireball Recoveries Are Verified | Physical Evidence">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_modern_fireball_reco_57d7c5-Illustration-1.webp' | relative_url }}" alt="Overview image for How Real Fireball Recoveries Are Verified | Physical Evidence" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Modern Standard</span>
+<span class="ct-node-title-full">How Real Fireball Recoveries Are Verified</span>
+<span class="ct-node-summary">Modern recoveries link camera data, predicted fall zones and catalogued samples in a chain that the Kecksburg case lacks.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'modern-standard/' | relative_url }}" title="How Real Fireball Recoveries Are Verified | Physical Evidence" aria-label="Read more about How Real Fireball Recoveries Are Verified | Physical Evidence">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-nasa-lost-debris-rec-6a8619" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-nasa-lost-debris-rec-6a8619" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lost-records/' | relative_url }}" title="What Did NASA Actually Examine After Kecksburg? | Physical Evidence" aria-label="Open page: What Did NASA Actually Examine After Kecksburg? | Physical Evidence">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_nasa_lost_debris_rec_6a8619-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did NASA Actually Examine After Kecksburg? | Physical Evidence" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Lost Records</span>
+<span class="ct-node-title-full">What Did NASA Actually Examine After Kecksburg?</span>
+<span class="ct-node-summary">NASA&#x27;s statement about examined Soviet debris cannot be verified because the sample, report and supporting records are unavailable.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lost-records/' | relative_url }}" title="What Did NASA Actually Examine After Kecksburg? | Physical Evidence" aria-label="Read more about What Did NASA Actually Examine After Kecksburg? | Physical Evidence">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-credible-kecksburg-f-6b8a9a" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-credible-kecksburg-f-6b8a9a" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'proven-fragment/' | relative_url }}" title="What Would Make a Kecksburg Fragment Credible? | Physical Evidence" aria-label="Open page: What Would Make a Kecksburg Fragment Credible? | Physical Evidence">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_credible_kecksburg_f_6b8a9a-Illustration-1.webp' | relative_url }}" alt="Overview image for What Would Make a Kecksburg Fragment Credible? | Physical Evidence" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Proven Fragment</span>
+<span class="ct-node-title-full">What Would Make a Kecksburg Fragment Credible?</span>
+<span class="ct-node-summary">A credible Kecksburg fragment would need documented discovery, secure custody, preserved samples and independent laboratory testing.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'proven-fragment/' | relative_url }}" title="What Would Make a Kecksburg Fragment Credible? | Physical Evidence" aria-label="Read more about What Would Make a Kecksburg Fragment Credible? | Physical Evidence">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-kecksburg-ground-tra-0abfef" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-kecksburg-ground-tra-0abfef" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ground-traces/' | relative_url }}" title="Where Are the Landing Marks at Kecksburg? | Physical Evidence" aria-label="Open page: Where Are the Landing Marks at Kecksburg? | Physical Evidence">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_kecksburg_ground_tra_0abfef-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Are the Landing Marks at Kecksburg? | Physical Evidence" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Ground Traces</span>
+<span class="ct-node-title-full">Where Are the Landing Marks at Kecksburg?</span>
+<span class="ct-node-summary">A large recovered object should normally leave measurable disturbance in soil, trees or vegetation, even without a dramatic crater.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ground-traces/' | relative_url }}" title="Where Are the Landing Marks at Kecksburg? | Physical Evidence" aria-label="Read more about Where Are the Landing Marks at Kecksburg? | Physical Evidence">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'records-access/' | relative_url }}" title="Can Government Records Resolve Kecksburg?" aria-label="Open page: Can Government Records Resolve Kecksburg?">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536-overview.webp' | relative_url }}" alt="Overview image for Can Government Records Resolve Kecksburg?" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Records Access</span>
+<span class="ct-node-title-full">Can Government Records Resolve Kecksburg?</span>
+<span class="ct-node-summary">Efforts to obtain official files test whether the mystery reflects hidden evidence, lost paperwork or ordinary archival gaps.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Can Government Records Resolve Kecksburg?" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'records-access/' | relative_url }}" title="Can Government Records Resolve Kecksburg?" aria-label="Read more about Can Government Records Resolve Kecksburg?">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-classified-lost-neve-b3173c" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-classified-lost-neve-b3173c" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'three-record-gaps/' | relative_url }}" title="Classified, Lost or Never Written? | Records Access" aria-label="Open page: Classified, Lost or Never Written? | Records Access">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_classified_lost_neve_b3173c-Illustration-1.webp' | relative_url }}" alt="Overview image for Classified, Lost or Never Written? | Records Access" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Three Record Gaps</span>
+<span class="ct-node-title-full">Classified, Lost or Never Written?</span>
+<span class="ct-node-summary">A withheld file, a destroyed file and a record that never existed create different evidentiary problems and should not be treated alike.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'three-record-gaps/' | relative_url }}" title="Classified, Lost or Never Written? | Records Access" aria-label="Read more about Classified, Lost or Never Written? | Records Access">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-federal-recordkeepin-05700e" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-federal-recordkeepin-05700e" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'recordkeeping-rules/' | relative_url }}" title="Could Better Recordkeeping Have Prevented the Gaps? | Records Access" aria-label="Open page: Could Better Recordkeeping Have Prevented the Gaps? | Records Access">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_federal_recordkeepin_05700e-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Better Recordkeeping Have Prevented the Gaps? | Records Access" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Recordkeeping Rules</span>
+<span class="ct-node-title-full">Could Better Recordkeeping Have Prevented the Gaps?</span>
+<span class="ct-node-summary">Federal preservation rules require agencies to report unlawful destruction, but compliance depends on records being identified before they vanish.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'recordkeeping-rules/' | relative_url }}" title="Could Better Recordkeeping Have Prevented the Gaps? | Records Access" aria-label="Read more about Could Better Recordkeeping Have Prevented the Gaps? | Records Access">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-missing-kecksburg-re-cecdc6" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-missing-kecksburg-re-cecdc6" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-boxes/' | relative_url }}" title="Were the Missing Boxes Really About Kecksburg? | Records Access" aria-label="Open page: Were the Missing Boxes Really About Kecksburg? | Records Access">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_missing_kecksburg_re_cecdc6-Illustration-1.webp' | relative_url }}" alt="Overview image for Were the Missing Boxes Really About Kecksburg? | Records Access" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Missing Boxes</span>
+<span class="ct-node-title-full">Were the Missing Boxes Really About Kecksburg?</span>
+<span class="ct-node-summary">Two unlocated boxes drew suspicion, but without an inventory no one can determine whether they contained Kecksburg material.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-boxes/' | relative_url }}" title="Were the Missing Boxes Really About Kecksburg? | Records Access" aria-label="Read more about Were the Missing Boxes Really About Kecksburg? | Records Access">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-nasa-foia-search-fai-c92041" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-nasa-foia-search-fai-c92041" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'nasa-lawsuit/' | relative_url }}" title="What the NASA Lawsuit Actually Proved | Records Access" aria-label="Open page: What the NASA Lawsuit Actually Proved | Records Access">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_nasa_foia_search_fai_c92041-Illustration-1.webp' | relative_url }}" alt="Overview image for What the NASA Lawsuit Actually Proved | Records Access" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">NASA Lawsuit</span>
+<span class="ct-node-title-full">What the NASA Lawsuit Actually Proved</span>
+<span class="ct-node-summary">The lawsuit showed that NASA&#x27;s first two record searches were inadequate, but it did not uncover proof of a recovered craft.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nasa-lawsuit/' | relative_url }}" title="What the NASA Lawsuit Actually Proved | Records Access" aria-label="Read more about What the NASA Lawsuit Actually Proved | Records Access">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-foia-limits-kecksbur-057cdd" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-foia-limits-kecksbur-057cdd" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'foia-limits/' | relative_url }}" title="Why FOIA Could Not Solve Kecksburg | Records Access" aria-label="Open page: Why FOIA Could Not Solve Kecksburg | Records Access">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_foia_limits_kecksbur_057cdd-Illustration-1.webp' | relative_url }}" alt="Overview image for Why FOIA Could Not Solve Kecksburg | Records Access" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">FOIA Limits</span>
+<span class="ct-node-title-full">Why FOIA Could Not Solve Kecksburg</span>
+<span class="ct-node-summary">FOIA could force NASA to search its own holdings, but it could not restore destroyed papers or produce files held by another agency.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'foia-limits/' | relative_url }}" title="Why FOIA Could Not Solve Kecksburg | Records Access" aria-label="Read more about Why FOIA Could Not Solve Kecksburg | Records Access">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-nasa-changing-kecksb-69b74b" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-nasa-changing-kecksb-69b74b" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'changing-claims/' | relative_url }}" title="Why NASA Could Not Support Its Kecksburg Claim | Records Access" aria-label="Open page: Why NASA Could Not Support Its Kecksburg Claim | Records Access">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_nasa_changing_kecksb_69b74b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why NASA Could Not Support Its Kecksburg Claim | Records Access" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Changing Claims</span>
+<span class="ct-node-title-full">Why NASA Could Not Support Its Kecksburg Claim</span>
+<span class="ct-node-summary">NASA once suggested that Kecksburg fragments were Soviet hardware, yet its later search found no supporting technical report.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'changing-claims/' | relative_url }}" title="Why NASA Could Not Support Its Kecksburg Claim | Records Access" aria-label="Read more about Why NASA Could Not Support Its Kecksburg Claim | Records Access">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'retrieval-story/' | relative_url }}" title="Was an Object Removed by the Military? | Kecksburg" aria-label="Open page: Was an Object Removed by the Military? | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03-overview.webp' | relative_url }}" alt="Overview image for Was an Object Removed by the Military? | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Retrieval Story</span>
+<span class="ct-node-title-full">Was an Object Removed by the Military?</span>
+<span class="ct-node-summary">Some witnesses said a covered object left the area on a military truck, while contemporary records offer no public confirmation.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Was an Object Removed by the Military? | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'retrieval-story/' | relative_url }}" title="Was an Object Removed by the Military? | Kecksburg" aria-label="Read more about Was an Object Removed by the Military? | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-kecksburg-ohio-truck-856c13" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-kecksburg-ohio-truck-856c13" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ohio-route/' | relative_url }}" title="Could the Kecksburg Truck Reach Ohio That Night? | Retrieval Story" aria-label="Open page: Could the Kecksburg Truck Reach Ohio That Night? | Retrieval Story">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_kecksburg_ohio_truck_856c13-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the Kecksburg Truck Reach Ohio That Night? | Retrieval Story" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Ohio Route</span>
+<span class="ct-node-title-full">Could the Kecksburg Truck Reach Ohio That Night?</span>
+<span class="ct-node-summary">The alleged westbound trip was physically possible, but route timing, road access and missing en-route sightings limit what can be established.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ohio-route/' | relative_url }}" title="Could the Kecksburg Truck Reach Ohio That Night? | Retrieval Story" aria-label="Read more about Could the Kecksburg Truck Reach Ohio That Night? | Retrieval Story">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-john-hays-truck-test-4620ae" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-john-hays-truck-test-4620ae" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'john-hays/' | relative_url }}" title="How Strong Is John Hays&#x27; Truck Account? | Retrieval Story" aria-label="Open page: How Strong Is John Hays&#x27; Truck Account? | Retrieval Story">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_john_hays_truck_test_4620ae-Illustration-1.webp' | relative_url }}" alt="Overview image for How Strong Is John Hays&#x27; Truck Account? | Retrieval Story" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">John Hays</span>
+<span class="ct-node-title-full">How Strong Is John Hays&#x27; Truck Account?</span>
+<span class="ct-node-summary">John Hays&#x27; childhood sighting is the best-known claim that a military flatbed left Kecksburg carrying a car-sized covered load.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'john-hays/' | relative_url }}" title="How Strong Is John Hays&#x27; Truck Account? | Retrieval Story" aria-label="Read more about How Strong Is John Hays&#x27; Truck Account? | Retrieval Story">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-kecksburg-convoy-gua-853609" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-kecksburg-convoy-gua-853609" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'convoy-claims/' | relative_url }}" title="Was There Really a Kecksburg Military Convoy? | Retrieval Story" aria-label="Open page: Was There Really a Kecksburg Military Convoy? | Retrieval Story">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_kecksburg_convoy_gua_853609-Illustration-1.webp' | relative_url }}" alt="Overview image for Was There Really a Kecksburg Military Convoy? | Retrieval Story" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Convoy Claims</span>
+<span class="ct-node-title-full">Was There Really a Kecksburg Military Convoy?</span>
+<span class="ct-node-summary">Later witnesses added escort vehicles, soldiers and armed guards, raising questions about which details were independent and when they appeared.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'convoy-claims/' | relative_url }}" title="Was There Really a Kecksburg Military Convoy? | Retrieval Story" aria-label="Read more about Was There Really a Kecksburg Military Convoy? | Retrieval Story">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-jerry-betters-truck-f2415a" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-jerry-betters-truck-f2415a" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'betters-drawing/' | relative_url }}" title="What Does Jerry Betters&#x27; Truck Drawing Prove? | Retrieval Story" aria-label="Open page: What Does Jerry Betters&#x27; Truck Drawing Prove? | Retrieval Story">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_jerry_betters_truck_f2415a-Illustration-1.webp' | relative_url }}" alt="Overview image for What Does Jerry Betters&#x27; Truck Drawing Prove? | Retrieval Story" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Betters Drawing</span>
+<span class="ct-node-title-full">What Does Jerry Betters&#x27; Truck Drawing Prove?</span>
+<span class="ct-node-summary">Jerry Betters&#x27; notarised drawing offers a vivid truck image, but its date, source history and relationship to later retellings are crucial.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'betters-drawing/' | relative_url }}" title="What Does Jerry Betters&#x27; Truck Drawing Prove? | Retrieval Story" aria-label="Read more about What Does Jerry Betters&#x27; Truck Drawing Prove? | Retrieval Story">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-retrieval-convoy-mis-9d9d19" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-retrieval-convoy-mis-9d9d19" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-records/' | relative_url }}" title="What Paper Trail Should a Retrieval Leave? | Retrieval Story" aria-label="Open page: What Paper Trail Should a Retrieval Leave? | Retrieval Story">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_retrieval_convoy_mis_9d9d19-Illustration-1.webp' | relative_url }}" alt="Overview image for What Paper Trail Should a Retrieval Leave? | Retrieval Story" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Missing Records</span>
+<span class="ct-node-title-full">What Paper Trail Should a Retrieval Leave?</span>
+<span class="ct-node-summary">A real recovery convoy would likely generate dispatch, access, fuel, cargo and receiving records, making the missing paper trail a testable issue.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records/' | relative_url }}" title="What Paper Trail Should a Retrieval Leave? | Retrieval Story" aria-label="Read more about What Paper Trail Should a Retrieval Leave? | Retrieval Story">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-lockbourne-wright-pa-92049a" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-lockbourne-wright-pa-92049a" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'base-destinations/' | relative_url }}" title="Where Was the Alleged Kecksburg Cargo Taken? | Retrieval Story" aria-label="Open page: Where Was the Alleged Kecksburg Cargo Taken? | Retrieval Story">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_lockbourne_wright_pa_92049a-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Was the Alleged Kecksburg Cargo Taken? | Retrieval Story" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Base Destinations</span>
+<span class="ct-node-title-full">Where Was the Alleged Kecksburg Cargo Taken?</span>
+<span class="ct-node-summary">Lockbourne and Wright-Patterson are often named as destinations, yet no verified gate log, cargo record or receiving document confirms either base.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'base-destinations/' | relative_url }}" title="Where Was the Alleged Kecksburg Cargo Taken? | Retrieval Story" aria-label="Read more about Where Was the Alleged Kecksburg Cargo Taken? | Retrieval Story">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'roswell-comparison/' | relative_url }}" title="Is Kecksburg Really Pennsylvania&#x27;s Roswell?" aria-label="Open page: Is Kecksburg Really Pennsylvania&#x27;s Roswell?">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6-overview.webp' | relative_url }}" alt="Overview image for Is Kecksburg Really Pennsylvania&#x27;s Roswell?" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Roswell Comparison</span>
+<span class="ct-node-title-full">Is Kecksburg Really Pennsylvania&#x27;s Roswell?</span>
+<span class="ct-node-summary">The Roswell nickname increased Kecksburg&#x27;s appeal but can blur major differences in evidence, chronology and public documentation.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Is Kecksburg Really Pennsylvania&#x27;s Roswell?" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'roswell-comparison/' | relative_url }}" title="Is Kecksburg Really Pennsylvania&#x27;s Roswell?" aria-label="Read more about Is Kecksburg Really Pennsylvania&#x27;s Roswell?">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-debris-vs-fireball-a7f933" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-debris-vs-fireball-a7f933" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'debris-vs-fireball/' | relative_url }}" title="Debris at Roswell, Fireball at Kecksburg | Roswell Comparison" aria-label="Open page: Debris at Roswell, Fireball at Kecksburg | Roswell Comparison">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_debris_vs_fireball_a7f933-Illustration-1.webp' | relative_url }}" alt="Overview image for Debris at Roswell, Fireball at Kecksburg | Roswell Comparison" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Debris vs Fireball</span>
+<span class="ct-node-title-full">Debris at Roswell, Fireball at Kecksburg</span>
+<span class="ct-node-summary">Roswell began with recovered material, while Kecksburg began with a well-observed fireball whose connection to the woods remains disputed.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-vs-fireball/' | relative_url }}" title="Debris at Roswell, Fireball at Kecksburg | Roswell Comparison" aria-label="Read more about Debris at Roswell, Fireball at Kecksburg | Roswell Comparison">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-military-secrecy-ufo-d52873" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-military-secrecy-ufo-d52873" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'secrecy-gap/' | relative_url }}" title="Does Military Secrecy Make a UFO Case Stronger? | Roswell Comparison" aria-label="Open page: Does Military Secrecy Make a UFO Case Stronger? | Roswell Comparison">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_military_secrecy_ufo_d52873-Illustration-1.webp' | relative_url }}" alt="Overview image for Does Military Secrecy Make a UFO Case Stronger? | Roswell Comparison" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Secrecy Gap</span>
+<span class="ct-node-title-full">Does Military Secrecy Make a UFO Case Stronger?</span>
+<span class="ct-node-summary">Both stories show how classified Cold War activity can create suspicion without proving that authorities recovered extraterrestrial technology.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secrecy-gap/' | relative_url }}" title="Does Military Secrecy Make a UFO Case Stronger? | Roswell Comparison" aria-label="Read more about Does Military Secrecy Make a UFO Case Stronger? | Roswell Comparison">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-television-roswell-r-0d3729" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-television-roswell-r-0d3729" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'tv-legacy/' | relative_url }}" title="How Television Made Kecksburg the New Roswell | Roswell Comparison" aria-label="Open page: How Television Made Kecksburg the New Roswell | Roswell Comparison">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_television_roswell_r_0d3729-Illustration-1.webp' | relative_url }}" alt="Overview image for How Television Made Kecksburg the New Roswell | Roswell Comparison" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">TV Legacy</span>
+<span class="ct-node-title-full">How Television Made Kecksburg the New Roswell</span>
+<span class="ct-node-summary">Television reconstructions supplied Kecksburg with a memorable acorn-shaped object and promoted it as a new version of the Roswell mystery.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tv-legacy/' | relative_url }}" title="How Television Made Kecksburg the New Roswell | Roswell Comparison" aria-label="Read more about How Television Made Kecksburg the New Roswell | Roswell Comparison">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-project-mogul-compar-490c2a" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-project-mogul-compar-490c2a" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'project-mogul/' | relative_url }}" title="What Project Mogul Means for Kecksburg Comparisons | Roswell Comparison" aria-label="Open page: What Project Mogul Means for Kecksburg Comparisons | Roswell Comparison">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_project_mogul_compar_490c2a-Illustration-1.webp' | relative_url }}" alt="Overview image for What Project Mogul Means for Kecksburg Comparisons | Roswell Comparison" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Project Mogul</span>
+<span class="ct-node-title-full">What Project Mogul Means for Kecksburg Comparisons</span>
+<span class="ct-node-summary">Project Mogul gives Roswell a specific classified-balloon explanation that has no equally documented counterpart in the Kecksburg case.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'project-mogul/' | relative_url }}" title="What Project Mogul Means for Kecksburg Comparisons | Roswell Comparison" aria-label="Read more about What Project Mogul Means for Kecksburg Comparisons | Roswell Comparison">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-why-pennsylvanias-ro-709aba" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-why-pennsylvanias-ro-709aba" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'the-nickname/' | relative_url }}" title="Why Kecksburg Became Pennsylvania&#x27;s Roswell | Roswell Comparison" aria-label="Open page: Why Kecksburg Became Pennsylvania&#x27;s Roswell | Roswell Comparison">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_why_pennsylvanias_ro_709aba-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Kecksburg Became Pennsylvania&#x27;s Roswell | Roswell Comparison" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">The Nickname</span>
+<span class="ct-node-title-full">Why Kecksburg Became Pennsylvania&#x27;s Roswell</span>
+<span class="ct-node-summary">The nickname endured because Kecksburg mirrored Roswell&#x27;s crash-retrieval story even though the underlying evidence was very different.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'the-nickname/' | relative_url }}" title="Why Kecksburg Became Pennsylvania&#x27;s Roswell | Roswell Comparison" aria-label="Read more about Why Kecksburg Became Pennsylvania&#x27;s Roswell | Roswell Comparison">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-roswell-press-releas-e74886" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-roswell-press-releas-e74886" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'press-record/' | relative_url }}" title="Why Roswell Had a Smoking Gun Headline | Roswell Comparison" aria-label="Open page: Why Roswell Had a Smoking Gun Headline | Roswell Comparison">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_roswell_press_releas_e74886-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Roswell Had a Smoking Gun Headline | Roswell Comparison" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Press Record</span>
+<span class="ct-node-title-full">Why Roswell Had a Smoking Gun Headline</span>
+<span class="ct-node-summary">Roswell&#x27;s Army announcement created a documented contradiction, while Kecksburg never produced a comparable official claim of recovered wreckage.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'press-record/' | relative_url }}" title="Why Roswell Had a Smoking Gun Headline | Roswell Comparison" aria-label="Read more about Why Roswell Had a Smoking Gun Headline | Roswell Comparison">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'search-failure/' | relative_url }}" title="Why a Real Meteor May Leave No Find | Kecksburg" aria-label="Open page: Why a Real Meteor May Leave No Find | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e-overview.webp' | relative_url }}" alt="Overview image for Why a Real Meteor May Leave No Find | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Search Failure</span>
+<span class="ct-node-title-full">Why a Real Meteor May Leave No Find</span>
+<span class="ct-node-summary">Even well-modelled meteor falls may leave tiny, scattered or inaccessible fragments that search teams never recover.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why a Real Meteor May Leave No Find | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'search-failure/' | relative_url }}" title="Why a Real Meteor May Leave No Find | Kecksburg" aria-label="Read more about Why a Real Meteor May Leave No Find | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-wind-model-fall-zone-e00237" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-wind-model-fall-zone-e00237" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'wind-errors/' | relative_url }}" title="How Far Can a Fall Prediction Miss? | Search Failure" aria-label="Open page: How Far Can a Fall Prediction Miss? | Search Failure">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_wind_model_fall_zone_e00237-Illustration-1.webp' | relative_url }}" alt="Overview image for How Far Can a Fall Prediction Miss? | Search Failure" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Wind Errors</span>
+<span class="ct-node-title-full">How Far Can a Fall Prediction Miss?</span>
+<span class="ct-node-summary">Small differences in atmospheric data can shift predicted landing points by hundreds of metres or more.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wind-errors/' | relative_url }}" title="How Far Can a Fall Prediction Miss? | Search Failure" aria-label="Read more about How Far Can a Fall Prediction Miss? | Search Failure">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-dark-flight-off-cour-74f989" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-dark-flight-off-cour-74f989" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'dark-flight/' | relative_url }}" title="Where Meteorites Go After the Light Ends | Search Failure" aria-label="Open page: Where Meteorites Go After the Light Ends | Search Failure">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_dark_flight_off_cour_74f989-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Meteorites Go After the Light Ends | Search Failure" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Dark Flight</span>
+<span class="ct-node-title-full">Where Meteorites Go After the Light Ends</span>
+<span class="ct-node-summary">Once fragments stop glowing, winds and gravity can carry them far from the place witnesses expect them to land.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dark-flight/' | relative_url }}" title="Where Meteorites Go After the Light Ends | Search Failure" aria-label="Read more about Where Meteorites Go After the Light Ends | Search Failure">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-woodland-meteorite-s-fa9f5c" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-woodland-meteorite-s-fa9f5c" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'woodland-searches/' | relative_url }}" title="Why Forests Swallow Meteorites So Quickly | Search Failure" aria-label="Open page: Why Forests Swallow Meteorites So Quickly | Search Failure">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_woodland_meteorite_s_fa9f5c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Forests Swallow Meteorites So Quickly | Search Failure" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Woodland Searches</span>
+<span class="ct-node-title-full">Why Forests Swallow Meteorites So Quickly</span>
+<span class="ct-node-summary">Leaf litter, roots, soft soil and dense brush can hide small meteorites within minutes of impact.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'woodland-searches/' | relative_url }}" title="Why Forests Swallow Meteorites So Quickly | Search Failure" aria-label="Read more about Why Forests Swallow Meteorites So Quickly | Search Failure">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-bright-fireballs-tin-11478a" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-bright-fireballs-tin-11478a" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'tiny-survivors/' | relative_url }}" title="Why Huge Fireballs Can Leave Almost Nothing | Search Failure" aria-label="Open page: Why Huge Fireballs Can Leave Almost Nothing | Search Failure">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_bright_fireballs_tin_11478a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Huge Fireballs Can Leave Almost Nothing | Search Failure" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Tiny Survivors</span>
+<span class="ct-node-title-full">Why Huge Fireballs Can Leave Almost Nothing</span>
+<span class="ct-node-summary">A spectacular fireball can lose nearly all its mass before the surviving fragments ever reach the ground.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tiny-survivors/' | relative_url }}" title="Why Huge Fireballs Can Leave Almost Nothing | Search Failure" aria-label="Read more about Why Huge Fireballs Can Leave Almost Nothing | Search Failure">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-strewn-fields-search-940368" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-strewn-fields-search-940368" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'strewn-fields/' | relative_url }}" title="Why Searchers Can Walk Past the Main Fall | Search Failure" aria-label="Open page: Why Searchers Can Walk Past the Main Fall | Search Failure">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_strewn_fields_search_940368-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Searchers Can Walk Past the Main Fall | Search Failure" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Strewn Fields</span>
+<span class="ct-node-title-full">Why Searchers Can Walk Past the Main Fall</span>
+<span class="ct-node-summary">Meteorites can be scattered unevenly across kilometres, leaving large empty gaps between dense pockets of fragments.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'strewn-fields/' | relative_url }}" title="Why Searchers Can Walk Past the Main Fall | Search Failure" aria-label="Read more about Why Searchers Can Walk Past the Main Fall | Search Failure">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-ribbeck-search-zone-fc7e89" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-ribbeck-search-zone-fc7e89" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ribbeck-search/' | relative_url }}" title="Why the First Ribbeck Search Missed | Search Failure" aria-label="Open page: Why the First Ribbeck Search Missed | Search Failure">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_ribbeck_search_zone_fc7e89-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the First Ribbeck Search Missed | Search Failure" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Ribbeck Search</span>
+<span class="ct-node-title-full">Why the First Ribbeck Search Missed</span>
+<span class="ct-node-summary">The first search failed until revised wind calculations moved the predicted fall zone to where the Ribbeck meteorites were found.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ribbeck-search/' | relative_url }}" title="Why the First Ribbeck Search Missed | Search Failure" aria-label="Read more about Why the First Ribbeck Search Missed | Search Failure">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'shock-waves/' | relative_url }}" title="What the Booms and Seismograph Recorded | Kecksburg" aria-label="Open page: What the Booms and Seismograph Recorded | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e-overview.webp' | relative_url }}" alt="Overview image for What the Booms and Seismograph Recorded | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Shock Waves</span>
+<span class="ct-node-title-full">What the Booms and Seismograph Recorded</span>
+<span class="ct-node-summary">Delayed booms and a Detroit-area seismic record provide physical evidence that the fireball generated powerful atmospheric shock waves.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What the Booms and Seismograph Recorded | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'shock-waves/' | relative_url }}" title="What the Booms and Seismograph Recorded | Kecksburg" aria-label="Read more about What the Booms and Seismograph Recorded | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-booms-meteor-vs-reen-b1761d" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-booms-meteor-vs-reen-b1761d" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'meteor-or-reentry/' | relative_url }}" title="Can Sonic Booms Reveal What the Object Was? | Shock Waves" aria-label="Open page: Can Sonic Booms Reveal What the Object Was? | Shock Waves">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_booms_meteor_vs_reen_b1761d-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Sonic Booms Reveal What the Object Was? | Shock Waves" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Meteor or Reentry</span>
+<span class="ct-node-title-full">Can Sonic Booms Reveal What the Object Was?</span>
+<span class="ct-node-summary">Meteoroids and re-entering spacecraft can both travel supersonically, so acoustic evidence alone cannot reliably identify the object.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'meteor-or-reentry/' | relative_url }}" title="Can Sonic Booms Reveal What the Object Was? | Shock Waves" aria-label="Read more about Can Sonic Booms Reveal What the Object Was? | Shock Waves">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-modern-sensors-kecks-568189" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-modern-sensors-kecks-568189" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'modern-sensors/' | relative_url }}" title="How Today&#x27;s Sensors Would Test the Kecksburg Story | Shock Waves" aria-label="Open page: How Today&#x27;s Sensors Would Test the Kecksburg Story | Shock Waves">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_modern_sensors_kecks_568189-Illustration-1.webp' | relative_url }}" alt="Overview image for How Today&#x27;s Sensors Would Test the Kecksburg Story | Shock Waves" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Modern Sensors</span>
+<span class="ct-node-title-full">How Today&#x27;s Sensors Would Test the Kecksburg Story</span>
+<span class="ct-node-summary">Video, radar, infrasound and multiple seismic stations could separate flight-path shocks from fragmentation and test any claimed impact zone.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'modern-sensors/' | relative_url }}" title="How Today&#x27;s Sensors Would Test the Kecksburg Story | Shock Waves" aria-label="Read more about How Today&#x27;s Sensors Would Test the Kecksburg Story | Shock Waves">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-ballistic-vs-fragmen-490f4d" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-ballistic-vs-fragmen-490f4d" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'boom-types/' | relative_url }}" title="One Fireball, Several Different Kinds of Boom | Shock Waves" aria-label="Open page: One Fireball, Several Different Kinds of Boom | Shock Waves">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_ballistic_vs_fragmen_490f4d-Illustration-1.webp' | relative_url }}" alt="Overview image for One Fireball, Several Different Kinds of Boom | Shock Waves" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Boom Types</span>
+<span class="ct-node-title-full">One Fireball, Several Different Kinds of Boom</span>
+<span class="ct-node-summary">A continuous Mach cone and separate breakup pulses can produce very different sequences of cracks, thumps and window-rattling blasts.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'boom-types/' | relative_url }}" title="One Fireball, Several Different Kinds of Boom | Shock Waves" aria-label="Read more about One Fireball, Several Different Kinds of Boom | Shock Waves">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-seismic-proof-ground-dc0fba" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-seismic-proof-ground-dc0fba" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'impact-proof/' | relative_url }}" title="What Would Real Seismic Proof of Impact Look Like? | Shock Waves" aria-label="Open page: What Would Real Seismic Proof of Impact Look Like? | Shock Waves">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_seismic_proof_ground_dc0fba-Illustration-1.webp' | relative_url }}" alt="Overview image for What Would Real Seismic Proof of Impact Look Like? | Shock Waves" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Impact Proof</span>
+<span class="ct-node-title-full">What Would Real Seismic Proof of Impact Look Like?</span>
+<span class="ct-node-summary">A genuine ground strike would require converging station data, impact-specific wave arrivals, disturbed terrain and recoverable material.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'impact-proof/' | relative_url }}" title="What Would Real Seismic Proof of Impact Look Like? | Shock Waves" aria-label="Read more about What Would Real Seismic Proof of Impact Look Like? | Shock Waves">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-delayed-boom-false-i-4b1833" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-delayed-boom-false-i-4b1833" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'delayed-booms/' | relative_url }}" title="Why Kecksburg&#x27;s Booms Sounded Like an Impact | Shock Waves" aria-label="Open page: Why Kecksburg&#x27;s Booms Sounded Like an Impact | Shock Waves">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_delayed_boom_false_i_4b1833-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Kecksburg&#x27;s Booms Sounded Like an Impact | Shock Waves" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Delayed Booms</span>
+<span class="ct-node-title-full">Why Kecksburg&#x27;s Booms Sounded Like an Impact</span>
+<span class="ct-node-summary">Minutes-late booms can make a high-altitude fireball seem to have crashed near the listener even when its path was far away.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'delayed-booms/' | relative_url }}" title="Why Kecksburg&#x27;s Booms Sounded Like an Impact | Shock Waves" aria-label="Read more about Why Kecksburg&#x27;s Booms Sounded Like an Impact | Shock Waves">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-terrain-weather-boom-a07d0c" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-terrain-weather-boom-a07d0c" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sound-distortion/' | relative_url }}" title="Why the Booms Seemed to Come From Kecksburg | Shock Waves" aria-label="Open page: Why the Booms Seemed to Come From Kecksburg | Shock Waves">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_terrain_weather_boom_a07d0c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Booms Seemed to Come From Kecksburg | Shock Waves" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Sound Distortion</span>
+<span class="ct-node-title-full">Why the Booms Seemed to Come From Kecksburg</span>
+<span class="ct-node-summary">Winds, temperature layers, hills and buildings can bend or reflect a pressure wave and make its apparent direction unreliable.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sound-distortion/' | relative_url }}" title="Why the Booms Seemed to Come From Kecksburg | Shock Waves" aria-label="Read more about Why the Booms Seemed to Come From Kecksburg | Shock Waves">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'space-debris/' | relative_url }}" title="Why Space Debris Would Trigger a Cordon | Kecksburg" aria-label="Open page: Why Space Debris Would Trigger a Cordon | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c-overview.webp' | relative_url }}" alt="Overview image for Why Space Debris Would Trigger a Cordon | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Space Debris</span>
+<span class="ct-node-title-full">Why Space Debris Would Trigger a Cordon</span>
+<span class="ct-node-summary">Unknown satellite debris could have carried toxic, explosive or radioactive hazards, making a rapid military response unsurprising.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Space Debris Would Trigger a Cordon | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'space-debris/' | relative_url }}" title="Why Space Debris Would Trigger a Cordon | Kecksburg" aria-label="Read more about Why Space Debris Would Trigger a Cordon | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-hydrazine-debris-ris-ec9767" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-hydrazine-debris-ris-ec9767" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hydrazine-risk/' | relative_url }}" title="Could Fallen Space Debris Still Contain Toxic Fuel?" aria-label="Open page: Could Fallen Space Debris Still Contain Toxic Fuel?">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_hydrazine_debris_ris_ec9767-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Fallen Space Debris Still Contain Toxic Fuel?" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Hydrazine Risk</span>
+<span class="ct-node-title-full">Could Fallen Space Debris Still Contain Toxic Fuel?</span>
+<span class="ct-node-summary">A scorched spacecraft tank could still release toxic hydrazine vapour or liquid even when no flames are visible.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hydrazine-risk/' | relative_url }}" title="Could Fallen Space Debris Still Contain Toxic Fuel?" aria-label="Read more about Could Fallen Space Debris Still Contain Toxic Fuel?">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-kosmos-954-cleanup-b4964e" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-kosmos-954-cleanup-b4964e" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'kosmos-954/' | relative_url }}" title="What Kosmos 954 Revealed About Space Debris Cleanup" aria-label="Open page: What Kosmos 954 Revealed About Space Debris Cleanup">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_kosmos_954_cleanup_b4964e-Illustration-1.webp' | relative_url }}" alt="Overview image for What Kosmos 954 Revealed About Space Debris Cleanup" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Kosmos 954</span>
+<span class="ct-node-title-full">What Kosmos 954 Revealed About Space Debris Cleanup</span>
+<span class="ct-node-summary">The 1978 Kosmos 954 cleanup showed how radioactive satellite debris could require aircraft, controlled zones and multinational recovery teams.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kosmos-954/' | relative_url }}" title="What Kosmos 954 Revealed About Space Debris Cleanup" aria-label="Read more about What Kosmos 954 Revealed About Space Debris Cleanup">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-space-debris-first-r-876a7f" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-space-debris-first-r-876a7f" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'first-response/' | relative_url }}" title="What Should Happen First When Space Debris Lands?" aria-label="Open page: What Should Happen First When Space Debris Lands?">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_space_debris_first_r_876a7f-Illustration-1.webp' | relative_url }}" alt="Overview image for What Should Happen First When Space Debris Lands?" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">First Response</span>
+<span class="ct-node-title-full">What Should Happen First When Space Debris Lands?</span>
+<span class="ct-node-summary">The safest first response is to keep people back, avoid touching fragments and identify hazards before moving anything.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'first-response/' | relative_url }}" title="What Should Happen First When Space Debris Lands?" aria-label="Read more about What Should Happen First When Space Debris Lands?">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-stored-energy-debris-21214a" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-stored-energy-debris-21214a" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'stored-energy/' | relative_url }}" title="Why Apparently Inert Space Debris Can Still Explode" aria-label="Open page: Why Apparently Inert Space Debris Can Still Explode">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_stored_energy_debris_21214a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Apparently Inert Space Debris Can Still Explode" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Stored Energy</span>
+<span class="ct-node-title-full">Why Apparently Inert Space Debris Can Still Explode</span>
+<span class="ct-node-summary">Tanks, batteries and pyrotechnic devices can retain dangerous stored energy after surviving atmospheric breakup and impact.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'stored-energy/' | relative_url }}" title="Why Apparently Inert Space Debris Can Still Explode" aria-label="Read more about Why Apparently Inert Space Debris Can Still Explode">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-moon-dust-debris-rec-989e8d" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-moon-dust-debris-rec-989e8d" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'moon-dust-9415db/' | relative_url }}" title="Why Foreign Space Debris Attracted Military Recovery Teams" aria-label="Open page: Why Foreign Space Debris Attracted Military Recovery Teams">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_moon_dust_debris_rec_989e8d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Foreign Space Debris Attracted Military Recovery Teams" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Moon Dust</span>
+<span class="ct-node-title-full">Why Foreign Space Debris Attracted Military Recovery Teams</span>
+<span class="ct-node-summary">Cold War recovery teams sought foreign space hardware for both public safety and the intelligence value of unfamiliar technology.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'moon-dust-9415db/' | relative_url }}" title="Why Foreign Space Debris Attracted Military Recovery Teams" aria-label="Read more about Why Foreign Space Debris Attracted Military Recovery Teams">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-radioactive-satellit-14dab6" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-radioactive-satellit-14dab6" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'nuclear-debris/' | relative_url }}" title="Why Radioactive Space Debris Was a Real Concern" aria-label="Open page: Why Radioactive Space Debris Was a Real Concern">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_radioactive_satellit_14dab6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Radioactive Space Debris Was a Real Concern" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Nuclear Debris</span>
+<span class="ct-node-title-full">Why Radioactive Space Debris Was a Real Concern</span>
+<span class="ct-node-summary">By 1965, nuclear-powered satellites made radioactive contamination a credible precaution when unknown space debris reached Earth.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nuclear-debris/' | relative_url }}" title="Why Radioactive Space Debris Was a Real Concern" aria-label="Read more about Why Radioactive Space Debris Was a Real Concern">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'stan-gordon/' | relative_url }}" title="How Stan Gordon Shaped the Kecksburg Story" aria-label="Open page: How Stan Gordon Shaped the Kecksburg Story">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28-overview.webp' | relative_url }}" alt="Overview image for How Stan Gordon Shaped the Kecksburg Story" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Stan Gordon</span>
+<span class="ct-node-title-full">How Stan Gordon Shaped the Kecksburg Story</span>
+<span class="ct-node-summary">Investigator Stan Gordon preserved many local accounts and helped shape the modern public understanding of the incident.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Stan Gordon Shaped the Kecksburg Story" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'stan-gordon/' | relative_url }}" title="How Stan Gordon Shaped the Kecksburg Story" aria-label="Read more about How Stan Gordon Shaped the Kecksburg Story">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-gordon-archive-audit-0adaa5" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-gordon-archive-audit-0adaa5" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'archive-audit/' | relative_url }}" title="Can Gordon&#x27;s Kecksburg Archive Be Independently Checked? | Stan Gordon" aria-label="Open page: Can Gordon&#x27;s Kecksburg Archive Be Independently Checked? | Stan Gordon">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_archive_audit_0adaa5-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Gordon&#x27;s Kecksburg Archive Be Independently Checked? | Stan Gordon" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Archive Audit</span>
+<span class="ct-node-title-full">Can Gordon&#x27;s Kecksburg Archive Be Independently Checked?</span>
+<span class="ct-node-summary">The lack of complete dated transcripts and disclosure histories makes it difficult to track when key Kecksburg details first appeared.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'archive-audit/' | relative_url }}" title="Can Gordon&#x27;s Kecksburg Archive Be Independently Checked? | Stan Gordon" aria-label="Read more about Can Gordon&#x27;s Kecksburg Archive Be Independently Checked? | Stan Gordon">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-television-witness-w-92fa04" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-television-witness-w-92fa04" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'publicity-waves/' | relative_url }}" title="Did Television Find Witnesses or Shape Their Memories? | Stan Gordon" aria-label="Open page: Did Television Find Witnesses or Shape Their Memories? | Stan Gordon">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_television_witness_w_92fa04-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Television Find Witnesses or Shape Their Memories? | Stan Gordon" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Publicity Waves</span>
+<span class="ct-node-title-full">Did Television Find Witnesses or Shape Their Memories?</span>
+<span class="ct-node-summary">National broadcasts brought new Kecksburg informants to Gordon while also giving later memories a ready-made storyline and visual template.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'publicity-waves/' | relative_url }}" title="Did Television Find Witnesses or Shape Their Memories? | Stan Gordon" aria-label="Read more about Did Television Find Witnesses or Shape Their Memories? | Stan Gordon">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-gordon-witness-netwo-007d85" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-gordon-witness-netwo-007d85" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'witness-network/' | relative_url }}" title="How Gordon Found Kecksburg&#x27;s Missing Witnesses | Stan Gordon" aria-label="Open page: How Gordon Found Kecksburg&#x27;s Missing Witnesses | Stan Gordon">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_witness_netwo_007d85-Illustration-1.webp' | relative_url }}" alt="Overview image for How Gordon Found Kecksburg&#x27;s Missing Witnesses | Stan Gordon" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Witness Network</span>
+<span class="ct-node-title-full">How Gordon Found Kecksburg&#x27;s Missing Witnesses</span>
+<span class="ct-node-summary">Gordon&#x27;s decades of local contacts turned scattered Kecksburg memories into the largest civilian witness network attached to the case.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-network/' | relative_url }}" title="How Gordon Found Kecksburg&#x27;s Missing Witnesses | Stan Gordon" aria-label="Read more about How Gordon Found Kecksburg&#x27;s Missing Witnesses | Stan Gordon">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-gordon-interview-che-f5c5a5" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-gordon-interview-che-f5c5a5" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'interview-checks/' | relative_url }}" title="How Gordon Tried to Separate Memory From Copying | Stan Gordon" aria-label="Open page: How Gordon Tried to Separate Memory From Copying | Stan Gordon">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_interview_che_f5c5a5-Illustration-1.webp' | relative_url }}" alt="Overview image for How Gordon Tried to Separate Memory From Copying | Stan Gordon" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Interview Checks</span>
+<span class="ct-node-title-full">How Gordon Tried to Separate Memory From Copying</span>
+<span class="ct-node-summary">Gordon said he withheld selected facts until separate sources confirmed them, a method intended to reduce copied testimony.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'interview-checks/' | relative_url }}" title="How Gordon Tried to Separate Memory From Copying | Stan Gordon" aria-label="Read more about How Gordon Tried to Separate Memory From Copying | Stan Gordon">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-preserved-kecksburg-ab0486" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-preserved-kecksburg-ab0486" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'preserved-testimony/' | relative_url }}" title="What Gordon Saved Before the Witnesses Were Gone | Stan Gordon" aria-label="Open page: What Gordon Saved Before the Witnesses Were Gone | Stan Gordon">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_preserved_kecksburg_ab0486-Illustration-1.webp' | relative_url }}" alt="Overview image for What Gordon Saved Before the Witnesses Were Gone | Stan Gordon" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Preserved Testimony</span>
+<span class="ct-node-title-full">What Gordon Saved Before the Witnesses Were Gone</span>
+<span class="ct-node-summary">Recorded interviews, sketches and location visits preserved first-generation testimony that official files largely ignored.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'preserved-testimony/' | relative_url }}" title="What Gordon Saved Before the Witnesses Were Gone | Stan Gordon" aria-label="Read more about What Gordon Saved Before the Witnesses Were Gone | Stan Gordon">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-kecksburg-witness-ty-a615c1" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-kecksburg-witness-ty-a615c1" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'witness-types/' | relative_url }}" title="Who Really Counts as a Kecksburg Witness? | Stan Gordon" aria-label="Open page: Who Really Counts as a Kecksburg Witness? | Stan Gordon">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_kecksburg_witness_ty_a615c1-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Really Counts as a Kecksburg Witness? | Stan Gordon" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Witness Types</span>
+<span class="ct-node-title-full">Who Really Counts as a Kecksburg Witness?</span>
+<span class="ct-node-summary">Gordon&#x27;s witness total combines direct observers with people reporting vehicles, roadblocks, radio traffic or second-hand military claims.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-types/' | relative_url }}" title="Who Really Counts as a Kecksburg Witness? | Stan Gordon" aria-label="Read more about Who Really Counts as a Kecksburg Witness? | Stan Gordon">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-television-national-641733" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-television-national-641733" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'television-impact/' | relative_url }}" title="How Television Reinvented Kecksburg" aria-label="Open page: How Television Reinvented Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_television_national_641733-overview.webp' | relative_url }}" alt="Overview image for How Television Reinvented Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Television Impact</span>
+<span class="ct-node-title-full">How Television Reinvented Kecksburg</span>
+<span class="ct-node-summary">A 1990 television reconstruction brought the acorn narrative to a national audience and reshaped the case&#x27;s cultural status.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Television Reinvented Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-television-national-641733"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'television-impact/' | relative_url }}" title="How Television Reinvented Kecksburg" aria-label="Read more about How Television Reinvented Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-television-national-641733" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-television-national-641733-vast-of-night-influe-b38a97" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-television-national-641733-vast-of-night-influe-b38a97" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'film-influence/' | relative_url }}" title="How Kecksburg Echoed Through The Vast of Night | Television Impact" aria-label="Open page: How Kecksburg Echoed Through The Vast of Night | Television Impact">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_television_national_641733_vast_of_night_influe_b38a97-Illustration-1.webp' | relative_url }}" alt="Overview image for How Kecksburg Echoed Through The Vast of Night | Television Impact" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Film Influence</span>
+<span class="ct-node-title-full">How Kecksburg Echoed Through The Vast of Night</span>
+<span class="ct-node-summary">The 2019 film drew on Kecksburg&#x27;s radio reporting, small-town unease and military secrecy to build a new science-fiction story.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'film-influence/' | relative_url }}" title="How Kecksburg Echoed Through The Vast of Night | Television Impact" aria-label="Read more about How Kecksburg Echoed Through The Vast of Night | Television Impact">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-television-national-641733-ufo-festival-local-i-4d88ad" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-television-national-641733-ufo-festival-local-i-4d88ad" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ufo-festival/' | relative_url }}" title="How Kecksburg Turned UFO Fame Into a Festival | Television Impact" aria-label="Open page: How Kecksburg Turned UFO Fame Into a Festival | Television Impact">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_television_national_641733_ufo_festival_local_i_4d88ad-Illustration-1.webp' | relative_url }}" alt="Overview image for How Kecksburg Turned UFO Fame Into a Festival | Television Impact" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">UFO Festival</span>
+<span class="ct-node-title-full">How Kecksburg Turned UFO Fame Into a Festival</span>
+<span class="ct-node-summary">Kecksburg converted outside fascination into a fundraiser, reunion and folklore event centered on the volunteer fire department.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ufo-festival/' | relative_url }}" title="How Kecksburg Turned UFO Fame Into a Festival | Television Impact" aria-label="Read more about How Kecksburg Turned UFO Fame Into a Festival | Television Impact">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-television-national-641733-broadcast-reframed-m-d0e9ad" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-television-national-641733-broadcast-reframed-m-d0e9ad" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'broadcast-framing/' | relative_url }}" title="How Television Changed the Central Kecksburg Question | Television Impact" aria-label="Open page: How Television Changed the Central Kecksburg Question | Television Impact">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_television_national_641733_broadcast_reframed_m_d0e9ad-Illustration-1.webp' | relative_url }}" alt="Overview image for How Television Changed the Central Kecksburg Question | Television Impact" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Broadcast Framing</span>
+<span class="ct-node-title-full">How Television Changed the Central Kecksburg Question</span>
+<span class="ct-node-summary">The episode shifted public attention from the fireball&#x27;s cause to the question of what the military may have removed.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'broadcast-framing/' | relative_url }}" title="How Television Changed the Central Kecksburg Question | Television Impact" aria-label="Read more about How Television Changed the Central Kecksburg Question | Television Impact">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-television-national-641733-reconstruction-vs-re-232681" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-television-national-641733-reconstruction-vs-re-232681" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'drama-vs-fact/' | relative_url }}" title="When Reconstruction Starts Looking Like Historical Evidence | Television Impact" aria-label="Open page: When Reconstruction Starts Looking Like Historical Evidence | Television Impact">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_television_national_641733_reconstruction_vs_re_232681-Illustration-1.webp' | relative_url }}" alt="Overview image for When Reconstruction Starts Looking Like Historical Evidence | Television Impact" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Drama vs Fact</span>
+<span class="ct-node-title-full">When Reconstruction Starts Looking Like Historical Evidence</span>
+<span class="ct-node-summary">The episode gave uncertain memories the visual solidity of filmed events, making production choices easy to mistake for historical evidence.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'drama-vs-fact/' | relative_url }}" title="When Reconstruction Starts Looking Like Historical Evidence | Television Impact" aria-label="Read more about When Reconstruction Starts Looking Like Historical Evidence | Television Impact">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-television-national-641733-later-programs-kecks-0f97ad" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-television-national-641733-later-programs-kecks-0f97ad" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'later-programs/' | relative_url }}" title="Why Later UFO Shows Kept Repeating Kecksburg | Television Impact" aria-label="Open page: Why Later UFO Shows Kept Repeating Kecksburg | Television Impact">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_television_national_641733_later_programs_kecks_0f97ad-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Later UFO Shows Kept Repeating Kecksburg | Television Impact" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Later Programs</span>
+<span class="ct-node-title-full">Why Later UFO Shows Kept Repeating Kecksburg</span>
+<span class="ct-node-summary">Subsequent documentaries retained the acorn craft, military retrieval and secrecy narrative even when their explanations changed.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'later-programs/' | relative_url }}" title="Why Later UFO Shows Kept Repeating Kecksburg | Television Impact" aria-label="Read more about Why Later UFO Shows Kept Repeating Kecksburg | Television Impact">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-television-national-641733-kecksburg-filming-op-0125a2" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-television-national-641733-kecksburg-filming-op-0125a2" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'local-opposition/' | relative_url }}" title="Why Some Kecksburg Residents Wanted Filming Stopped | Television Impact" aria-label="Open page: Why Some Kecksburg Residents Wanted Filming Stopped | Television Impact">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_television_national_641733_kecksburg_filming_op_0125a2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Some Kecksburg Residents Wanted Filming Stopped | Television Impact" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Local Opposition</span>
+<span class="ct-node-title-full">Why Some Kecksburg Residents Wanted Filming Stopped</span>
+<span class="ct-node-summary">A petition signed by dozens of residents revealed fears that national television would misrepresent the town and revive a disputed story.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'local-opposition/' | relative_url }}" title="Why Some Kecksburg Residents Wanted Filming Stopped | Television Impact" aria-label="Read more about Why Some Kecksburg Residents Wanted Filming Stopped | Television Impact">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'the-strongest-version-of-the-kecksburg/' | relative_url }}" title="How Strong Is the Kecksburg Crash Claim?" aria-label="Open page: How Strong Is the Kecksburg Crash Claim?">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f-overview.webp' | relative_url }}" alt="Overview image for How Strong Is the Kecksburg Crash Claim?" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">The Strongest Version Of The Kecksbur...</span>
+<span class="ct-node-title-full">How Strong Is the Kecksburg Crash Claim?</span>
+<span class="ct-node-summary">The Kecksburg case shows how to separate verified observations, plausible inferences and unsupported recovery claims.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Strong Is the Kecksburg Crash Claim?" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'the-strongest-version-of-the-kecksburg/' | relative_url }}" title="How Strong Is the Kecksburg Crash Claim?" aria-label="Read more about How Strong Is the Kecksburg Crash Claim?">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-fireball-trajectory-b0c45e" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-fireball-trajectory-b0c45e" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fireball-path/' | relative_url }}" title="Did the Fireball Really Reach Kecksburg? | The Strongest Version Of The Kecksburg Crash Claim" aria-label="Open page: Did the Fireball Really Reach Kecksburg? | The Strongest Version Of The Kecksburg Crash Claim">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_fireball_trajectory_b0c45e-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Fireball Really Reach Kecksburg? | The Strongest Version Of The Kecksburg Crash Claim" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Fireball Path</span>
+<span class="ct-node-title-full">Did the Fireball Really Reach Kecksburg?</span>
+<span class="ct-node-summary">Instrumental records confirm a major fireball, but they do not securely place its endpoint in the Kecksburg woods.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fireball-path/' | relative_url }}" title="Did the Fireball Really Reach Kecksburg? | The Strongest Version Of The Kecksburg Crash Claim" aria-label="Read more about Did the Fireball Really Reach Kecksburg? | The Strongest Version Of The Kecksburg Crash Claim">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-nasa-missing-records-c508f8" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-nasa-missing-records-c508f8" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-files/' | relative_url }}" title="Do NASA&#x27;s Missing Files Prove a Cover Up? | The Strongest Version Of The Kecksburg Crash Claim" aria-label="Open page: Do NASA&#x27;s Missing Files Prove a Cover Up? | The Strongest Version Of The Kecksburg Crash Claim">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_nasa_missing_records_c508f8-Illustration-1.webp' | relative_url }}" alt="Overview image for Do NASA&#x27;s Missing Files Prove a Cover Up? | The Strongest Version Of The Kecksburg Crash Claim" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Missing Files</span>
+<span class="ct-node-title-full">Do NASA&#x27;s Missing Files Prove a Cover Up?</span>
+<span class="ct-node-summary">Missing NASA files show that the archive is incomplete, but they do not reveal whether any document supported a secret Kecksburg recovery.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-files/' | relative_url }}" title="Do NASA&#x27;s Missing Files Prove a Cover Up? | The Strongest Version Of The Kecksburg Crash Claim" aria-label="Read more about Do NASA&#x27;s Missing Files Prove a Cover Up? | The Strongest Version Of The Kecksburg Crash Claim">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-acorn-craft-testimon-0a3938" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-acorn-craft-testimon-0a3938" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'acorn-testimony/' | relative_url }}" title="How Reliable Is the Acorn Shaped Craft Story? | The Strongest Version Of The Kecksburg Crash Claim" aria-label="Open page: How Reliable Is the Acorn Shaped Craft Story? | The Strongest Version Of The Kecksburg Crash Claim">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_acorn_craft_testimon_0a3938-Illustration-1.webp' | relative_url }}" alt="Overview image for How Reliable Is the Acorn Shaped Craft Story? | The Strongest Version Of The Kecksburg Crash Claim" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Acorn Testimony</span>
+<span class="ct-node-title-full">How Reliable Is the Acorn Shaped Craft Story?</span>
+<span class="ct-node-summary">The famous acorn-shaped object rests largely on later recollections that may have been influenced by repeated retellings and television imagery.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'acorn-testimony/' | relative_url }}" title="How Reliable Is the Acorn Shaped Craft Story? | The Strongest Version Of The Kecksburg Crash Claim" aria-label="Read more about How Reliable Is the Acorn Shaped Craft Story? | The Strongest Version Of The Kecksburg Crash Claim">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-kosmos-96-reentry-59d4de" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-kosmos-96-reentry-59d4de" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'kosmos-96-ef12fc/' | relative_url }}" title="Was Kosmos 96 the Kecksburg Object? | The Strongest Version Of The Kecksburg Crash Claim" aria-label="Open page: Was Kosmos 96 the Kecksburg Object? | The Strongest Version Of The Kecksburg Crash Claim">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kosmos_96_reentry_59d4de-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Kosmos 96 the Kecksburg Object? | The Strongest Version Of The Kecksburg Crash Claim" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Kosmos 96</span>
+<span class="ct-node-title-full">Was Kosmos 96 the Kecksburg Object?</span>
+<span class="ct-node-summary">Timing and trajectory evidence weaken the Kosmos 96 explanation, but rejecting it does not establish that an unknown craft landed at Kecksburg.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kosmos-96-ef12fc/' | relative_url }}" title="Was Kosmos 96 the Kecksburg Object? | The Strongest Version Of The Kecksburg Crash Claim" aria-label="Read more about Was Kosmos 96 the Kecksburg Object? | The Strongest Version Of The Kecksburg Crash Claim">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-kecksburg-official-s-8dbebe" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-kecksburg-official-s-8dbebe" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'official-search/' | relative_url }}" title="What Did Officials Find in the Woods? | The Strongest Version Of The Kecksburg Crash Claim" aria-label="Open page: What Did Officials Find in the Woods? | The Strongest Version Of The Kecksburg Crash Claim">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kecksburg_official_s_8dbebe-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did Officials Find in the Woods? | The Strongest Version Of The Kecksburg Crash Claim" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Official Search</span>
+<span class="ct-node-title-full">What Did Officials Find in the Woods?</span>
+<span class="ct-node-summary">Police, firefighters and Air Force personnel searched near Kecksburg, but contemporary reports do not confirm that they recovered a craft.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'official-search/' | relative_url }}" title="What Did Officials Find in the Woods? | The Strongest Version Of The Kecksburg Crash Claim" aria-label="Read more about What Did Officials Find in the Woods? | The Strongest Version Of The Kecksburg Crash Claim">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-military-convoy-clai-4a8b6f" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-military-convoy-clai-4a8b6f" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'convoy-claim/' | relative_url }}" title="Where Is the Evidence for the Military Convoy? | The Strongest Version Of The Kecksburg Crash Claim" aria-label="Open page: Where Is the Evidence for the Military Convoy? | The Strongest Version Of The Kecksburg Crash Claim">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_military_convoy_clai_4a8b6f-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Is the Evidence for the Military Convoy? | The Strongest Version Of The Kecksburg Crash Claim" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Convoy Claim</span>
+<span class="ct-node-title-full">Where Is the Evidence for the Military Convoy?</span>
+<span class="ct-node-summary">Claims of a truck carrying a covered object remain unverified because no continuous chain of loading, transport and receipt records has surfaced.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'convoy-claim/' | relative_url }}" title="Where Is the Evidence for the Military Convoy? | The Strongest Version Of The Kecksburg Crash Claim" aria-label="Read more about Where Is the Evidence for the Military Convoy? | The Strongest Version Of The Kecksburg Crash Claim">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'trajectory/' | relative_url }}" title="Did the Fireball Actually Reach Kecksburg?" aria-label="Open page: Did the Fireball Actually Reach Kecksburg?">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2-overview.webp' | relative_url }}" alt="Overview image for Did the Fireball Actually Reach Kecksburg?" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Trajectory</span>
+<span class="ct-node-title-full">Did the Fireball Actually Reach Kecksburg?</span>
+<span class="ct-node-summary">The reconstructed path points toward western Lake Erie rather than Pennsylvania, challenging a direct Kecksburg impact.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Did the Fireball Actually Reach Kecksburg?" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trajectory/' | relative_url }}" title="Did the Fireball Actually Reach Kecksburg?" aria-label="Read more about Did the Fireball Actually Reach Kecksburg?">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-modern-error-scale-6ad6ca" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-modern-error-scale-6ad6ca" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'error-scale/' | relative_url }}" title="Are Modern Meteor Errors Large Enough to Reach Kecksburg? | Trajectory" aria-label="Open page: Are Modern Meteor Errors Large Enough to Reach Kecksburg? | Trajectory">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_modern_error_scale_6ad6ca-Illustration-1.webp' | relative_url }}" alt="Overview image for Are Modern Meteor Errors Large Enough to Reach Kecksburg? | Trajectory" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Error Scale</span>
+<span class="ct-node-title-full">Are Modern Meteor Errors Large Enough to Reach Kecksburg?</span>
+<span class="ct-node-summary">Instrumented meteorite falls show prediction errors of metres or kilometres, not the roughly 200-mile displacement needed to reach Kecksburg.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'error-scale/' | relative_url }}" title="Are Modern Meteor Errors Large Enough to Reach Kecksburg? | Trajectory" aria-label="Read more about Are Modern Meteor Errors Large Enough to Reach Kecksburg? | Trajectory">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-dark-flight-distance-786023" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-dark-flight-distance-786023" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'dark-flight-601658/' | relative_url }}" title="Could Dark Flight Carry Debris All the Way to Kecksburg? | Trajectory" aria-label="Open page: Could Dark Flight Carry Debris All the Way to Kecksburg? | Trajectory">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_dark_flight_distance_786023-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Dark Flight Carry Debris All the Way to Kecksburg? | Trajectory" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Dark Flight</span>
+<span class="ct-node-title-full">Could Dark Flight Carry Debris All the Way to Kecksburg?</span>
+<span class="ct-node-summary">Dark flight can move a meteorite beyond its luminous endpoint, but normal gravity and wind cannot redirect it hundreds of kilometres toward Kecksburg.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dark-flight-601658/' | relative_url }}" title="Could Dark Flight Carry Debris All the Way to Kecksburg? | Trajectory" aria-label="Read more about Could Dark Flight Carry Debris All the Way to Kecksburg? | Trajectory">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-wind-distortion-limi-8b49ad" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-wind-distortion-limi-8b49ad" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'wind-distortion/' | relative_url }}" title="Could High Altitude Winds Mislead the Kecksburg Reconstruction? | Trajectory" aria-label="Open page: Could High Altitude Winds Mislead the Kecksburg Reconstruction? | Trajectory">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_wind_distortion_limi_8b49ad-Illustration-1.webp' | relative_url }}" alt="Overview image for Could High Altitude Winds Mislead the Kecksburg Reconstruction? | Trajectory" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Wind Distortion</span>
+<span class="ct-node-title-full">Could High Altitude Winds Mislead the Kecksburg Reconstruction?</span>
+<span class="ct-node-summary">Upper-atmospheric winds could bend a persistent train after passage, but the key question is whether they could erase its broad south-eastern limit.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wind-distortion/' | relative_url }}" title="Could High Altitude Winds Mislead the Kecksburg Reconstruction? | Trajectory" aria-label="Read more about Could High Altitude Winds Mislead the Kecksburg Reconstruction? | Trajectory">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-two-camera-triangula-1f9911" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-two-camera-triangula-1f9911" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'triangulation-54f075/' | relative_url }}" title="How Two Michigan Photos Fixed the Fireball&#x27;s Path | Trajectory" aria-label="Open page: How Two Michigan Photos Fixed the Fireball&#x27;s Path | Trajectory">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_camera_triangula_1f9911-Illustration-1.webp' | relative_url }}" alt="Overview image for How Two Michigan Photos Fixed the Fireball&#x27;s Path | Trajectory" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Triangulation</span>
+<span class="ct-node-title-full">How Two Michigan Photos Fixed the Fireball&#x27;s Path</span>
+<span class="ct-node-summary">Photographs from Pontiac and Orchard Lake constrained the fireball in three dimensions more reliably than eyewitness impressions alone.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'triangulation-54f075/' | relative_url }}" title="How Two Michigan Photos Fixed the Fireball&#x27;s Path | Trajectory" aria-label="Read more about How Two Michigan Photos Fixed the Fireball&#x27;s Path | Trajectory">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-two-event-hypothesis-0e38b7" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-two-event-hypothesis-0e38b7" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'two-events/' | relative_url }}" title="Were the Fireball and Kecksburg Reports Separate Events? | Trajectory" aria-label="Open page: Were the Fireball and Kecksburg Reports Separate Events? | Trajectory">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_event_hypothesis_0e38b7-Illustration-1.webp' | relative_url }}" alt="Overview image for Were the Fireball and Kecksburg Reports Separate Events? | Trajectory" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Two Events</span>
+<span class="ct-node-title-full">Were the Fireball and Kecksburg Reports Separate Events?</span>
+<span class="ct-node-summary">The Great Lakes fireball and Kecksburg&#x27;s local smoke, thump and woodland reports may have coincided without sharing one continuous physical...</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'two-events/' | relative_url }}" title="Were the Fireball and Kecksburg Reports Separate Events? | Trajectory" aria-label="Read more about Were the Fireball and Kecksburg Reports Separate Events? | Trajectory">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-kecksburg-fragment-p-edfe54" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-kecksburg-fragment-p-edfe54" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-branch/' | relative_url }}" title="What Would Prove a Fragment Broke Toward Kecksburg? | Trajectory" aria-label="Open page: What Would Prove a Fragment Broke Toward Kecksburg? | Trajectory">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_kecksburg_fragment_p_edfe54-Illustration-1.webp' | relative_url }}" alt="Overview image for What Would Prove a Fragment Broke Toward Kecksburg? | Trajectory" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Missing Branch</span>
+<span class="ct-node-title-full">What Would Prove a Fragment Broke Toward Kecksburg?</span>
+<span class="ct-node-summary">A credible link would need independent photographs, radar or timed observations showing a major branch leaving the measured Lake Erie corridor.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-branch/' | relative_url }}" title="What Would Prove a Fragment Broke Toward Kecksburg? | Trajectory" aria-label="Read more about What Would Prove a Fragment Broke Toward Kecksburg? | Trajectory">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'us-vehicle/' | relative_url }}" title="Was Kecksburg a Secret American Spacecraft?" aria-label="Open page: Was Kecksburg a Secret American Spacecraft?">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec-overview.webp' | relative_url }}" alt="Overview image for Was Kecksburg a Secret American Spacecraft?" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">US Vehicle</span>
+<span class="ct-node-title-full">Was Kecksburg a Secret American Spacecraft?</span>
+<span class="ct-node-summary">A classified US re-entry vehicle could explain the shape and secrecy claims, but no public evidence ties one to Kecksburg.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Was Kecksburg a Secret American Spacecraft?" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'us-vehicle/' | relative_url }}" title="Was Kecksburg a Secret American Spacecraft?" aria-label="Read more about Was Kecksburg a Secret American Spacecraft?">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-reentry-steering-lim-d35311" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-reentry-steering-lim-d35311" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'steering-limits/' | relative_url }}" title="Could a Secret Capsule Really Steer to Kecksburg? | US Vehicle" aria-label="Open page: Could a Secret Capsule Really Steer to Kecksburg? | US Vehicle">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_reentry_steering_lim_d35311-Illustration-1.webp' | relative_url }}" alt="Overview image for Could a Secret Capsule Really Steer to Kecksburg? | US Vehicle" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Steering Limits</span>
+<span class="ct-node-title-full">Could a Secret Capsule Really Steer to Kecksburg?</span>
+<span class="ct-node-summary">American research explored guided re-entry, but the ability to make limited corrections was far removed from aircraft-like turning over Ohio and...</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'steering-limits/' | relative_url }}" title="Could a Secret Capsule Really Steer to Kecksburg? | US Vehicle" aria-label="Read more about Could a Secret Capsule Really Steer to Kecksburg? | US Vehicle">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-thor-agena-timeline-35558f" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-thor-agena-timeline-35558f" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'launch-timeline/' | relative_url }}" title="Did the Thor Agena Mission Put Anything Over Kecksburg? | US Vehicle" aria-label="Open page: Did the Thor Agena Mission Put Anything Over Kecksburg? | US Vehicle">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_thor_agena_timeline_35558f-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Thor Agena Mission Put Anything Over Kecksburg? | US Vehicle" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Launch Timeline</span>
+<span class="ct-node-title-full">Did the Thor Agena Mission Put Anything Over Kecksburg?</span>
+<span class="ct-node-summary">The known Thor-Agena launch that day placed a reconnaissance payload in orbit and does not provide a documented capsule returning over Pennsylvania.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'launch-timeline/' | relative_url }}" title="Did the Thor Agena Mission Put Anything Over Kecksburg? | US Vehicle" aria-label="Read more about Did the Thor Agena Mission Put Anything Over Kecksburg? | US Vehicle">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-mark-2-match-tested-934cf1" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-mark-2-match-tested-934cf1" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mark-2-match/' | relative_url }}" title="Was Kecksburg Really a Mark 2 Vehicle? | US Vehicle" aria-label="Open page: Was Kecksburg Really a Mark 2 Vehicle? | US Vehicle">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_mark_2_match_tested_934cf1-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Kecksburg Really a Mark 2 Vehicle? | US Vehicle" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Mark 2 Match</span>
+<span class="ct-node-title-full">Was Kecksburg Really a Mark 2 Vehicle?</span>
+<span class="ct-node-summary">The Mark 2 resembles an acorn-shaped capsule, but its dimensions, purpose and surface details create serious problems for a precise Kecksburg match.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mark-2-match/' | relative_url }}" title="Was Kecksburg Really a Mark 2 Vehicle? | US Vehicle" aria-label="Read more about Was Kecksburg Really a Mark 2 Vehicle? | US Vehicle">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-kecksburg-capsule-si-823936" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-kecksburg-capsule-si-823936" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'size-test/' | relative_url }}" title="Was the Kecksburg Object Too Large for Mark 2? | US Vehicle" aria-label="Open page: Was the Kecksburg Object Too Large for Mark 2? | US Vehicle">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_kecksburg_capsule_si_823936-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the Kecksburg Object Too Large for Mark 2? | US Vehicle" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Size Test</span>
+<span class="ct-node-title-full">Was the Kecksburg Object Too Large for Mark 2?</span>
+<span class="ct-node-summary">Witness estimates range from a compact industrial capsule to something larger than a car, and that spread determines which American vehicles remain...</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'size-test/' | relative_url }}" title="Was the Kecksburg Object Too Large for Mark 2? | US Vehicle" aria-label="Read more about Was the Kecksburg Object Too Large for Mark 2? | US Vehicle">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-secret-vehicle-types-a8e3e6" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-secret-vehicle-types-a8e3e6" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'vehicle-types/' | relative_url }}" title="Which Secret American Vehicle Best Fits Kecksburg? | US Vehicle" aria-label="Open page: Which Secret American Vehicle Best Fits Kecksburg? | US Vehicle">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_secret_vehicle_types_a8e3e6-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Secret American Vehicle Best Fits Kecksburg? | US Vehicle" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Vehicle Types</span>
+<span class="ct-node-title-full">Which Secret American Vehicle Best Fits Kecksburg?</span>
+<span class="ct-node-summary">Several secret American systems shared blunt-body shapes, but their missions, launch paths and recovery methods make them very different Kecksburg...</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vehicle-types/' | relative_url }}" title="Which Secret American Vehicle Best Fits Kecksburg? | US Vehicle" aria-label="Read more about Which Secret American Vehicle Best Fits Kecksburg? | US Vehicle">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-x23-prime-timing-62d66b" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-x23-prime-timing-62d66b" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'x-23-timing/' | relative_url }}" title="Why X 23 PRIME Is the Wrong Kecksburg Candidate | US Vehicle" aria-label="Open page: Why X 23 PRIME Is the Wrong Kecksburg Candidate | US Vehicle">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_x23_prime_timing_62d66b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why X 23 PRIME Is the Wrong Kecksburg Candidate | US Vehicle" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">X 23 Timing</span>
+<span class="ct-node-title-full">Why X 23 PRIME Is the Wrong Kecksburg Candidate</span>
+<span class="ct-node-summary">X-23 PRIME proves that guided re-entry was real, but its first flight occurred after Kecksburg and its recovery profile does not fit the 1965 event.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'x-23-timing/' | relative_url }}" title="Why X 23 PRIME Is the Wrong Kecksburg Candidate | US Vehicle" aria-label="Read more about Why X 23 PRIME Is the Wrong Kecksburg Candidate | US Vehicle">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'visual-illusion/' | relative_url }}" title="Why Distant Fireballs Seem to Land Nearby | Kecksburg" aria-label="Open page: Why Distant Fireballs Seem to Land Nearby | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6-overview.webp' | relative_url }}" alt="Overview image for Why Distant Fireballs Seem to Land Nearby | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Visual Illusion</span>
+<span class="ct-node-title-full">Why Distant Fireballs Seem to Land Nearby</span>
+<span class="ct-node-summary">A distant meteor can appear to fall behind a nearby ridge because night skies provide poor clues to distance and scale.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Distant Fireballs Seem to Land Nearby | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'visual-illusion/' | relative_url }}" title="Why Distant Fireballs Seem to Land Nearby | Kecksburg" aria-label="Read more about Why Distant Fireballs Seem to Land Nearby | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-sonic-boom-false-loc-76c136" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-sonic-boom-false-loc-76c136" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'boom-delay/' | relative_url }}" title="Can a Late Boom Point to the Wrong Place? | Visual Illusion" aria-label="Open page: Can a Late Boom Point to the Wrong Place? | Visual Illusion">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_sonic_boom_false_loc_76c136-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Late Boom Point to the Wrong Place? | Visual Illusion" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Boom Delay</span>
+<span class="ct-node-title-full">Can a Late Boom Point to the Wrong Place?</span>
+<span class="ct-node-summary">A boom heard after the flash can be linked to the wrong place because sound arrives much later than light.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'boom-delay/' | relative_url }}" title="Can a Late Boom Point to the Wrong Place? | Visual Illusion" aria-label="Read more about Can a Late Boom Point to the Wrong Place? | Visual Illusion">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-angular-speed-proxim-5273b8" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-angular-speed-proxim-5273b8" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'speed-illusion/' | relative_url }}" title="Does Fast Motion Make a Fireball Look Closer? | Visual Illusion" aria-label="Open page: Does Fast Motion Make a Fireball Look Closer? | Visual Illusion">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_angular_speed_proxim_5273b8-Illustration-1.webp' | relative_url }}" alt="Overview image for Does Fast Motion Make a Fireball Look Closer? | Visual Illusion" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Speed Illusion</span>
+<span class="ct-node-title-full">Does Fast Motion Make a Fireball Look Closer?</span>
+<span class="ct-node-summary">Rapid motion across the sky can mimic the visual behaviour of a close object even when the fireball is far away.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'speed-illusion/' | relative_url }}" title="Does Fast Motion Make a Fireball Look Closer? | Visual Illusion" aria-label="Read more about Does Fast Motion Make a Fireball Look Closer? | Visual Illusion">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-fireball-trajectory-dfa43d" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-fireball-trajectory-dfa43d" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'triangulation/' | relative_url }}" title="How Investigators Locate a Fireball in Three Dimensions | Visual Illusion" aria-label="Open page: How Investigators Locate a Fireball in Three Dimensions | Visual Illusion">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_fireball_trajectory_dfa43d-Illustration-1.webp' | relative_url }}" alt="Overview image for How Investigators Locate a Fireball in Three Dimensions | Visual Illusion" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Triangulation</span>
+<span class="ct-node-title-full">How Investigators Locate a Fireball in Three Dimensions</span>
+<span class="ct-node-summary">Separated cameras and witnesses provide intersecting sightlines that reveal the altitude and ground track a single view cannot.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'triangulation/' | relative_url }}" title="How Investigators Locate a Fireball in Three Dimensions | Visual Illusion" aria-label="Read more about How Investigators Locate a Fireball in Three Dimensions | Visual Illusion">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-multiple-towns-local-7f4587" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-multiple-towns-local-7f4587" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'many-towns/' | relative_url }}" title="How One Fireball Seems Local to Many Towns | Visual Illusion" aria-label="Open page: How One Fireball Seems Local to Many Towns | Visual Illusion">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_multiple_towns_local_7f4587-Illustration-1.webp' | relative_url }}" alt="Overview image for How One Fireball Seems Local to Many Towns | Visual Illusion" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Many Towns</span>
+<span class="ct-node-title-full">How One Fireball Seems Local to Many Towns</span>
+<span class="ct-node-summary">A high, extended fireball path can make widely separated communities each believe the event passed directly above them.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'many-towns/' | relative_url }}" title="How One Fireball Seems Local to Many Towns | Visual Illusion" aria-label="Read more about How One Fireball Seems Local to Many Towns | Visual Illusion">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-fireball-cloud-light-d252ef" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-fireball-cloud-light-d252ef" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'local-light/' | relative_url }}" title="Why Fireball Light Can Feel Close to Home | Visual Illusion" aria-label="Open page: Why Fireball Light Can Feel Close to Home | Visual Illusion">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_fireball_cloud_light_d252ef-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Fireball Light Can Feel Close to Home | Visual Illusion" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Local Light</span>
+<span class="ct-node-title-full">Why Fireball Light Can Feel Close to Home</span>
+<span class="ct-node-summary">Lit clouds, shadows and glowing trains can feel local because they resemble lightning, fireworks or an aircraft emergency.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'local-light/' | relative_url }}" title="Why Fireball Light Can Feel Close to Home | Visual Illusion" aria-label="Read more about Why Fireball Light Can Feel Close to Home | Visual Illusion">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-horizon-false-landin-cbb01a" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-horizon-false-landin-cbb01a" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-endpoints/' | relative_url }}" title="Why Fireballs Seem to Vanish Behind Nearby Hills | Visual Illusion" aria-label="Open page: Why Fireballs Seem to Vanish Behind Nearby Hills | Visual Illusion">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_horizon_false_landin_cbb01a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Fireballs Seem to Vanish Behind Nearby Hills | Visual Illusion" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">False Endpoints</span>
+<span class="ct-node-title-full">Why Fireballs Seem to Vanish Behind Nearby Hills</span>
+<span class="ct-node-summary">A ridge or treeline can hide the final luminous path and make a distant fireball seem to strike nearby ground.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-endpoints/' | relative_url }}" title="Why Fireballs Seem to Vanish Behind Nearby Hills | Visual Illusion" aria-label="Read more about Why Fireballs Seem to Vanish Behind Nearby Hills | Visual Illusion">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'witness-memory/' | relative_url }}" title="How Did the Witness Story Grow? | Kecksburg" aria-label="Open page: How Did the Witness Story Grow? | Kecksburg">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe-overview.webp' | relative_url }}" alt="Overview image for How Did the Witness Story Grow? | Kecksburg" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Witness Memory</span>
+<span class="ct-node-title-full">How Did the Witness Story Grow?</span>
+<span class="ct-node-summary">Sincere memories can change through repetition, suggestion and media exposure without deliberate fabrication.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Did the Witness Story Grow? | Kecksburg" aria-expanded="false" aria-controls="home-vertical-children-node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-memory/' | relative_url }}" title="How Did the Witness Story Grow? | Kecksburg" aria-label="Read more about How Did the Witness Story Grow? | Kecksburg">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe" data-leaf-grid-columns="3" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-source-confusion-tes-bcf753" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-source-confusion-tes-bcf753" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'source-confusion/' | relative_url }}" title="Did Witnesses Remember Seeing or Hearing It? | Witness Memory" aria-label="Open page: Did Witnesses Remember Seeing or Hearing It? | Witness Memory">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_source_confusion_tes_bcf753-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Witnesses Remember Seeing or Hearing It? | Witness Memory" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Source Confusion</span>
+<span class="ct-node-title-full">Did Witnesses Remember Seeing or Hearing It?</span>
+<span class="ct-node-summary">A remembered detail may feel firsthand even when it came from a neighbour, interviewer, photograph or television reconstruction.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'source-confusion/' | relative_url }}" title="Did Witnesses Remember Seeing or Hearing It? | Witness Memory" aria-label="Read more about Did Witnesses Remember Seeing or Hearing It? | Witness Memory">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-neighbour-talk-misin-216da3" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-neighbour-talk-misin-216da3" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'neighbour-talk/' | relative_url }}" title="How Community Talk Could Reshape Kecksburg Memories | Witness Memory" aria-label="Open page: How Community Talk Could Reshape Kecksburg Memories | Witness Memory">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_neighbour_talk_misin_216da3-Illustration-1.webp' | relative_url }}" alt="Overview image for How Community Talk Could Reshape Kecksburg Memories | Witness Memory" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Neighbour Talk</span>
+<span class="ct-node-title-full">How Community Talk Could Reshape Kecksburg Memories</span>
+<span class="ct-node-summary">Ordinary conversations after the event could have spread vivid details that later felt like independent personal memories.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'neighbour-talk/' | relative_url }}" title="How Community Talk Could Reshape Kecksburg Memories | Witness Memory" aria-label="Read more about How Community Talk Could Reshape Kecksburg Memories | Witness Memory">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-interview-framing-ke-506942" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-interview-framing-ke-506942" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'interview-framing/' | relative_url }}" title="How Interviewers Shaped the Kecksburg Story | Witness Memory" aria-label="Open page: How Interviewers Shaped the Kecksburg Story | Witness Memory">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_interview_framing_ke_506942-Illustration-1.webp' | relative_url }}" alt="Overview image for How Interviewers Shaped the Kecksburg Story | Witness Memory" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Interview Framing</span>
+<span class="ct-node-title-full">How Interviewers Shaped the Kecksburg Story</span>
+<span class="ct-node-summary">Paranormal researchers, sceptics and television producers asked different questions, shaping which parts of uncertain memories became prominent.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'interview-framing/' | relative_url }}" title="How Interviewers Shaped the Kecksburg Story | Witness Memory" aria-label="Read more about How Interviewers Shaped the Kecksburg Story | Witness Memory">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-kecksburg-collective-85efd7" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-kecksburg-collective-85efd7" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'collective-memory/' | relative_url }}" title="How Kecksburg Became a Community Story | Witness Memory" aria-label="Open page: How Kecksburg Became a Community Story | Witness Memory">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_kecksburg_collective_85efd7-Illustration-1.webp' | relative_url }}" alt="Overview image for How Kecksburg Became a Community Story | Witness Memory" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Collective Memory</span>
+<span class="ct-node-title-full">How Kecksburg Became a Community Story</span>
+<span class="ct-node-summary">Anniversaries, tourism and local storytelling helped a shared version of the incident outlast quieter and less certain recollections.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'collective-memory/' | relative_url }}" title="How Kecksburg Became a Community Story | Witness Memory" aria-label="Read more about How Kecksburg Became a Community Story | Witness Memory">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-early-reports-memory-f1dc8d" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-early-reports-memory-f1dc8d" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'early-reports/' | relative_url }}" title="What Did Kecksburg Witnesses Say First? | Witness Memory" aria-label="Open page: What Did Kecksburg Witnesses Say First? | Witness Memory">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_early_reports_memory_f1dc8d-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did Kecksburg Witnesses Say First? | Witness Memory" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Early Reports</span>
+<span class="ct-node-title-full">What Did Kecksburg Witnesses Say First?</span>
+<span class="ct-node-summary">The December 1965 reports reveal which details appeared immediately and which entered the story only after years of retelling.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'early-reports/' | relative_url }}" title="What Did Kecksburg Witnesses Say First? | Witness Memory" aria-label="Read more about What Did Kecksburg Witnesses Say First? | Witness Memory">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-retelling-witness-co-d61d9e" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-retelling-witness-co-d61d9e" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'retelling/' | relative_url }}" title="Why Kecksburg Stories Grew More Certain | Witness Memory" aria-label="Open page: Why Kecksburg Stories Grew More Certain | Witness Memory">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_retelling_witness_co_d61d9e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Kecksburg Stories Grew More Certain | Witness Memory" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Retelling</span>
+<span class="ct-node-title-full">Why Kecksburg Stories Grew More Certain</span>
+<span class="ct-node-summary">Each retelling can strengthen a polished version of an event, even when its added precision does not reflect better historical accuracy.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'retelling/' | relative_url }}" title="Why Kecksburg Stories Grew More Certain | Witness Memory" aria-label="Read more about Why Kecksburg Stories Grew More Certain | Witness Memory">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="application/json" data-home-vertical-data>{"mode": "hybrid", "layout_policy": "very-dense", "home_cluster_version": 3, "branch_density_profile": {"l1_count": 30, "max_l2_children": 6, "max_l3_children": 0, "l1_tier": "very-dense", "l2_max_tier": "dense", "l3_max_tier": "sparse", "layout_policy": "very-dense"}, "preferred_cluster_strategy": "grid", "preferred_cluster_strategy_mobile": "grid", "max_title_length": 99, "nodes": [{"id": "node-kecksburg-ufo-incide-ab793e", "kind": "root", "depth": 0, "level": 1, "basename": "Kecksburg_UFO_incide_ab793e", "label": "Kecksburg", "display_label": "Kecksburg", "full_label": "Kecksburg", "catchy_title": "", "url": "{{ 'kecksburg-ufo-incident/' | relative_url }}", "parent_id": "", "count": 211, "semantic_level": "root", "child_total": 30, "descendant_total": 210, "sibling_total": 1, "hidden_child_total": 0, "groupable_child_total": 30, "density_tier": "very-dense", "title_length_bucket": "short", "node_size_mode": "root", "node_size_mode_mobile": "root", "focus_card_size_mode": "hero", "focus_card_size_mode_mobile": "standard", "render_hint": "root-card", "level_label": "Overview", "summary": "The Kecksburg UFO incident began on 9 December 1965, when a brilliant fireball crossed the skies of the Great Lakes region and reports emerged that something had fallen into woodland near Kecksburg, Pennsylvania.", "subtree_shape": {"total_nodes": 211, "max_depth": 2, "max_breadth": 180, "breadth_by_depth": {"0": 1, "1": 30, "2": 180}, "child_count": 30}, "preferred_cluster_strategy": "grid", "preferred_cluster_strategy_mobile": "grid", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e-photo1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf", "label": "Account Changes", "display_label": "Account Changes", "full_label": "What Changed Between 1965 and Later Retellings? | Kecksburg", "catchy_title": "What Changed Between 1965 and Later Retellings?", "url": "{{ 'account-changes/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Comparing contemporary reports with later interviews reveals where the Kecksburg narrative gained new detail and certainty.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf-overview.webp' | relative_url }}", "slot_index": 0}, {"id": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-cordon-con-7c2552", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_cordon_con_7c2552", "label": "Cordon Meaning", "display_label": "Cordon Meaning", "full_label": "Did the Kecksburg Cordon Hide a Recovery? | Account Changes", "catchy_title": "Did the Kecksburg Cordon Hide a Recovery?", "url": "{{ 'cordon-meaning/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A documented safety perimeter was later recast as evidence that authorities already knew a craft had landed and intended to hide it.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_cordon_con_7c2552-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-geiger-cou-2dc4b1", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_geiger_cou_2dc4b1", "label": "Geiger Counters", "display_label": "Geiger Counters", "full_label": "Why Were Geiger Counters at Kecksburg? | Account Changes", "catchy_title": "Why Were Geiger Counters at Kecksburg?", "url": "{{ 'geiger-counters/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Radiation detectors were a sensible precaution for unknown aerospace debris, but later retellings made them seem like proof of an exotic object.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_geiger_cou_2dc4b1-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-headline-s-776186", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_headline_s_776186", "label": "Headline Shift", "display_label": "Headline Shift", "full_label": "How the Kecksburg Story Changed Overnight | Account Changes", "catchy_title": "How the Kecksburg Story Changed Overnight", "url": "{{ 'headline-shift/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The first day's reports moved from a suspected fall and sealed woods to an official claim that searchers had found nothing.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_headline_s_776186-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-memory-con-0d700a", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_memory_con_0d700a", "label": "Memory Convergence", "display_label": "Memory Convergence", "full_label": "Did Kecksburg Memories Grow More Alike? | Account Changes", "catchy_title": "Did Kecksburg Memories Grow More Alike?", "url": "{{ 'memory-convergence/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Repeated interviews, documentaries and shared retellings may have made separate memories more detailed and more alike without proving fabrication.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_kecksburg_memory_con_0d700a-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-missing-acorn-early-65b60a", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_missing_acorn_early_65b60a", "label": "Missing Acorn", "display_label": "Missing Acorn", "full_label": "Where Was the Acorn in 1965? | Account Changes", "catchy_title": "Where Was the Acorn in 1965?", "url": "{{ 'missing-acorn/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "sm", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Contemporary coverage documented a search but did not record the detailed metallic shape, symbol band or buried craft described later.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_missing_acorn_early_65b60a-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-john-murphy-missing-027d8b", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_john_murphy_missing_027d8b", "label": "Murphy Claims", "display_label": "Murphy Claims", "full_label": "What Happened to John Murphy's Evidence? | Account Changes", "catchy_title": "What Happened to John Murphy's Evidence?", "url": "{{ 'murphy-claims/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The alleged removal of John Murphy's photographs and broadcast material rests mainly on later recollections rather than surviving records.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_early_vs_late_testim_e20bcf_john_murphy_missing_027d8b-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8", "label": "Acorn Monument", "display_label": "Acorn Monument", "full_label": "Why Kecksburg Built a Giant Acorn", "catchy_title": "Why Kecksburg Built a Giant Acorn", "url": "{{ 'acorn-monument/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "The town's famous acorn monument was based on a television prop rather than a verified object recovered in 1965.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8-overview.webp' | relative_url }}", "slot_index": 1}, {"id": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-prop-after-filming-5a14ff", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_prop_after_filming_5a14ff", "label": "After Filming", "display_label": "After Filming", "full_label": "How a TV Prop Stayed in Kecksburg | Acorn Monument", "catchy_title": "How a TV Prop Stayed in Kecksburg", "url": "{{ 'after-filming/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "After production ended, the model remained in Kecksburg and gradually shifted from abandoned scenery into a community-owned landmark.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_prop_after_filming_5a14ff-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-roadside-attraction-557411", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_roadside_attraction_557411", "label": "Attraction or Evidence", "display_label": "Attraction or Evidence", "full_label": "Monument, Replica or Evidence From 1965? | Acorn Monument", "catchy_title": "Monument, Replica or Evidence From 1965?", "url": "{{ 'attraction-or-evidence/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Its location, presentation and documented origin identify the acorn as a commemorative attraction rather than recovered wreckage or a...", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_roadside_attraction_557411-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-fire-department-acor-694980", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_fire_department_acor_694980", "label": "Fire Department", "display_label": "Fire Department", "full_label": "Why Kecksburg's Firefighters Embraced the Acorn | Acorn Monument", "catchy_title": "Why Kecksburg's Firefighters Embraced the Acorn", "url": "{{ 'fire-department/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The volunteer fire department used the monument as a civic emblem that could attract visitors, support events and help fund emergency equipment.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_fire_department_acor_694980-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-acorn-monument-resto-92fc49", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_acorn_monument_resto_92fc49", "label": "Monument Makeover", "display_label": "Monument Makeover", "full_label": "When the Kecksburg Prop Became a Landmark | Acorn Monument", "catchy_title": "When the Kecksburg Prop Became a Landmark", "url": "{{ 'monument-makeover/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Repairs, repainting, elevation and lighting transformed the aging prop into a deliberate roadside landmark rather than leftover television scenery.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_acorn_monument_resto_92fc49-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-acorn-prop-design-ac7d4c", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_acorn_prop_design_ac7d4c", "label": "Prop Design", "display_label": "Prop Design", "full_label": "How Television Gave Kecksburg Its Acorn Shape | Acorn Monument", "catchy_title": "How Television Gave Kecksburg Its Acorn Shape", "url": "{{ 'prop-design/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The television model turned disputed witness descriptions into a single, memorable shape with a flange, metallic surface and symbol-like markings.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_acorn_prop_design_ac7d4c-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-symbol-band-visual-m-2e3cec", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_symbol_band_visual_m_2e3cec", "label": "Symbol Band", "display_label": "Symbol Band", "full_label": "How TV Fixed Kecksburg's Mysterious Symbols | Acorn Monument", "catchy_title": "How TV Fixed Kecksburg's Mysterious Symbols", "url": "{{ 'symbol-band-2e1662/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Stylized markings on the prop gave an imprecise witness claim a definite pattern that later photographs and broadcasts repeatedly reinforced.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_monument_origi_93d1e8_symbol_band_visual_m_2e3cec-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d", "label": "Acorn Object", "display_label": "Acorn Object", "full_label": "Did Witnesses See a Metallic Acorn? | Kecksburg", "catchy_title": "Did Witnesses See a Metallic Acorn?", "url": "{{ 'acorn-object/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Later witnesses described a metallic acorn or bell with a raised band and strange markings, but no verified photograph survives.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d-photo1.webp' | relative_url }}", "slot_index": 2}, {"id": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-witness-corroboratio-0c01a0", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_witness_corroboratio_0c01a0", "label": "Corroboration", "display_label": "Corroboration", "full_label": "Independent Witnesses or One Shared Kecksburg Story? | Acorn Object", "catchy_title": "Independent Witnesses or One Shared Kecksburg Story?", "url": "{{ 'corroboration/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Shared details may reflect independent observation, but they may also reflect community discussion, common interviewers and later media exposure.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_witness_corroboratio_0c01a0-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-late-testimony-timel-7df499", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_late_testimony_timel_7df499", "label": "Late Testimony", "display_label": "Late Testimony", "full_label": "Why Did the Acorn Story Emerge So Late? | Acorn Object", "catchy_title": "Why Did the Acorn Story Emerge So Late?", "url": "{{ 'late-testimony/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The clearest object descriptions surfaced years after 1965, increasing the risk that memory, local stories and repeated interviews became intertwined.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_late_testimony_timel_7df499-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-kecksburg-object-sha-4bce8d", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_kecksburg_object_sha_4bce8d", "label": "Object Shape", "display_label": "Object Shape", "full_label": "What Shape Was the Kecksburg Object Really? | Acorn Object", "catchy_title": "What Shape Was the Kecksburg Object Really?", "url": "{{ 'object-shape/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Witness descriptions overlap on a rounded metal body, but differences in orientation and wording complicate any single reconstruction.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_kecksburg_object_sha_4bce8d-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-direct-vs-covered-si-a0d1f3", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_direct_vs_covered_si_a0d1f3", "label": "Sightings Compared", "display_label": "Sightings Compared", "full_label": "Who Actually Saw the Acorn Shaped Object? | Acorn Object", "catchy_title": "Who Actually Saw the Acorn Shaped Object?", "url": "{{ 'sightings-compared/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Accounts of an uncovered object, a distant glow and a tarpaulin-covered load provide very different levels of visual confirmation.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_direct_vs_covered_si_a0d1f3-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-romansky-symbol-band-e43716", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_romansky_symbol_band_e43716", "label": "Symbol Band", "display_label": "Symbol Band", "full_label": "Were Kecksburg's Symbols Really Hieroglyphics? | Acorn Object", "catchy_title": "Were Kecksburg's Symbols Really Hieroglyphics?", "url": "{{ 'symbol-band/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The famous hieroglyphics claim rests on a narrower account of unfamiliar marks confined to a raised band near one end.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_romansky_symbol_band_e43716-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-unsolved-mysteries-p-c2e86e", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_unsolved_mysteries_p_c2e86e", "label": "TV Prop", "display_label": "TV Prop", "full_label": "How a TV Prop Defined Kecksburg's UFO | Acorn Object", "catchy_title": "How a TV Prop Defined Kecksburg's UFO", "url": "{{ 'tv-prop/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A television reconstruction turned witness descriptions into a polished three-dimensional object that later influenced how the incident was...", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d_unsolved_mysteries_p_c2e86e-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822", "label": "Area Cordon", "display_label": "Area Cordon", "full_label": "Why Was the Search Area Sealed Off? | Kecksburg", "catchy_title": "Why Was the Search Area Sealed Off?", "url": "{{ 'area-cordon/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "A cordon could reflect ordinary crash, missile, debris or radiation precautions rather than proof of an extraordinary recovery.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822-overview.webp' | relative_url }}", "slot_index": 3}, {"id": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-kecksburg-crash-risk-a093ba", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_kecksburg_crash_risk_a093ba", "label": "Crash Risks", "display_label": "Crash Risks", "full_label": "Was Kecksburg Treated Like an Aircraft Crash? | Area Cordon", "catchy_title": "Was Kecksburg Treated Like an Aircraft Crash?", "url": "{{ 'crash-risks/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Officials could justify an immediate perimeter while ruling out fire, fuel, explosives, survivors and classified aircraft wreckage.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_kecksburg_crash_risk_a093ba-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-reentry-debris-hazar-3a6863", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_reentry_debris_hazar_3a6863", "label": "Debris Hazards", "display_label": "Debris Hazards", "full_label": "Could Ordinary Space Debris Be Dangerous? | Area Cordon", "catchy_title": "Could Ordinary Space Debris Be Dangerous?", "url": "{{ 'debris-hazards/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "An unknown object could contain hot metal, toxic propellant, pressurised tanks or unstable components that made civilian access unsafe.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_reentry_debris_hazar_3a6863-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-aircraft-missile-inv-f7e4b4", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_aircraft_missile_inv_f7e4b4", "label": "Inventory Checks", "display_label": "Inventory Checks", "full_label": "What Were Officials Trying to Rule Out? | Area Cordon", "catchy_title": "What Were Officials Trying to Rule Out?", "url": "{{ 'inventory-checks/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The cordon may have remained in place while officials checked whether any aircraft, missile or military test vehicle was missing.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_aircraft_missile_inv_f7e4b4-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-radiation-unknown-sp-be6fea", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_radiation_unknown_sp_be6fea", "label": "Radiation Checks", "display_label": "Radiation Checks", "full_label": "Why Bring Radiation Detectors to Kecksburg? | Area Cordon", "catchy_title": "Why Bring Radiation Detectors to Kecksburg?", "url": "{{ 'radiation-checks/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Geiger counters made sense if officials feared radioactive spacecraft parts, even though no verified radiation reading was reported.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_radiation_unknown_sp_be6fea-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-response-larger-than-aa499f", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_response_larger_than_aa499f", "label": "Response Gap", "display_label": "Response Gap", "full_label": "Why Did an Empty Search Look Suspicious? | Area Cordon", "catchy_title": "Why Did an Empty Search Look Suspicious?", "url": "{{ 'response-gap/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A large initial deployment followed by a claim that nothing was found made normal emergency caution resemble a concealed recovery operation.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_response_larger_than_aa499f-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-army-engineers-scien-363191", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_army_engineers_scien_363191", "label": "Specialist Teams", "display_label": "Specialist Teams", "full_label": "Why Call Engineers to a Supposed Meteor? | Area Cordon", "catchy_title": "Why Call Engineers to a Supposed Meteor?", "url": "{{ 'specialist-teams/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Technical specialists would have been useful for identifying unfamiliar wreckage, ground disturbance and possible chemical or radiological hazards.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_restricted_area_reas_d3d822_army_engineers_scien_363191-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41", "label": "Blue Book", "display_label": "Blue Book", "full_label": "What Do the Blue Book Records Say? | Kecksburg", "catchy_title": "What Do the Blue Book Records Say?", "url": "{{ 'blue-book/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Available Blue Book material does not confirm a recovered object or relevant US space-debris entry, but incomplete records sustain debate.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41-photo1.webp' | relative_url }}", "slot_index": 4}, {"id": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-blue-book-limited-au-15a1d3", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_blue_book_limited_au_15a1d3", "label": "Blue Book Role", "display_label": "Blue Book Role", "full_label": "What Blue Book Was Actually Responsible For", "catchy_title": "What Blue Book Was Actually Responsible For", "url": "{{ 'blue-book-role/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "sm", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Project Blue Book assessed UFO reports, but it was never the master archive for every military or technical action taken at Kecksburg.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_blue_book_limited_au_15a1d3-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-early-meteor-press-e-f46a41", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_early_meteor_press_e_f46a41", "label": "Early Meteor Call", "display_label": "Early Meteor Call", "full_label": "Why Was Kecksburg Called a Meteor So Early? | Blue Book", "catchy_title": "Why Was Kecksburg Called a Meteor So Early?", "url": "{{ 'early-meteor-call/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The surviving memo shows the Air Force recommending a meteor explanation for the press while Kecksburg enquiries were still continuing.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_early_meteor_press_e_f46a41-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-space-debris-kosmos-787407", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_space_debris_kosmos_787407", "label": "Kosmos Conflict", "display_label": "Kosmos Conflict", "full_label": "Why Blue Book's Space Debris Claim Matters", "catchy_title": "Why Blue Book's Space Debris Claim Matters", "url": "{{ 'kosmos-conflict/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "sm", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Blue Book said no known space debris re-entered that day, creating a direct conflict with later claims that Kosmos 96 caused the Kecksburg event.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_space_debris_kosmos_787407-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-missing-recovery-rec-b83ab3", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_missing_recovery_rec_b83ab3", "label": "Missing Records", "display_label": "Missing Records", "full_label": "Which Documents Could Prove a Kecksburg Recovery? | Blue Book", "catchy_title": "Which Documents Could Prove a Kecksburg Recovery?", "url": "{{ 'missing-records-c0042c/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Search maps, vehicle logs, photographs, inventories and custody records would be far more decisive than the brief memoranda that survive.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_missing_recovery_rec_b83ab3-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-sanitized-blue-book-e38bab", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_sanitized_blue_book_e38bab", "label": "Sanitized Files", "display_label": "Sanitized Files", "full_label": "What Was Removed From the Public Blue Book Files?", "catchy_title": "What Was Removed From the Public Blue Book Files?", "url": "{{ 'sanitized-files/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The public Blue Book collection removed personal identifiers, limiting how easily researchers can trace witnesses, investigators and follow-up...", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_sanitized_blue_book_e38bab-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-scattered-kecksburg-3828f9", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_scattered_kecksburg_3828f9", "label": "Scattered Filing", "display_label": "Scattered Filing", "full_label": "Could Kecksburg Records Be Filed Somewhere Else? | Blue Book", "catchy_title": "Could Kecksburg Records Be Filed Somewhere Else?", "url": "{{ 'scattered-filing/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Kecksburg papers may have been indexed by another town, reporting unit or event type, making a narrow place-name search incomplete.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_project_blue_book_re_ad1d41_scattered_kecksburg_3828f9-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3", "label": "Cold War Context", "display_label": "Cold War Context", "full_label": "Why Cold War Secrecy Fuelled the Mystery | Kecksburg", "catchy_title": "Why Cold War Secrecy Fuelled the Mystery", "url": "{{ 'cold-war-context/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Military secrecy, Soviet space failures and classified US programmes made official denials unusually difficult for the public to trust.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3-overview.webp' | relative_url }}", "slot_index": 5}, {"id": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-blue-book-credibilit-2ffb77", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_blue_book_credibilit_2ffb77", "label": "Blue Book Trust", "display_label": "Blue Book Trust", "full_label": "Why Blue Book Could Not End Suspicion | Cold War Context", "catchy_title": "Why Blue Book Could Not End Suspicion", "url": "{{ 'blue-book-trust/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Blue Book's public conclusions could not resolve suspicion when classified explanations and inter-agency information gaps remained hidden.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_blue_book_credibilit_2ffb77-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-kosmos-96-timing-pro-0b34f8", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_kosmos_96_timing_pro_0b34f8", "label": "Kosmos 96", "display_label": "Kosmos 96", "full_label": "Could Kosmos 96 Have Reached Kecksburg? | Cold War Context", "catchy_title": "Could Kosmos 96 Have Reached Kecksburg?", "url": "{{ 'kosmos-96-b935f8/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Kosmos 96 re-entered on the same day as the fireball, but tracking and trajectory evidence weaken the claim that it landed at Kecksburg.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_kosmos_96_timing_pro_0b34f8-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-kosmos-mission-secre-29cc55", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_kosmos_mission_secre_29cc55", "label": "Kosmos Secrecy", "display_label": "Kosmos Secrecy", "full_label": "Why the Kosmos Name Revealed So Little | Cold War Context", "catchy_title": "Why the Kosmos Name Revealed So Little", "url": "{{ 'kosmos-secrecy/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The vague Kosmos naming system concealed mission purposes and made failed Soviet spacecraft harder for Western observers to identify with confidence.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_kosmos_mission_secre_29cc55-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-moon-dust-recovery-c-425aa6", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_dust_recovery_c_425aa6", "label": "Moon Dust", "display_label": "Moon Dust", "full_label": "Did Cold War Recovery Teams Fit the Kecksburg Story? | Cold War Context", "catchy_title": "Did Cold War Recovery Teams Fit the Kecksburg Story?", "url": "{{ 'moon-dust/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Project Moon Dust made foreign-spacecraft recovery a real Cold War mission, even though no evidence proves it was activated at Kecksburg.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_dust_recovery_c_425aa6-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-secret-aircraft-ufo-3ef2a5", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_secret_aircraft_ufo_3ef2a5", "label": "Secret Aircraft", "display_label": "Secret Aircraft", "full_label": "When Secret Aircraft Looked Like UFOs | Cold War Context", "catchy_title": "When Secret Aircraft Looked Like UFOs", "url": "{{ 'secret-aircraft/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Classified U-2, A-12 and SR-71 flights produced unfamiliar sightings that officials could not explain publicly without exposing intelligence...", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_secret_aircraft_ufo_3ef2a5-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-u2-cover-story-trust-2be989", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_u2_cover_story_trust_2be989", "label": "U 2 Cover Story", "display_label": "U 2 Cover Story", "full_label": "How the U 2 Crisis Damaged Official Trust | Cold War Context", "catchy_title": "How the U 2 Crisis Damaged Official Trust", "url": "{{ 'u-2-cover-story/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The false weather-plane explanation after the U-2 shootdown showed why later aerospace denials could appear strategic rather than trustworthy.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_u2_cover_story_trust_2be989-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7", "label": "Crash Response", "display_label": "Crash Response", "full_label": "Did Officials Expect an Aircraft Crash? | Kecksburg", "catchy_title": "Did Officials Expect an Aircraft Crash?", "url": "{{ 'crash-response/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Officials may initially have treated the report as a possible aircraft accident, explaining emergency crews and controlled access.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7-overview.webp' | relative_url }}", "slot_index": 6}, {"id": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-aircraft-missile-che-96ef92", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_aircraft_missile_che_96ef92", "label": "Asset Checks", "display_label": "Asset Checks", "full_label": "Were Any Aircraft or Missiles Actually Missing? | Crash Response", "catchy_title": "Were Any Aircraft or Missiles Actually Missing?", "url": "{{ 'asset-checks/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Officials tested the crash theory by checking whether military aircraft, commercial flights, missiles or other known assets were unaccounted for.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_aircraft_missile_che_96ef92-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-early-crash-signals-78a003", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_early_crash_signals_78a003", "label": "Crash Signals", "display_label": "Crash Signals", "full_label": "Why Kecksburg First Looked Like a Plane Crash | Crash Response", "catchy_title": "Why Kecksburg First Looked Like a Plane Crash", "url": "{{ 'crash-signals/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Reports of a descending light, smoke, a thump and possible fires gave responders reasonable grounds to suspect an aviation emergency.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_early_crash_signals_78a003-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-expected-crash-wreck-97e008", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_expected_crash_wreck_97e008", "label": "Expected Wreckage", "display_label": "Expected Wreckage", "full_label": "What Evidence Should a Plane Crash Have Left? | Crash Response", "catchy_title": "What Evidence Should a Plane Crash Have Left?", "url": "{{ 'expected-wreckage/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A genuine aircraft accident would normally produce wreckage, fuel damage, casualties, cargo or a debris trail, none of which was publicly identified.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_expected_crash_wreck_97e008-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-response-escalation-b2239e", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_response_escalation_b2239e", "label": "Response Escalation", "display_label": "Response Escalation", "full_label": "How a Local Alert Became a Major Search | Crash Response", "catchy_title": "How a Local Alert Became a Major Search", "url": "{{ 'response-escalation/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Local firefighters, police, state troopers and Air Force personnel joined the search as an uncertain report developed into a possible crash response.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_response_escalation_b2239e-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-night-search-limits-d949f5", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_night_search_limits_d949f5", "label": "Search Limits", "display_label": "Search Limits", "full_label": "Could Searchers Have Missed Something in the Woods? | Crash Response", "catchy_title": "Could Searchers Have Missed Something in the Woods?", "url": "{{ 'search-limits/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Darkness, woodland, uneven terrain and uncertain directions could have caused searchers to miss small fragments even if no large craft was present.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_night_search_limits_d949f5-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-crash-theory-rejecte-c06a49", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_crash_theory_rejecte_c06a49", "label": "Theory Rejected", "display_label": "Theory Rejected", "full_label": "When Did the Plane Crash Explanation Fall Apart? | Crash Response", "catchy_title": "When Did the Plane Crash Explanation Fall Apart?", "url": "{{ 'theory-rejected/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The lack of a missing aircraft, distress call, casualties or wreckage shifted the official explanation from aviation accident toward a major fireball.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7_crash_theory_rejecte_c06a49-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4", "label": "False Landings", "display_label": "False Landings", "full_label": "Why Did So Many Places Report a Landing? | Kecksburg", "catchy_title": "Why Did So Many Places Report a Landing?", "url": "{{ 'false-landings/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "The same fireball inspired suspected impact reports across a broad region, showing how one sky event can generate many local searches.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4-overview.webp' | relative_url }}", "slot_index": 7}, {"id": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-elyria-grass-fires-812351", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_elyria_grass_fires_812351", "label": "Elyria Fires", "display_label": "Elyria Fires", "full_label": "Did the Elyria Grass Fires Mark an Impact? | False Landings", "catchy_title": "Did the Elyria Grass Fires Mark an Impact?", "url": "{{ 'elyria-fires/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Scattered Ohio grass fires became suspected impact points even though no recovered material connected them to the fireball.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_elyria_grass_fires_812351-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-fireball-false-dista-a6624e", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_fireball_false_dista_a6624e", "label": "False Distance", "display_label": "False Distance", "full_label": "Why the Fireball Seemed to Land Nearby | False Landings", "catchy_title": "Why the Fireball Seemed to Land Nearby", "url": "{{ 'false-distance/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A bright object disappearing behind trees or rooftops could seem nearby even when its true path was far beyond the local horizon.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_fireball_false_dista_a6624e-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-sanderson-false-rout-640527", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_sanderson_false_rout_640527", "label": "False Route", "display_label": "False Route", "full_label": "How Timing Errors Invented a Flight Path | False Landings", "catchy_title": "How Timing Errors Invented a Flight Path", "url": "{{ 'false-route/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Approximate times and a major speed-calculation error turned scattered reports into an impossible slow-moving route toward Pennsylvania.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_sanderson_false_rout_640527-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-lake-st-clair-search-a2acce", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_lake_st_clair_search_a2acce", "label": "Lake Search", "display_label": "Lake Search", "full_label": "What Did Crews Expect to Find in Lake St Clair? | False Landings", "catchy_title": "What Did Crews Expect to Find in Lake St Clair?", "url": "{{ 'lake-search/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Coast Guard crews searched Lake St Clair after reports of an explosion or crash, but they recovered no wreckage.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_lake_st_clair_search_a2acce-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-lapeer-radar-chaff-744ccc", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_lapeer_radar_chaff_744ccc", "label": "Lapeer Chaff", "display_label": "Lapeer Chaff", "full_label": "Why Lapeer's Metallic Debris Was Not a Meteor | False Landings", "catchy_title": "Why Lapeer's Metallic Debris Was Not a Meteor", "url": "{{ 'lapeer-chaff/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Metallic strips found near a Michigan swamp briefly looked like impact debris before officials identified them as radar chaff.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_lapeer_radar_chaff_744ccc-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-michigan-meteor-wron-9756d0", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_michigan_meteor_wron_9756d0", "label": "Meteor Wrongs", "display_label": "Meteor Wrongs", "full_label": "Why Ordinary Objects Looked Like Fresh Meteorites | False Landings", "catchy_title": "Why Ordinary Objects Looked Like Fresh Meteorites", "url": "{{ 'meteor-wrongs/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Hot metal, fused fragments and odd stones from several Michigan towns sounded persuasive but were never authenticated as fireball debris.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_multiple_false_landi_d424b4_michigan_meteor_wron_9756d0-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930", "label": "Fireball Timeline", "display_label": "Fireball Timeline", "full_label": "How the Great Lakes Fireball Unfolded | Kecksburg", "catchy_title": "How the Great Lakes Fireball Unfolded", "url": "{{ 'fireball-timeline/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "The documented aerial event unfolded across several states and Ontario before attention shifted to the woods near Kecksburg.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930-overview.webp' | relative_url }}", "slot_index": 8}, {"id": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-scattered-impact-rep-2ff5e8", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_scattered_impact_rep_2ff5e8", "label": "Impact Reports", "display_label": "Impact Reports", "full_label": "How One Fireball Created Many Suspected Crash Sites | Fireball Timeline", "catchy_title": "How One Fireball Created Many Suspected Crash Sites", "url": "{{ 'impact-reports/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Claims from Michigan and Ohio show how one fireball produced several supposed impact sites before Kecksburg dominated the story.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_scattered_impact_rep_2ff5e8-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-kecksburg-story-entr-c8de6d", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_kecksburg_story_entr_c8de6d", "label": "Kecksburg Reports", "display_label": "Kecksburg Reports", "full_label": "When Did Kecksburg Become the Center of the Story? | Fireball Timeline", "catchy_title": "When Did Kecksburg Become the Center of the Story?", "url": "{{ 'kecksburg-reports/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Local reports near 5 pm transformed a regional meteor event into a suspected landing and military search in Pennsylvania.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_kecksburg_story_entr_c8de6d-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-fireball-direction-d-791747", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_direction_d_791747", "label": "Path Dispute", "display_label": "Path Dispute", "full_label": "Why Did Witnesses Disagree About the Fireball's Direction? | Fireball Timeline", "catchy_title": "Why Did Witnesses Disagree About the Fireball's Direction?", "url": "{{ 'path-dispute/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Conflicting compass directions arose from witness plotting, drifting smoke trails and later photographic triangulation.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_direction_d_791747-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-fireball-photo-endpo-a050a7", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_photo_endpo_a050a7", "label": "Photo Track", "display_label": "Photo Track", "full_label": "Where Did the Great Lakes Fireball Actually End? | Fireball Timeline", "catchy_title": "Where Did the Great Lakes Fireball Actually End?", "url": "{{ 'photo-track/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Two Michigan photo sets placed the fireball's terminal path near southwestern Ontario rather than Pennsylvania.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_photo_endpo_a050a7-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-kecksburg-search-res-7d7dac", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_kecksburg_search_res_7d7dac", "label": "Search Results", "display_label": "Search Results", "full_label": "What Did Searchers Actually Find in the Kecksburg Woods? | Fireball Timeline", "catchy_title": "What Did Searchers Actually Find in the Kecksburg Woods?", "url": "{{ 'search-results/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Police and Air Force searchers reportedly found no object, leaving the local landing claim without a verified recovery.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_kecksburg_search_res_7d7dac-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-fireball-shock-waves-b32821", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_shock_waves_b32821", "label": "Shock Waves", "display_label": "Shock Waves", "full_label": "Why the Fireball's Booms Arrived After the Flash | Fireball Timeline", "catchy_title": "Why the Fireball's Booms Arrived After the Flash", "url": "{{ 'shock-waves-be0138/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The Detroit-area seismic record helps explain why loud reports arrived after the visible fireball and seemed locally disconnected.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_fireball_100930_fireball_shock_waves_b32821-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75", "label": "Ground Search", "display_label": "Ground Search", "full_label": "What Happened in the Kecksburg Woods?", "catchy_title": "What Happened in the Kecksburg Woods?", "url": "{{ 'ground-search/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Conflicting reports about police, firefighters and military personnel make the local search central to the enduring dispute.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75-overview.webp' | relative_url }}", "slot_index": 9}, {"id": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-blue-book-search-rec-a5ddde", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_blue_book_search_rec_a5ddde", "label": "Blue Book File", "display_label": "Blue Book File", "full_label": "What the Air Force Record Actually Says | Ground Search", "catchy_title": "What the Air Force Record Actually Says", "url": "{{ 'blue-book-file/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The surviving Air Force record notes a small investigative team and no recovery, sharply contrasting with later stories of a large retrieval force.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_blue_book_search_rec_a5ddde-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-early-civilian-searc-8da848", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_early_civilian_searc_8da848", "label": "Early Search", "display_label": "Early Search", "full_label": "Who Entered the Woods Before the Cordon? | Ground Search", "catchy_title": "Who Entered the Woods Before the Cordon?", "url": "{{ 'early-search/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Residents and volunteer firefighters entered or approached the woods before police and military personnel tightened control of the suspected site.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_early_civilian_searc_8da848-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-air-force-geiger-sea-d306b0", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_air_force_geiger_sea_d306b0", "label": "Geiger Search", "display_label": "Geiger Search", "full_label": "Why the Air Force Brought Geiger Counters | Ground Search", "catchy_title": "Why the Air Force Brought Geiger Counters", "url": "{{ 'geiger-search/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Air Force personnel reportedly used radiation detectors while checking whether the unknown fall involved hazardous aircraft or spacecraft debris.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_air_force_geiger_sea_d306b0-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-ed-myers-search-acco-c99579", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_ed_myers_search_acco_c99579", "label": "Myers Account", "display_label": "Myers Account", "full_label": "Why the Fire Chief Said Nothing Crashed | Ground Search", "catchy_title": "Why the Fire Chief Said Nothing Crashed", "url": "{{ 'myers-account/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Fire Chief Ed Myers said he searched until about 10 pm, saw no object and believed later witnesses had changed their stories.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_ed_myers_search_acco_c99579-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-firefighter-object-a-902885", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_firefighter_object_a_902885", "label": "Object Accounts", "display_label": "Object Accounts", "full_label": "Did Firefighters Really Reach a Metallic Object? | Ground Search", "catchy_title": "Did Firefighters Really Reach a Metallic Object?", "url": "{{ 'object-accounts/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Jim Romansky's detailed object description conflicts with other responders who reported finding nothing in the Kecksburg woods.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_firefighter_object_a_902885-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-kecksburg-police-cor-f2ba2a", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_kecksburg_police_cor_f2ba2a", "label": "Police Cordon", "display_label": "Police Cordon", "full_label": "Why Police Closed Off the Kecksburg Woods | Ground Search", "catchy_title": "Why Police Closed Off the Kecksburg Woods", "url": "{{ 'police-cordon/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "State Police restricted access to the suspected impact area while firefighters and military personnel continued searching inside the perimeter.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_ground_sea_e60e75_kecksburg_police_cor_f2ba2a-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe", "label": "Kosmos 96", "display_label": "Kosmos 96", "full_label": "Could Kosmos 96 Have Fallen at Kecksburg?", "catchy_title": "Could Kosmos 96 Have Fallen at Kecksburg?", "url": "{{ 'kosmos-96/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "The failed Soviet Venus probe re-entered on the same date, but tracking placed it over Canada hours before the Kecksburg event.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe-overview.webp' | relative_url }}", "slot_index": 10}, {"id": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-launch-fail-37e3b0", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_launch_fail_37e3b0", "label": "Launch Failure", "display_label": "Launch Failure", "full_label": "How Kosmos 96 Became a Falling Spacecraft", "catchy_title": "How Kosmos 96 Became a Falling Spacecraft", "url": "{{ 'launch-failure/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "sm", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A ruptured fuel line left the Venus probe trapped in low Earth orbit, creating the re-entry that later became tied to Kecksburg.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_launch_fail_37e3b0-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-soviet-debris-milita-e604e3", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_soviet_debris_milita_e604e3", "label": "Military Interest", "display_label": "Military Interest", "full_label": "Why Soviet Space Debris Would Draw Military Attention | Kosmos 96", "catchy_title": "Why Soviet Space Debris Would Draw Military Attention", "url": "{{ 'military-interest/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Even if Kosmos 96 missed Pennsylvania, the prospect of recoverable Soviet technology could explain why military units treated debris reports...", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_soviet_debris_milita_e604e3-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-orbit-uncer-59a67e", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_orbit_uncer_59a67e", "label": "Orbit Uncertainty", "display_label": "Orbit Uncertainty", "full_label": "Could Tracking Error Save the Kosmos 96 Theory?", "catchy_title": "Could Tracking Error Save the Kosmos 96 Theory?", "url": "{{ 'orbit-uncertainty/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "sm", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Normal uncertainty in drag and fragmentation cannot easily move Kosmos 96 through several extra orbits to Pennsylvania that evening.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_orbit_uncer_59a67e-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-same-day-co-3cd207", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_same_day_co_3cd207", "label": "Same Day Trap", "display_label": "Same Day Trap", "full_label": "How a Date Match Became a Re entry Myth | Kosmos 96", "catchy_title": "How a Date Match Became a Re entry Myth", "url": "{{ 'same-day-trap/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Kosmos 96 became persuasive largely because it fell on the same date, although its time, path and entry geometry did not match the fireball.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_same_day_co_3cd207-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-shape-promp-052087", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_shape_promp_052087", "label": "Shape Claims", "display_label": "Shape Claims", "full_label": "Did Soviet Capsule Images Shape the Acorn Story? | Kosmos 96", "catchy_title": "Did Soviet Capsule Images Shape the Acorn Story?", "url": "{{ 'shape-claims/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The alleged acorn resemblance is weakened by late descriptions and reports that witnesses saw Soviet capsule images before confirming a match.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_shape_promp_052087-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-timing-conf-0ea2a4", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_timing_conf_0ea2a4", "label": "Timing Conflict", "display_label": "Timing Conflict", "full_label": "Why the Re entry Time Does Not Match Kecksburg | Kosmos 96", "catchy_title": "Why the Re entry Time Does Not Match Kecksburg", "url": "{{ 'timing-conflict/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The decisive conflict is that military tracking placed Kosmos 96 over Canada roughly thirteen hours before the Kecksburg fireball.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_theory_0717fe_kosmos96_timing_conf_0ea2a4-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590", "label": "Metal Reports", "display_label": "Metal Reports", "full_label": "Were Metal Fragments Found Elsewhere? | Kecksburg", "catchy_title": "Were Metal Fragments Found Elsewhere?", "url": "{{ 'metal-reports/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Scattered claims of metallic fragments in Michigan and Ohio complicate efforts to identify which reports belonged to the same event.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590-overview.webp' | relative_url }}", "slot_index": 11}, {"id": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-battle-creek-stone-c-25ef48", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_battle_creek_stone_c_25ef48", "label": "Battle Creek", "display_label": "Battle Creek", "full_label": "Why Battle Creek's Stone Was Never Confirmed | Metal Reports", "catchy_title": "Why Battle Creek's Stone Was Never Confirmed", "url": "{{ 'battle-creek/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A Battle Creek woman's claimed stone was recorded by geologists but never accepted as a confirmed Michigan meteorite.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_battle_creek_stone_c_25ef48-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-elyria-fire-debris-r-a04f81", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_elyria_fire_debris_r_a04f81", "label": "Elyria Fires", "display_label": "Elyria Fires", "full_label": "Did Falling Debris Ignite the Elyria Fires? | Metal Reports", "catchy_title": "Did Falling Debris Ignite the Elyria Fires?", "url": "{{ 'elyria-fires-99aefc/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Elyria's grass fires and suspected debris were reported together, but the surviving accounts do not prove that falling material caused the fires.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_elyria_fire_debris_r_a04f81-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-fragment-origin-iden-2a61ea", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_fragment_origin_iden_2a61ea", "label": "Fragment ID", "display_label": "Fragment ID", "full_label": "Meteorite, Slag or Spacecraft Metal? | Metal Reports", "catchy_title": "Meteorite, Slag or Spacecraft Metal?", "url": "{{ 'fragment-id/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Fusion crust, mineral structure and manufacturing marks can separate plausible meteorites from slag or engineered spacecraft debris.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_fragment_origin_iden_2a61ea-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-jackson-wire-fragmen-c1cc06", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_jackson_wire_fragmen_c1cc06", "label": "Jackson Report", "display_label": "Jackson Report", "full_label": "How One Jackson Fragment Became Regional News | Metal Reports", "catchy_title": "How One Jackson Fragment Became Regional News", "url": "{{ 'jackson-report/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The Jackson fragment story shows how a local suspicion could become regional evidence through repeated wire-service reporting.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_jackson_wire_fragmen_c1cc06-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-livonia-metal-proven-6b0508", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_livonia_metal_proven_6b0508", "label": "Livonia Find", "display_label": "Livonia Find", "full_label": "Did Livonia's Metal Really Fall From the Fireball? | Metal Reports", "catchy_title": "Did Livonia's Metal Really Fall From the Fireball?", "url": "{{ 'livonia-find/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The Livonia fragment became part of the fireball story without a documented recovery trail linking it to the sky.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_livonia_metal_proven_6b0508-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-great-lakes-strewn-f-835139", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_great_lakes_strewn_f_835139", "label": "Strewn Field", "display_label": "Strewn Field", "full_label": "Do the Great Lakes Finds Fit One Fall? | Metal Reports", "catchy_title": "Do the Great Lakes Finds Fit One Fall?", "url": "{{ 'strewn-field/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The reported locations, materials and recovery histories do not align cleanly with the narrow pattern expected from one meteorite fall.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_metal_re_bb6590_great_lakes_strewn_f_835139-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9", "label": "Meteor Case", "display_label": "Meteor Case", "full_label": "Why Astronomers Call It a Meteor | Kecksburg", "catchy_title": "Why Astronomers Call It a Meteor", "url": "{{ 'meteor-case/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Photographs, shock waves and the persistent trail strongly support a bright meteor or bolide over the Great Lakes.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9-overview.webp' | relative_url }}", "slot_index": 12}, {"id": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-false-landing-perspe-e22a0c", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_false_landing_perspe_e22a0c", "label": "False Landing", "display_label": "False Landing", "full_label": "Why Did the Fireball Seem to Land Nearby? | Meteor Case", "catchy_title": "Why Did the Fireball Seem to Land Nearby?", "url": "{{ 'false-landing/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A distant fireball sinking toward the horizon could appear to land behind nearby woods even when its true path continued far away.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_false_landing_perspe_e22a0c-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-meteor-fragmentation-480a7a", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_meteor_fragmentation_480a7a", "label": "Fragmentation", "display_label": "Fragmentation", "full_label": "Can a Breaking Meteor Look Like a Craft? | Meteor Case", "catchy_title": "Can a Breaking Meteor Look Like a Craft?", "url": "{{ 'fragmentation/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Rapid flares and breakup can make a bolide look as though it changes speed, direction or splits into controlled objects.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_meteor_fragmentation_480a7a-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-persistent-meteor-tr-8db16b", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_persistent_meteor_tr_8db16b", "label": "Meteor Trains", "display_label": "Meteor Trains", "full_label": "Can a Meteor Trail Look Like a Turn? | Meteor Case", "catchy_title": "Can a Meteor Trail Look Like a Turn?", "url": "{{ 'meteor-trains/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The Detroit-area trail could twist in high-altitude winds, making a straight meteor path appear to bend, slow or turn.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_persistent_meteor_tr_8db16b-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-pilot-sightings-time-d86926", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_pilot_sightings_time_d86926", "label": "Pilot Reports", "display_label": "Pilot Reports", "full_label": "Why the Pilot Reports Matter So Much | Meteor Case", "catchy_title": "Why the Pilot Reports Matter So Much", "url": "{{ 'pilot-reports/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Twenty-three reported pilot observations clustered around the instrument timing, strengthening the case for one fast-moving atmospheric event.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_pilot_sightings_time_d86926-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-seismograph-shock-wa-3beae2", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_seismograph_shock_wa_3beae2", "label": "Shock Wave", "display_label": "Shock Wave", "full_label": "What Did the Detroit Seismograph Really Record? | Meteor Case", "catchy_title": "What Did the Detroit Seismograph Really Record?", "url": "{{ 'shock-wave/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The Detroit-area seismograph record shows that an energetic atmospheric event occurred without proving that anything struck the ground.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_seismograph_shock_wa_3beae2-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-detroit-trail-photos-d39d5b", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_detroit_trail_photos_d39d5b", "label": "Trail Photos", "display_label": "Trail Photos", "full_label": "Where Did the Great Lakes Fireball End? | Meteor Case", "catchy_title": "Where Did the Great Lakes Fireball End?", "url": "{{ 'trail-photos/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Two photographs supported a steep route toward western Lake Erie, although limited viewpoints left the exact endpoint uncertain.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteor_explanation_4588d9_detroit_trail_photos_d39d5b-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832", "label": "Newspaper Record", "display_label": "Newspaper Record", "full_label": "How the First News Reports Changed | Kecksburg", "catchy_title": "How the First News Reports Changed", "url": "{{ 'newspaper-record/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Early reports described a restricted search, while later editions said officials found absolutely nothing.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832-overview.webp' | relative_url }}", "slot_index": 13}, {"id": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-ap-no-object-reports-98e9bb", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_ap_no_object_reports_98e9bb", "label": "AP Reports", "display_label": "AP Reports", "full_label": "How Wire Reports Framed the Kecksburg Search | Newspaper Record", "catchy_title": "How Wire Reports Framed the Kecksburg Search", "url": "{{ 'ap-reports/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Wire coverage spread the official account that troopers and Air Force personnel searched with Geiger counters and found nothing.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_ap_no_object_reports_98e9bb-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-cordon-vs-no-object-aff359", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_cordon_vs_no_object_aff359", "label": "Cordon vs Result", "display_label": "Cordon vs Result", "full_label": "Can Both Kecksburg Newspaper Versions Be True? | Newspaper Record", "catchy_title": "Can Both Kecksburg Newspaper Versions Be True?", "url": "{{ 'cordon-vs-result/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The early cordon and the later no-object result can fit one continuous search rather than two irreconcilable stories.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_cordon_vs_no_object_aff359-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-deadline-reporting-d-1ed33a", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_deadline_reporting_d_1ed33a", "label": "Deadline Errors", "display_label": "Deadline Errors", "full_label": "How Deadline Reporting Distorted the Kecksburg Record | Newspaper Record", "catchy_title": "How Deadline Reporting Distorted the Kecksburg Record", "url": "{{ 'deadline-errors/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Breaking-news routines turned expectations, radio traffic and witness claims into wording that later readers mistook for confirmed fact.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_deadline_reporting_d_1ed33a-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-early-headline-landi-09cba7", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_early_headline_landi_09cba7", "label": "Early Headline", "display_label": "Early Headline", "full_label": "Did the First Kecksburg Headline Overstate the Facts? | Newspaper Record", "catchy_title": "Did the First Kecksburg Headline Overstate the Facts?", "url": "{{ 'early-headline/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The first local report treated a suspected landing site as established even while its own details remained provisional.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_early_headline_landi_09cba7-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-federal-post-search-dc67e5", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_federal_post_search_dc67e5", "label": "Federal Statements", "display_label": "Federal Statements", "full_label": "What Officials Said After the Kecksburg Search Ended | Newspaper Record", "catchy_title": "What Officials Said After the Kecksburg Search Ended", "url": "{{ 'federal-statements/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Federal statements favored a natural phenomenon and said military aircraft, missiles and known space debris were accounted for.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_federal_post_search_dc67e5-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-regional-fireball-co-7e1c08", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_regional_fireball_co_7e1c08", "label": "Regional Fireball", "display_label": "Regional Fireball", "full_label": "How Regional Fireball Reports Changed the Kecksburg Story | Newspaper Record", "catchy_title": "How Regional Fireball Reports Changed the Kecksburg Story", "url": "{{ 'regional-fireball/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Newspapers across several states described a broad fireball event that encouraged a meteor explanation without resolving the local search.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832_regional_fireball_co_7e1c08-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841", "label": "Official Finding", "display_label": "Official Finding", "full_label": "Why Officials Said Nothing Was Found | Kecksburg", "catchy_title": "Why Officials Said Nothing Was Found", "url": "{{ 'official-finding/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Police and Air Force searchers publicly reported no recovered object, leaving later retrieval claims in direct tension with the record.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841-overview.webp' | relative_url }}", "slot_index": 14}, {"id": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-geiger-counter-claim-deb383", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_geiger_counter_claim_deb383", "label": "Geiger Counters", "display_label": "Geiger Counters", "full_label": "Did Geiger Counters Detect Anything at Kecksburg? | Official Finding", "catchy_title": "Did Geiger Counters Detect Anything at Kecksburg?", "url": "{{ 'geiger-counters-98b82b/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Search teams used Geiger counters as a precaution, but no contemporary report says the instruments detected radiation or confirmed an object.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_geiger_counter_claim_deb383-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-kecksburg-headline-s-776186", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_kecksburg_headline_s_776186", "label": "Headline Shift", "display_label": "Headline Shift", "full_label": "Did the Headlines Reverse the Kecksburg Story? | Official Finding", "catchy_title": "Did the Headlines Reverse the Kecksburg Story?", "url": "{{ 'headline-shift-1f01fa/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Early reports of a fallen object and a sealed area were replaced by a later headline saying searchers had failed to find anything.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_kecksburg_headline_s_776186-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-official-meteor-expl-ce189d", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_official_meteor_expl_ce189d", "label": "Meteor Finding", "display_label": "Meteor Finding", "full_label": "Why Officials Settled on a Meteor Explanation | Official Finding", "catchy_title": "Why Officials Settled on a Meteor Explanation", "url": "{{ 'meteor-finding/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Meteor reports, pilot sightings and shock-wave evidence gave authorities a natural explanation for the regional fireball seen before the Kecksburg...", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_official_meteor_expl_ce189d-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-nasa-records-lawsuit-90a24e", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_nasa_records_lawsuit_90a24e", "label": "NASA Records", "display_label": "NASA Records", "full_label": "Did the NASA Lawsuit Prove a Kecksburg Cover Up? | Official Finding", "catchy_title": "Did the NASA Lawsuit Prove a Kecksburg Cover Up?", "url": "{{ 'nasa-records/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The court dispute exposed problems in NASA's record search, but it did not establish that an unknown craft had been recovered at Kecksburg.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_nasa_records_lawsuit_90a24e-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-official-denial-dist-82bb78", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_official_denial_dist_82bb78", "label": "Public Distrust", "display_label": "Public Distrust", "full_label": "Why Did the Official Denial Convince So Few? | Official Finding", "catchy_title": "Why Did the Official Denial Convince So Few?", "url": "{{ 'public-distrust/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Restricted access, visible military activity and a sparse public explanation made the nothing-found conclusion difficult for many residents to trust.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_official_denial_dist_82bb78-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-negative-search-limi-1ed382", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_negative_search_limi_1ed382", "label": "Search Limits", "display_label": "Search Limits", "full_label": "What Did the Kecksburg Search Really Prove? | Official Finding", "catchy_title": "What Did the Kecksburg Search Really Prove?", "url": "{{ 'search-limits-830ee4/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The official search established that no object was publicly recovered, but it did not prove that every part of the woods was fully examined.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_official_nothing_fou_6ff841_negative_search_limi_1ed382-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2", "label": "Ordinary Object", "display_label": "Ordinary Object", "full_label": "Was the Woods Object Unrelated to the Fireball? | Kecksburg", "catchy_title": "Was the Woods Object Unrelated to the Fireball?", "url": "{{ 'ordinary-object/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "An unrelated vehicle, equipment item or debris could have been present in the woods and later linked to the distant fireball.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2-overview.webp' | relative_url }}", "slot_index": 15}, {"id": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-two-event-story-fusi-f78c9c", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_two_event_story_fusi_f78c9c", "label": "Event Fusion", "display_label": "Event Fusion", "full_label": "How Two Events Became One Kecksburg Story | Ordinary Object", "catchy_title": "How Two Events Became One Kecksburg Story", "url": "{{ 'event-fusion/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A regional fireball and an unrelated ground object could have merged through local assumptions, rumours and later retellings.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_two_event_story_fusi_f78c9c-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-farm-equipment-candi-5fe9d6", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_farm_equipment_candi_5fe9d6", "label": "Farm Equipment", "display_label": "Farm Equipment", "full_label": "Could Farm Machinery Explain the Kecksburg Object? | Ordinary Object", "catchy_title": "Could Farm Machinery Explain the Kecksburg Object?", "url": "{{ 'farm-equipment/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Tanks, hoppers and machinery housings offer testable conventional matches for the rounded object later described near Kecksburg.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_farm_equipment_candi_5fe9d6-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-industrial-object-ma-e3608d", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_industrial_object_ma_e3608d", "label": "Industrial Objects", "display_label": "Industrial Objects", "full_label": "Which Industrial Objects Could Look Like a Craft? | Ordinary Object", "catchy_title": "Which Industrial Objects Could Look Like a Craft?", "url": "{{ 'industrial-objects/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Culvert sections, pressure vessels and cable drums can produce capsule-like silhouettes when viewed obliquely through trees.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_industrial_object_ma_e3608d-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-darkness-terrain-mis-bd9c34", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_darkness_terrain_mis_bd9c34", "label": "Night Misperception", "display_label": "Night Misperception", "full_label": "How Darkness Could Transform an Ordinary Object", "catchy_title": "How Darkness Could Transform an Ordinary Object", "url": "{{ 'night-misperception/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "sm", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Torchlight, smoke, slopes and vegetation could have distorted the size, shape and distance of an ordinary object in the woods.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_darkness_terrain_mis_bd9c34-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-search-equipment-mis-09a387", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_search_equipment_mis_09a387", "label": "Search Gear", "display_label": "Search Gear", "full_label": "Was Search Equipment Mistaken for the Object? | Ordinary Object", "catchy_title": "Was Search Equipment Mistaken for the Object?", "url": "{{ 'search-gear/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Generators, communications gear or machinery brought by responders may later have been remembered as the object being removed.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_search_equipment_mis_09a387-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-preexisting-object-r-af2bd2", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_preexisting_object_r_af2bd2", "label": "Site Records", "display_label": "Site Records", "full_label": "Can Old Records Identify the Woods Object? | Ordinary Object", "catchy_title": "Can Old Records Identify the Woods Object?", "url": "{{ 'site-records/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Land records, farm inventories, photographs and local testimony could test whether machinery or scrap occupied the site before the fireball.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2_preexisting_object_r_af2bd2-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117", "label": "Physical Evidence", "display_label": "Physical Evidence", "full_label": "Where Is the Physical Evidence? | Kecksburg", "catchy_title": "Where Is the Physical Evidence?", "url": "{{ 'physical-evidence/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "No authenticated fragment, photograph or measured object links the Kecksburg woods to the documented Great Lakes fireball.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117-overview.webp' | relative_url }}", "slot_index": 16}, {"id": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-kecksburg-ground-tra-0abfef", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_kecksburg_ground_tra_0abfef", "label": "Ground Traces", "display_label": "Ground Traces", "full_label": "Where Are the Landing Marks at Kecksburg? | Physical Evidence", "catchy_title": "Where Are the Landing Marks at Kecksburg?", "url": "{{ 'ground-traces/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A large recovered object should normally leave measurable disturbance in soil, trees or vegetation, even without a dramatic crater.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_kecksburg_ground_tra_0abfef-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-nasa-lost-debris-rec-6a8619", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_nasa_lost_debris_rec_6a8619", "label": "Lost Records", "display_label": "Lost Records", "full_label": "What Did NASA Actually Examine After Kecksburg? | Physical Evidence", "catchy_title": "What Did NASA Actually Examine After Kecksburg?", "url": "{{ 'lost-records/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "NASA's statement about examined Soviet debris cannot be verified because the sample, report and supporting records are unavailable.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_nasa_lost_debris_rec_6a8619-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-murphy-missing-photo-8f61f8", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_murphy_missing_photo_8f61f8", "label": "Missing Photos", "display_label": "Missing Photos", "full_label": "Can Missing Photographs Count as Evidence? | Physical Evidence", "catchy_title": "Can Missing Photographs Count as Evidence?", "url": "{{ 'missing-photos/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Claims that John Murphy's close-range film was confiscated cannot establish what the unseen images showed without negatives or independent records.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_murphy_missing_photo_8f61f8-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-modern-fireball-reco-57d7c5", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_modern_fireball_reco_57d7c5", "label": "Modern Standard", "display_label": "Modern Standard", "full_label": "How Real Fireball Recoveries Are Verified | Physical Evidence", "catchy_title": "How Real Fireball Recoveries Are Verified", "url": "{{ 'modern-standard/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Modern recoveries link camera data, predicted fall zones and catalogued samples in a chain that the Kecksburg case lacks.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_modern_fireball_reco_57d7c5-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-credible-kecksburg-f-6b8a9a", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_credible_kecksburg_f_6b8a9a", "label": "Proven Fragment", "display_label": "Proven Fragment", "full_label": "What Would Make a Kecksburg Fragment Credible? | Physical Evidence", "catchy_title": "What Would Make a Kecksburg Fragment Credible?", "url": "{{ 'proven-fragment/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A credible Kecksburg fragment would need documented discovery, secure custody, preserved samples and independent laboratory testing.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_credible_kecksburg_f_6b8a9a-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-fireball-trajectory-9b9ccf", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_fireball_trajectory_9b9ccf", "label": "Trajectory Match", "display_label": "Trajectory Match", "full_label": "Could the Great Lakes Fireball Reach Kecksburg? | Physical Evidence", "catchy_title": "Could the Great Lakes Fireball Reach Kecksburg?", "url": "{{ 'trajectory-match/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The physical-object claim depends on whether the photographed fireball's reconstructed path could plausibly end near Kecksburg.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_missing_physical_evi_3b8117_fireball_trajectory_9b9ccf-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536", "label": "Records Access", "display_label": "Records Access", "full_label": "Can Government Records Resolve Kecksburg?", "catchy_title": "Can Government Records Resolve Kecksburg?", "url": "{{ 'records-access/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Efforts to obtain official files test whether the mystery reflects hidden evidence, lost paperwork or ordinary archival gaps.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536-overview.webp' | relative_url }}", "slot_index": 17}, {"id": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-nasa-changing-kecksb-69b74b", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_nasa_changing_kecksb_69b74b", "label": "Changing Claims", "display_label": "Changing Claims", "full_label": "Why NASA Could Not Support Its Kecksburg Claim | Records Access", "catchy_title": "Why NASA Could Not Support Its Kecksburg Claim", "url": "{{ 'changing-claims/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "NASA once suggested that Kecksburg fragments were Soviet hardware, yet its later search found no supporting technical report.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_nasa_changing_kecksb_69b74b-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-foia-limits-kecksbur-057cdd", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_foia_limits_kecksbur_057cdd", "label": "FOIA Limits", "display_label": "FOIA Limits", "full_label": "Why FOIA Could Not Solve Kecksburg | Records Access", "catchy_title": "Why FOIA Could Not Solve Kecksburg", "url": "{{ 'foia-limits/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "FOIA could force NASA to search its own holdings, but it could not restore destroyed papers or produce files held by another agency.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_foia_limits_kecksbur_057cdd-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-missing-kecksburg-re-cecdc6", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_missing_kecksburg_re_cecdc6", "label": "Missing Boxes", "display_label": "Missing Boxes", "full_label": "Were the Missing Boxes Really About Kecksburg? | Records Access", "catchy_title": "Were the Missing Boxes Really About Kecksburg?", "url": "{{ 'missing-boxes/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Two unlocated boxes drew suspicion, but without an inventory no one can determine whether they contained Kecksburg material.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_missing_kecksburg_re_cecdc6-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-nasa-foia-search-fai-c92041", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_nasa_foia_search_fai_c92041", "label": "NASA Lawsuit", "display_label": "NASA Lawsuit", "full_label": "What the NASA Lawsuit Actually Proved | Records Access", "catchy_title": "What the NASA Lawsuit Actually Proved", "url": "{{ 'nasa-lawsuit/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The lawsuit showed that NASA's first two record searches were inadequate, but it did not uncover proof of a recovered craft.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_nasa_foia_search_fai_c92041-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-federal-recordkeepin-05700e", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_federal_recordkeepin_05700e", "label": "Recordkeeping Rules", "display_label": "Recordkeeping Rules", "full_label": "Could Better Recordkeeping Have Prevented the Gaps? | Records Access", "catchy_title": "Could Better Recordkeeping Have Prevented the Gaps?", "url": "{{ 'recordkeeping-rules/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Federal preservation rules require agencies to report unlawful destruction, but compliance depends on records being identified before they vanish.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_federal_recordkeepin_05700e-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-classified-lost-neve-b3173c", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_classified_lost_neve_b3173c", "label": "Three Record Gaps", "display_label": "Three Record Gaps", "full_label": "Classified, Lost or Never Written? | Records Access", "catchy_title": "Classified, Lost or Never Written?", "url": "{{ 'three-record-gaps/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A withheld file, a destroyed file and a record that never existed create different evidentiary problems and should not be treated alike.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_records_requests_tra_5a3536_classified_lost_neve_b3173c-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03", "label": "Retrieval Story", "display_label": "Retrieval Story", "full_label": "Was an Object Removed by the Military? | Kecksburg", "catchy_title": "Was an Object Removed by the Military?", "url": "{{ 'retrieval-story/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Some witnesses said a covered object left the area on a military truck, while contemporary records offer no public confirmation.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03-overview.webp' | relative_url }}", "slot_index": 18}, {"id": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-lockbourne-wright-pa-92049a", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_lockbourne_wright_pa_92049a", "label": "Base Destinations", "display_label": "Base Destinations", "full_label": "Where Was the Alleged Kecksburg Cargo Taken? | Retrieval Story", "catchy_title": "Where Was the Alleged Kecksburg Cargo Taken?", "url": "{{ 'base-destinations/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Lockbourne and Wright-Patterson are often named as destinations, yet no verified gate log, cargo record or receiving document confirms either base.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_lockbourne_wright_pa_92049a-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-jerry-betters-truck-f2415a", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_jerry_betters_truck_f2415a", "label": "Betters Drawing", "display_label": "Betters Drawing", "full_label": "What Does Jerry Betters' Truck Drawing Prove? | Retrieval Story", "catchy_title": "What Does Jerry Betters' Truck Drawing Prove?", "url": "{{ 'betters-drawing/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Jerry Betters' notarised drawing offers a vivid truck image, but its date, source history and relationship to later retellings are crucial.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_jerry_betters_truck_f2415a-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-kecksburg-convoy-gua-853609", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_kecksburg_convoy_gua_853609", "label": "Convoy Claims", "display_label": "Convoy Claims", "full_label": "Was There Really a Kecksburg Military Convoy? | Retrieval Story", "catchy_title": "Was There Really a Kecksburg Military Convoy?", "url": "{{ 'convoy-claims/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Later witnesses added escort vehicles, soldiers and armed guards, raising questions about which details were independent and when they appeared.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_kecksburg_convoy_gua_853609-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-john-hays-truck-test-4620ae", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_john_hays_truck_test_4620ae", "label": "John Hays", "display_label": "John Hays", "full_label": "How Strong Is John Hays' Truck Account? | Retrieval Story", "catchy_title": "How Strong Is John Hays' Truck Account?", "url": "{{ 'john-hays/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "John Hays' childhood sighting is the best-known claim that a military flatbed left Kecksburg carrying a car-sized covered load.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_john_hays_truck_test_4620ae-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-retrieval-convoy-mis-9d9d19", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_retrieval_convoy_mis_9d9d19", "label": "Missing Records", "display_label": "Missing Records", "full_label": "What Paper Trail Should a Retrieval Leave? | Retrieval Story", "catchy_title": "What Paper Trail Should a Retrieval Leave?", "url": "{{ 'missing-records/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A real recovery convoy would likely generate dispatch, access, fuel, cargo and receiving records, making the missing paper trail a testable issue.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_retrieval_convoy_mis_9d9d19-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-kecksburg-ohio-truck-856c13", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_kecksburg_ohio_truck_856c13", "label": "Ohio Route", "display_label": "Ohio Route", "full_label": "Could the Kecksburg Truck Reach Ohio That Night? | Retrieval Story", "catchy_title": "Could the Kecksburg Truck Reach Ohio That Night?", "url": "{{ 'ohio-route/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The alleged westbound trip was physically possible, but route timing, road access and missing en-route sightings limit what can be established.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03_kecksburg_ohio_truck_856c13-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6", "label": "Roswell Comparison", "display_label": "Roswell Comparison", "full_label": "Is Kecksburg Really Pennsylvania's Roswell?", "catchy_title": "Is Kecksburg Really Pennsylvania's Roswell?", "url": "{{ 'roswell-comparison/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "The Roswell nickname increased Kecksburg's appeal but can blur major differences in evidence, chronology and public documentation.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6-overview.webp' | relative_url }}", "slot_index": 19}, {"id": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-debris-vs-fireball-a7f933", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_debris_vs_fireball_a7f933", "label": "Debris vs Fireball", "display_label": "Debris vs Fireball", "full_label": "Debris at Roswell, Fireball at Kecksburg | Roswell Comparison", "catchy_title": "Debris at Roswell, Fireball at Kecksburg", "url": "{{ 'debris-vs-fireball/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Roswell began with recovered material, while Kecksburg began with a well-observed fireball whose connection to the woods remains disputed.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_debris_vs_fireball_a7f933-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-roswell-press-releas-e74886", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_roswell_press_releas_e74886", "label": "Press Record", "display_label": "Press Record", "full_label": "Why Roswell Had a Smoking Gun Headline | Roswell Comparison", "catchy_title": "Why Roswell Had a Smoking Gun Headline", "url": "{{ 'press-record/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Roswell's Army announcement created a documented contradiction, while Kecksburg never produced a comparable official claim of recovered wreckage.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_roswell_press_releas_e74886-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-project-mogul-compar-490c2a", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_project_mogul_compar_490c2a", "label": "Project Mogul", "display_label": "Project Mogul", "full_label": "What Project Mogul Means for Kecksburg Comparisons | Roswell Comparison", "catchy_title": "What Project Mogul Means for Kecksburg Comparisons", "url": "{{ 'project-mogul/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Project Mogul gives Roswell a specific classified-balloon explanation that has no equally documented counterpart in the Kecksburg case.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_project_mogul_compar_490c2a-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-military-secrecy-ufo-d52873", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_military_secrecy_ufo_d52873", "label": "Secrecy Gap", "display_label": "Secrecy Gap", "full_label": "Does Military Secrecy Make a UFO Case Stronger? | Roswell Comparison", "catchy_title": "Does Military Secrecy Make a UFO Case Stronger?", "url": "{{ 'secrecy-gap/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Both stories show how classified Cold War activity can create suspicion without proving that authorities recovered extraterrestrial technology.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_military_secrecy_ufo_d52873-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-why-pennsylvanias-ro-709aba", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_why_pennsylvanias_ro_709aba", "label": "The Nickname", "display_label": "The Nickname", "full_label": "Why Kecksburg Became Pennsylvania's Roswell | Roswell Comparison", "catchy_title": "Why Kecksburg Became Pennsylvania's Roswell", "url": "{{ 'the-nickname/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The nickname endured because Kecksburg mirrored Roswell's crash-retrieval story even though the underlying evidence was very different.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_why_pennsylvanias_ro_709aba-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-television-roswell-r-0d3729", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_television_roswell_r_0d3729", "label": "TV Legacy", "display_label": "TV Legacy", "full_label": "How Television Made Kecksburg the New Roswell | Roswell Comparison", "catchy_title": "How Television Made Kecksburg the New Roswell", "url": "{{ 'tv-legacy/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Television reconstructions supplied Kecksburg with a memorable acorn-shaped object and promoted it as a new version of the Roswell mystery.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6_television_roswell_r_0d3729-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e", "label": "Search Failure", "display_label": "Search Failure", "full_label": "Why a Real Meteor May Leave No Find | Kecksburg", "catchy_title": "Why a Real Meteor May Leave No Find", "url": "{{ 'search-failure/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Even well-modelled meteor falls may leave tiny, scattered or inaccessible fragments that search teams never recover.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e-overview.webp' | relative_url }}", "slot_index": 20}, {"id": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-dark-flight-off-cour-74f989", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_dark_flight_off_cour_74f989", "label": "Dark Flight", "display_label": "Dark Flight", "full_label": "Where Meteorites Go After the Light Ends | Search Failure", "catchy_title": "Where Meteorites Go After the Light Ends", "url": "{{ 'dark-flight/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Once fragments stop glowing, winds and gravity can carry them far from the place witnesses expect them to land.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_dark_flight_off_cour_74f989-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-ribbeck-search-zone-fc7e89", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_ribbeck_search_zone_fc7e89", "label": "Ribbeck Search", "display_label": "Ribbeck Search", "full_label": "Why the First Ribbeck Search Missed | Search Failure", "catchy_title": "Why the First Ribbeck Search Missed", "url": "{{ 'ribbeck-search/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The first search failed until revised wind calculations moved the predicted fall zone to where the Ribbeck meteorites were found.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_ribbeck_search_zone_fc7e89-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-strewn-fields-search-940368", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_strewn_fields_search_940368", "label": "Strewn Fields", "display_label": "Strewn Fields", "full_label": "Why Searchers Can Walk Past the Main Fall | Search Failure", "catchy_title": "Why Searchers Can Walk Past the Main Fall", "url": "{{ 'strewn-fields/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Meteorites can be scattered unevenly across kilometres, leaving large empty gaps between dense pockets of fragments.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_strewn_fields_search_940368-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-bright-fireballs-tin-11478a", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_bright_fireballs_tin_11478a", "label": "Tiny Survivors", "display_label": "Tiny Survivors", "full_label": "Why Huge Fireballs Can Leave Almost Nothing | Search Failure", "catchy_title": "Why Huge Fireballs Can Leave Almost Nothing", "url": "{{ 'tiny-survivors/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A spectacular fireball can lose nearly all its mass before the surviving fragments ever reach the ground.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_bright_fireballs_tin_11478a-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-wind-model-fall-zone-e00237", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_wind_model_fall_zone_e00237", "label": "Wind Errors", "display_label": "Wind Errors", "full_label": "How Far Can a Fall Prediction Miss? | Search Failure", "catchy_title": "How Far Can a Fall Prediction Miss?", "url": "{{ 'wind-errors/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Small differences in atmospheric data can shift predicted landing points by hundreds of metres or more.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_wind_model_fall_zone_e00237-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-woodland-meteorite-s-fa9f5c", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_woodland_meteorite_s_fa9f5c", "label": "Woodland Searches", "display_label": "Woodland Searches", "full_label": "Why Forests Swallow Meteorites So Quickly | Search Failure", "catchy_title": "Why Forests Swallow Meteorites So Quickly", "url": "{{ 'woodland-searches/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Leaf litter, roots, soft soil and dense brush can hide small meteorites within minutes of impact.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_meteorite_search_fai_0cea6e_woodland_meteorite_s_fa9f5c-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e", "label": "Shock Waves", "display_label": "Shock Waves", "full_label": "What the Booms and Seismograph Recorded | Kecksburg", "catchy_title": "What the Booms and Seismograph Recorded", "url": "{{ 'shock-waves/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Delayed booms and a Detroit-area seismic record provide physical evidence that the fireball generated powerful atmospheric shock waves.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e-overview.webp' | relative_url }}", "slot_index": 21}, {"id": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-ballistic-vs-fragmen-490f4d", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_ballistic_vs_fragmen_490f4d", "label": "Boom Types", "display_label": "Boom Types", "full_label": "One Fireball, Several Different Kinds of Boom | Shock Waves", "catchy_title": "One Fireball, Several Different Kinds of Boom", "url": "{{ 'boom-types/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A continuous Mach cone and separate breakup pulses can produce very different sequences of cracks, thumps and window-rattling blasts.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_ballistic_vs_fragmen_490f4d-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-delayed-boom-false-i-4b1833", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_delayed_boom_false_i_4b1833", "label": "Delayed Booms", "display_label": "Delayed Booms", "full_label": "Why Kecksburg's Booms Sounded Like an Impact | Shock Waves", "catchy_title": "Why Kecksburg's Booms Sounded Like an Impact", "url": "{{ 'delayed-booms/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Minutes-late booms can make a high-altitude fireball seem to have crashed near the listener even when its path was far away.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_delayed_boom_false_i_4b1833-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-seismic-proof-ground-dc0fba", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_seismic_proof_ground_dc0fba", "label": "Impact Proof", "display_label": "Impact Proof", "full_label": "What Would Real Seismic Proof of Impact Look Like? | Shock Waves", "catchy_title": "What Would Real Seismic Proof of Impact Look Like?", "url": "{{ 'impact-proof/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A genuine ground strike would require converging station data, impact-specific wave arrivals, disturbed terrain and recoverable material.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_seismic_proof_ground_dc0fba-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-booms-meteor-vs-reen-b1761d", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_booms_meteor_vs_reen_b1761d", "label": "Meteor or Reentry", "display_label": "Meteor or Reentry", "full_label": "Can Sonic Booms Reveal What the Object Was? | Shock Waves", "catchy_title": "Can Sonic Booms Reveal What the Object Was?", "url": "{{ 'meteor-or-reentry/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Meteoroids and re-entering spacecraft can both travel supersonically, so acoustic evidence alone cannot reliably identify the object.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_booms_meteor_vs_reen_b1761d-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-modern-sensors-kecks-568189", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_modern_sensors_kecks_568189", "label": "Modern Sensors", "display_label": "Modern Sensors", "full_label": "How Today's Sensors Would Test the Kecksburg Story | Shock Waves", "catchy_title": "How Today's Sensors Would Test the Kecksburg Story", "url": "{{ 'modern-sensors/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Video, radar, infrasound and multiple seismic stations could separate flight-path shocks from fragmentation and test any claimed impact zone.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_modern_sensors_kecks_568189-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-terrain-weather-boom-a07d0c", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_terrain_weather_boom_a07d0c", "label": "Sound Distortion", "display_label": "Sound Distortion", "full_label": "Why the Booms Seemed to Come From Kecksburg | Shock Waves", "catchy_title": "Why the Booms Seemed to Come From Kecksburg", "url": "{{ 'sound-distortion/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Winds, temperature layers, hills and buildings can bend or reflect a pressure wave and make its apparent direction unreliable.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e_terrain_weather_boom_a07d0c-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c", "label": "Space Debris", "display_label": "Space Debris", "full_label": "Why Space Debris Would Trigger a Cordon | Kecksburg", "catchy_title": "Why Space Debris Would Trigger a Cordon", "url": "{{ 'space-debris/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Unknown satellite debris could have carried toxic, explosive or radioactive hazards, making a rapid military response unsurprising.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c-overview.webp' | relative_url }}", "slot_index": 22}, {"id": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-space-debris-first-r-876a7f", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_space_debris_first_r_876a7f", "label": "First Response", "display_label": "First Response", "full_label": "What Should Happen First When Space Debris Lands?", "catchy_title": "What Should Happen First When Space Debris Lands?", "url": "{{ 'first-response/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The safest first response is to keep people back, avoid touching fragments and identify hazards before moving anything.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_space_debris_first_r_876a7f-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-hydrazine-debris-ris-ec9767", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_hydrazine_debris_ris_ec9767", "label": "Hydrazine Risk", "display_label": "Hydrazine Risk", "full_label": "Could Fallen Space Debris Still Contain Toxic Fuel?", "catchy_title": "Could Fallen Space Debris Still Contain Toxic Fuel?", "url": "{{ 'hydrazine-risk/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A scorched spacecraft tank could still release toxic hydrazine vapour or liquid even when no flames are visible.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_hydrazine_debris_ris_ec9767-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-kosmos-954-cleanup-b4964e", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_kosmos_954_cleanup_b4964e", "label": "Kosmos 954", "display_label": "Kosmos 954", "full_label": "What Kosmos 954 Revealed About Space Debris Cleanup", "catchy_title": "What Kosmos 954 Revealed About Space Debris Cleanup", "url": "{{ 'kosmos-954/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The 1978 Kosmos 954 cleanup showed how radioactive satellite debris could require aircraft, controlled zones and multinational recovery teams.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_kosmos_954_cleanup_b4964e-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-moon-dust-debris-rec-989e8d", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_moon_dust_debris_rec_989e8d", "label": "Moon Dust", "display_label": "Moon Dust", "full_label": "Why Foreign Space Debris Attracted Military Recovery Teams", "catchy_title": "Why Foreign Space Debris Attracted Military Recovery Teams", "url": "{{ 'moon-dust-9415db/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Cold War recovery teams sought foreign space hardware for both public safety and the intelligence value of unfamiliar technology.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_moon_dust_debris_rec_989e8d-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-radioactive-satellit-14dab6", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_radioactive_satellit_14dab6", "label": "Nuclear Debris", "display_label": "Nuclear Debris", "full_label": "Why Radioactive Space Debris Was a Real Concern", "catchy_title": "Why Radioactive Space Debris Was a Real Concern", "url": "{{ 'nuclear-debris/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "sm", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "By 1965, nuclear-powered satellites made radioactive contamination a credible precaution when unknown space debris reached Earth.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_radioactive_satellit_14dab6-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-stored-energy-debris-21214a", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_stored_energy_debris_21214a", "label": "Stored Energy", "display_label": "Stored Energy", "full_label": "Why Apparently Inert Space Debris Can Still Explode", "catchy_title": "Why Apparently Inert Space Debris Can Still Explode", "url": "{{ 'stored-energy/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Tanks, batteries and pyrotechnic devices can retain dangerous stored energy after surviving atmospheric breakup and impact.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c_stored_energy_debris_21214a-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28", "label": "Stan Gordon", "display_label": "Stan Gordon", "full_label": "How Stan Gordon Shaped the Kecksburg Story", "catchy_title": "How Stan Gordon Shaped the Kecksburg Story", "url": "{{ 'stan-gordon/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Investigator Stan Gordon preserved many local accounts and helped shape the modern public understanding of the incident.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28-overview.webp' | relative_url }}", "slot_index": 23}, {"id": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-gordon-archive-audit-0adaa5", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_archive_audit_0adaa5", "label": "Archive Audit", "display_label": "Archive Audit", "full_label": "Can Gordon's Kecksburg Archive Be Independently Checked? | Stan Gordon", "catchy_title": "Can Gordon's Kecksburg Archive Be Independently Checked?", "url": "{{ 'archive-audit/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The lack of complete dated transcripts and disclosure histories makes it difficult to track when key Kecksburg details first appeared.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_archive_audit_0adaa5-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-gordon-interview-che-f5c5a5", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_interview_che_f5c5a5", "label": "Interview Checks", "display_label": "Interview Checks", "full_label": "How Gordon Tried to Separate Memory From Copying | Stan Gordon", "catchy_title": "How Gordon Tried to Separate Memory From Copying", "url": "{{ 'interview-checks/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Gordon said he withheld selected facts until separate sources confirmed them, a method intended to reduce copied testimony.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_interview_che_f5c5a5-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-preserved-kecksburg-ab0486", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_preserved_kecksburg_ab0486", "label": "Preserved Testimony", "display_label": "Preserved Testimony", "full_label": "What Gordon Saved Before the Witnesses Were Gone | Stan Gordon", "catchy_title": "What Gordon Saved Before the Witnesses Were Gone", "url": "{{ 'preserved-testimony/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Recorded interviews, sketches and location visits preserved first-generation testimony that official files largely ignored.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_preserved_kecksburg_ab0486-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-television-witness-w-92fa04", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_television_witness_w_92fa04", "label": "Publicity Waves", "display_label": "Publicity Waves", "full_label": "Did Television Find Witnesses or Shape Their Memories? | Stan Gordon", "catchy_title": "Did Television Find Witnesses or Shape Their Memories?", "url": "{{ 'publicity-waves/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "National broadcasts brought new Kecksburg informants to Gordon while also giving later memories a ready-made storyline and visual template.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_television_witness_w_92fa04-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-gordon-witness-netwo-007d85", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_witness_netwo_007d85", "label": "Witness Network", "display_label": "Witness Network", "full_label": "How Gordon Found Kecksburg's Missing Witnesses | Stan Gordon", "catchy_title": "How Gordon Found Kecksburg's Missing Witnesses", "url": "{{ 'witness-network/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Gordon's decades of local contacts turned scattered Kecksburg memories into the largest civilian witness network attached to the case.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_gordon_witness_netwo_007d85-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-kecksburg-witness-ty-a615c1", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_kecksburg_witness_ty_a615c1", "label": "Witness Types", "display_label": "Witness Types", "full_label": "Who Really Counts as a Kecksburg Witness? | Stan Gordon", "catchy_title": "Who Really Counts as a Kecksburg Witness?", "url": "{{ 'witness-types/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Gordon's witness total combines direct observers with people reporting vehicles, roadblocks, radio traffic or second-hand military claims.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_witness_6cee28_kecksburg_witness_ty_a615c1-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-television-national-641733", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_television_national_641733", "label": "Television Impact", "display_label": "Television Impact", "full_label": "How Television Reinvented Kecksburg", "catchy_title": "How Television Reinvented Kecksburg", "url": "{{ 'television-impact/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "A 1990 television reconstruction brought the acorn narrative to a national audience and reshaped the case's cultural status.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_television_national_641733-overview.webp' | relative_url }}", "slot_index": 24}, {"id": "node-kecksburg-ufo-incide-ab793e-television-national-641733-broadcast-reframed-m-d0e9ad", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_television_national_641733_broadcast_reframed_m_d0e9ad", "label": "Broadcast Framing", "display_label": "Broadcast Framing", "full_label": "How Television Changed the Central Kecksburg Question | Television Impact", "catchy_title": "How Television Changed the Central Kecksburg Question", "url": "{{ 'broadcast-framing/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-television-national-641733", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The episode shifted public attention from the fireball's cause to the question of what the military may have removed.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_television_national_641733_broadcast_reframed_m_d0e9ad-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-television-national-641733-reconstruction-vs-re-232681", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_television_national_641733_reconstruction_vs_re_232681", "label": "Drama vs Fact", "display_label": "Drama vs Fact", "full_label": "When Reconstruction Starts Looking Like Historical Evidence | Television Impact", "catchy_title": "When Reconstruction Starts Looking Like Historical Evidence", "url": "{{ 'drama-vs-fact/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-television-national-641733", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The episode gave uncertain memories the visual solidity of filmed events, making production choices easy to mistake for historical evidence.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_television_national_641733_reconstruction_vs_re_232681-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-television-national-641733-vast-of-night-influe-b38a97", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_television_national_641733_vast_of_night_influe_b38a97", "label": "Film Influence", "display_label": "Film Influence", "full_label": "How Kecksburg Echoed Through The Vast of Night | Television Impact", "catchy_title": "How Kecksburg Echoed Through The Vast of Night", "url": "{{ 'film-influence/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-television-national-641733", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The 2019 film drew on Kecksburg's radio reporting, small-town unease and military secrecy to build a new science-fiction story.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_television_national_641733_vast_of_night_influe_b38a97-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-television-national-641733-later-programs-kecks-0f97ad", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_television_national_641733_later_programs_kecks_0f97ad", "label": "Later Programs", "display_label": "Later Programs", "full_label": "Why Later UFO Shows Kept Repeating Kecksburg | Television Impact", "catchy_title": "Why Later UFO Shows Kept Repeating Kecksburg", "url": "{{ 'later-programs/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-television-national-641733", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Subsequent documentaries retained the acorn craft, military retrieval and secrecy narrative even when their explanations changed.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_television_national_641733_later_programs_kecks_0f97ad-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-television-national-641733-kecksburg-filming-op-0125a2", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_television_national_641733_kecksburg_filming_op_0125a2", "label": "Local Opposition", "display_label": "Local Opposition", "full_label": "Why Some Kecksburg Residents Wanted Filming Stopped | Television Impact", "catchy_title": "Why Some Kecksburg Residents Wanted Filming Stopped", "url": "{{ 'local-opposition/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-television-national-641733", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A petition signed by dozens of residents revealed fears that national television would misrepresent the town and revive a disputed story.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_television_national_641733_kecksburg_filming_op_0125a2-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-television-national-641733-ufo-festival-local-i-4d88ad", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_television_national_641733_ufo_festival_local_i_4d88ad", "label": "UFO Festival", "display_label": "UFO Festival", "full_label": "How Kecksburg Turned UFO Fame Into a Festival | Television Impact", "catchy_title": "How Kecksburg Turned UFO Fame Into a Festival", "url": "{{ 'ufo-festival/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-television-national-641733", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Kecksburg converted outside fascination into a fundraiser, reunion and folklore event centered on the volunteer fire department.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_television_national_641733_ufo_festival_local_i_4d88ad-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f", "label": "The Strongest Version Of The Kecksbur...", "display_label": "The Strongest Version Of The Kecksbur...", "full_label": "How Strong Is the Kecksburg Crash Claim?", "catchy_title": "How Strong Is the Kecksburg Crash Claim?", "url": "{{ 'the-strongest-version-of-the-kecksburg/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "The Kecksburg case shows how to separate verified observations, plausible inferences and unsupported recovery claims.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f-overview.webp' | relative_url }}", "slot_index": 25}, {"id": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-acorn-craft-testimon-0a3938", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_acorn_craft_testimon_0a3938", "label": "Acorn Testimony", "display_label": "Acorn Testimony", "full_label": "How Reliable Is the Acorn Shaped Craft Story? | The Strongest Version Of The Kecksburg Crash Claim", "catchy_title": "How Reliable Is the Acorn Shaped Craft Story?", "url": "{{ 'acorn-testimony/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "very-long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The famous acorn-shaped object rests largely on later recollections that may have been influenced by repeated retellings and television imagery.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_acorn_craft_testimon_0a3938-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-military-convoy-clai-4a8b6f", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_military_convoy_clai_4a8b6f", "label": "Convoy Claim", "display_label": "Convoy Claim", "full_label": "Where Is the Evidence for the Military Convoy? | The Strongest Version Of The Kecksburg Crash Claim", "catchy_title": "Where Is the Evidence for the Military Convoy?", "url": "{{ 'convoy-claim/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "very-long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Claims of a truck carrying a covered object remain unverified because no continuous chain of loading, transport and receipt records has surfaced.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_military_convoy_clai_4a8b6f-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-fireball-trajectory-b0c45e", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_fireball_trajectory_b0c45e", "label": "Fireball Path", "display_label": "Fireball Path", "full_label": "Did the Fireball Really Reach Kecksburg? | The Strongest Version Of The Kecksburg Crash Claim", "catchy_title": "Did the Fireball Really Reach Kecksburg?", "url": "{{ 'fireball-path/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "very-long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Instrumental records confirm a major fireball, but they do not securely place its endpoint in the Kecksburg woods.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_fireball_trajectory_b0c45e-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-kosmos-96-reentry-59d4de", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kosmos_96_reentry_59d4de", "label": "Kosmos 96", "display_label": "Kosmos 96", "full_label": "Was Kosmos 96 the Kecksburg Object? | The Strongest Version Of The Kecksburg Crash Claim", "catchy_title": "Was Kosmos 96 the Kecksburg Object?", "url": "{{ 'kosmos-96-ef12fc/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "very-long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Timing and trajectory evidence weaken the Kosmos 96 explanation, but rejecting it does not establish that an unknown craft landed at Kecksburg.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kosmos_96_reentry_59d4de-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-nasa-missing-records-c508f8", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_nasa_missing_records_c508f8", "label": "Missing Files", "display_label": "Missing Files", "full_label": "Do NASA's Missing Files Prove a Cover Up? | The Strongest Version Of The Kecksburg Crash Claim", "catchy_title": "Do NASA's Missing Files Prove a Cover Up?", "url": "{{ 'missing-files/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "very-long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Missing NASA files show that the archive is incomplete, but they do not reveal whether any document supported a secret Kecksburg recovery.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_nasa_missing_records_c508f8-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-kecksburg-official-s-8dbebe", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kecksburg_official_s_8dbebe", "label": "Official Search", "display_label": "Official Search", "full_label": "What Did Officials Find in the Woods? | The Strongest Version Of The Kecksburg Crash Claim", "catchy_title": "What Did Officials Find in the Woods?", "url": "{{ 'official-search/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "very-long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Police, firefighters and Air Force personnel searched near Kecksburg, but contemporary reports do not confirm that they recovered a craft.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f_kecksburg_official_s_8dbebe-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2", "label": "Trajectory", "display_label": "Trajectory", "full_label": "Did the Fireball Actually Reach Kecksburg?", "catchy_title": "Did the Fireball Actually Reach Kecksburg?", "url": "{{ 'trajectory/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "The reconstructed path points toward western Lake Erie rather than Pennsylvania, challenging a direct Kecksburg impact.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2-overview.webp' | relative_url }}", "slot_index": 26}, {"id": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-dark-flight-distance-786023", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_dark_flight_distance_786023", "label": "Dark Flight", "display_label": "Dark Flight", "full_label": "Could Dark Flight Carry Debris All the Way to Kecksburg? | Trajectory", "catchy_title": "Could Dark Flight Carry Debris All the Way to Kecksburg?", "url": "{{ 'dark-flight-601658/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Dark flight can move a meteorite beyond its luminous endpoint, but normal gravity and wind cannot redirect it hundreds of kilometres toward Kecksburg.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_dark_flight_distance_786023-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-modern-error-scale-6ad6ca", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_modern_error_scale_6ad6ca", "label": "Error Scale", "display_label": "Error Scale", "full_label": "Are Modern Meteor Errors Large Enough to Reach Kecksburg? | Trajectory", "catchy_title": "Are Modern Meteor Errors Large Enough to Reach Kecksburg?", "url": "{{ 'error-scale/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Instrumented meteorite falls show prediction errors of metres or kilometres, not the roughly 200-mile displacement needed to reach Kecksburg.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_modern_error_scale_6ad6ca-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-kecksburg-fragment-p-edfe54", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_kecksburg_fragment_p_edfe54", "label": "Missing Branch", "display_label": "Missing Branch", "full_label": "What Would Prove a Fragment Broke Toward Kecksburg? | Trajectory", "catchy_title": "What Would Prove a Fragment Broke Toward Kecksburg?", "url": "{{ 'missing-branch/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A credible link would need independent photographs, radar or timed observations showing a major branch leaving the measured Lake Erie corridor.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_kecksburg_fragment_p_edfe54-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-two-camera-triangula-1f9911", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_camera_triangula_1f9911", "label": "Triangulation", "display_label": "Triangulation", "full_label": "How Two Michigan Photos Fixed the Fireball's Path | Trajectory", "catchy_title": "How Two Michigan Photos Fixed the Fireball's Path", "url": "{{ 'triangulation-54f075/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Photographs from Pontiac and Orchard Lake constrained the fireball in three dimensions more reliably than eyewitness impressions alone.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_camera_triangula_1f9911-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-two-event-hypothesis-0e38b7", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_event_hypothesis_0e38b7", "label": "Two Events", "display_label": "Two Events", "full_label": "Were the Fireball and Kecksburg Reports Separate Events? | Trajectory", "catchy_title": "Were the Fireball and Kecksburg Reports Separate Events?", "url": "{{ 'two-events/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The Great Lakes fireball and Kecksburg's local smoke, thump and woodland reports may have coincided without sharing one continuous physical...", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_two_event_hypothesis_0e38b7-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-wind-distortion-limi-8b49ad", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_wind_distortion_limi_8b49ad", "label": "Wind Distortion", "display_label": "Wind Distortion", "full_label": "Could High Altitude Winds Mislead the Kecksburg Reconstruction? | Trajectory", "catchy_title": "Could High Altitude Winds Mislead the Kecksburg Reconstruction?", "url": "{{ 'wind-distortion/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Upper-atmospheric winds could bend a persistent train after passage, but the key question is whether they could erase its broad south-eastern limit.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_trajectory_vs_kecksb_2cc8b2_wind_distortion_limi_8b49ad-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec", "label": "US Vehicle", "display_label": "US Vehicle", "full_label": "Was Kecksburg a Secret American Spacecraft?", "catchy_title": "Was Kecksburg a Secret American Spacecraft?", "url": "{{ 'us-vehicle/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "A classified US re-entry vehicle could explain the shape and secrecy claims, but no public evidence ties one to Kecksburg.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec-overview.webp' | relative_url }}", "slot_index": 27}, {"id": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-thor-agena-timeline-35558f", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_thor_agena_timeline_35558f", "label": "Launch Timeline", "display_label": "Launch Timeline", "full_label": "Did the Thor Agena Mission Put Anything Over Kecksburg? | US Vehicle", "catchy_title": "Did the Thor Agena Mission Put Anything Over Kecksburg?", "url": "{{ 'launch-timeline/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The known Thor-Agena launch that day placed a reconnaissance payload in orbit and does not provide a documented capsule returning over Pennsylvania.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_thor_agena_timeline_35558f-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-mark-2-match-tested-934cf1", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_mark_2_match_tested_934cf1", "label": "Mark 2 Match", "display_label": "Mark 2 Match", "full_label": "Was Kecksburg Really a Mark 2 Vehicle? | US Vehicle", "catchy_title": "Was Kecksburg Really a Mark 2 Vehicle?", "url": "{{ 'mark-2-match/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The Mark 2 resembles an acorn-shaped capsule, but its dimensions, purpose and surface details create serious problems for a precise Kecksburg match.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_mark_2_match_tested_934cf1-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-kecksburg-capsule-si-823936", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_kecksburg_capsule_si_823936", "label": "Size Test", "display_label": "Size Test", "full_label": "Was the Kecksburg Object Too Large for Mark 2? | US Vehicle", "catchy_title": "Was the Kecksburg Object Too Large for Mark 2?", "url": "{{ 'size-test/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Witness estimates range from a compact industrial capsule to something larger than a car, and that spread determines which American vehicles remain...", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_kecksburg_capsule_si_823936-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-reentry-steering-lim-d35311", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_reentry_steering_lim_d35311", "label": "Steering Limits", "display_label": "Steering Limits", "full_label": "Could a Secret Capsule Really Steer to Kecksburg? | US Vehicle", "catchy_title": "Could a Secret Capsule Really Steer to Kecksburg?", "url": "{{ 'steering-limits/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "American research explored guided re-entry, but the ability to make limited corrections was far removed from aircraft-like turning over Ohio and...", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_reentry_steering_lim_d35311-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-secret-vehicle-types-a8e3e6", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_secret_vehicle_types_a8e3e6", "label": "Vehicle Types", "display_label": "Vehicle Types", "full_label": "Which Secret American Vehicle Best Fits Kecksburg? | US Vehicle", "catchy_title": "Which Secret American Vehicle Best Fits Kecksburg?", "url": "{{ 'vehicle-types/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Several secret American systems shared blunt-body shapes, but their missions, launch paths and recovery methods make them very different Kecksburg...", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_secret_vehicle_types_a8e3e6-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-x23-prime-timing-62d66b", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_x23_prime_timing_62d66b", "label": "X 23 Timing", "display_label": "X 23 Timing", "full_label": "Why X 23 PRIME Is the Wrong Kecksburg Candidate | US Vehicle", "catchy_title": "Why X 23 PRIME Is the Wrong Kecksburg Candidate", "url": "{{ 'x-23-timing/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "X-23 PRIME proves that guided re-entry was real, but its first flight occurred after Kecksburg and its recovery profile does not fit the 1965 event.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_secret_us_reentry_ve_8838ec_x23_prime_timing_62d66b-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6", "label": "Visual Illusion", "display_label": "Visual Illusion", "full_label": "Why Distant Fireballs Seem to Land Nearby | Kecksburg", "catchy_title": "Why Distant Fireballs Seem to Land Nearby", "url": "{{ 'visual-illusion/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "A distant meteor can appear to fall behind a nearby ridge because night skies provide poor clues to distance and scale.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6-overview.webp' | relative_url }}", "slot_index": 28}, {"id": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-sonic-boom-false-loc-76c136", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_sonic_boom_false_loc_76c136", "label": "Boom Delay", "display_label": "Boom Delay", "full_label": "Can a Late Boom Point to the Wrong Place? | Visual Illusion", "catchy_title": "Can a Late Boom Point to the Wrong Place?", "url": "{{ 'boom-delay/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A boom heard after the flash can be linked to the wrong place because sound arrives much later than light.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_sonic_boom_false_loc_76c136-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-horizon-false-landin-cbb01a", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_horizon_false_landin_cbb01a", "label": "False Endpoints", "display_label": "False Endpoints", "full_label": "Why Fireballs Seem to Vanish Behind Nearby Hills | Visual Illusion", "catchy_title": "Why Fireballs Seem to Vanish Behind Nearby Hills", "url": "{{ 'false-endpoints/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A ridge or treeline can hide the final luminous path and make a distant fireball seem to strike nearby ground.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_horizon_false_landin_cbb01a-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-fireball-cloud-light-d252ef", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_fireball_cloud_light_d252ef", "label": "Local Light", "display_label": "Local Light", "full_label": "Why Fireball Light Can Feel Close to Home | Visual Illusion", "catchy_title": "Why Fireball Light Can Feel Close to Home", "url": "{{ 'local-light/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Lit clouds, shadows and glowing trains can feel local because they resemble lightning, fireworks or an aircraft emergency.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_fireball_cloud_light_d252ef-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-multiple-towns-local-7f4587", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_multiple_towns_local_7f4587", "label": "Many Towns", "display_label": "Many Towns", "full_label": "How One Fireball Seems Local to Many Towns | Visual Illusion", "catchy_title": "How One Fireball Seems Local to Many Towns", "url": "{{ 'many-towns/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A high, extended fireball path can make widely separated communities each believe the event passed directly above them.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_multiple_towns_local_7f4587-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-angular-speed-proxim-5273b8", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_angular_speed_proxim_5273b8", "label": "Speed Illusion", "display_label": "Speed Illusion", "full_label": "Does Fast Motion Make a Fireball Look Closer? | Visual Illusion", "catchy_title": "Does Fast Motion Make a Fireball Look Closer?", "url": "{{ 'speed-illusion/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Rapid motion across the sky can mimic the visual behaviour of a close object even when the fireball is far away.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_angular_speed_proxim_5273b8-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-fireball-trajectory-dfa43d", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_fireball_trajectory_dfa43d", "label": "Triangulation", "display_label": "Triangulation", "full_label": "How Investigators Locate a Fireball in Three Dimensions | Visual Illusion", "catchy_title": "How Investigators Locate a Fireball in Three Dimensions", "url": "{{ 'triangulation/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Separated cameras and witnesses provide intersecting sightlines that reveal the altitude and ground track a single view cannot.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_fireball_distance_il_d8e7d6_fireball_trajectory_dfa43d-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe", "kind": "branch", "depth": 1, "level": 2, "basename": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe", "label": "Witness Memory", "display_label": "Witness Memory", "full_label": "How Did the Witness Story Grow? | Kecksburg", "catchy_title": "How Did the Witness Story Grow?", "url": "{{ 'witness-memory/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e", "count": 7, "semantic_level": "l1", "child_total": 6, "descendant_total": 6, "sibling_total": 30, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "medium", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "micro", "focus_card_size_mode_mobile": "micro", "render_hint": "l1-card", "level_label": "Topic", "summary": "Sincere memories can change through repetition, suggestion and media exposure without deliberate fabrication.", "subtree_shape": {"total_nodes": 7, "max_depth": 1, "max_breadth": 6, "breadth_by_depth": {"0": 1, "1": 6}, "child_count": 6}, "preferred_subtree_layout": "tree", "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe-overview.webp' | relative_url }}", "slot_index": 29}, {"id": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-kecksburg-collective-85efd7", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_kecksburg_collective_85efd7", "label": "Collective Memory", "display_label": "Collective Memory", "full_label": "How Kecksburg Became a Community Story | Witness Memory", "catchy_title": "How Kecksburg Became a Community Story", "url": "{{ 'collective-memory/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Anniversaries, tourism and local storytelling helped a shared version of the incident outlast quieter and less certain recollections.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_kecksburg_collective_85efd7-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-early-reports-memory-f1dc8d", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_early_reports_memory_f1dc8d", "label": "Early Reports", "display_label": "Early Reports", "full_label": "What Did Kecksburg Witnesses Say First? | Witness Memory", "catchy_title": "What Did Kecksburg Witnesses Say First?", "url": "{{ 'early-reports/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "The December 1965 reports reveal which details appeared immediately and which entered the story only after years of retelling.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_early_reports_memory_f1dc8d-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-interview-framing-ke-506942", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_interview_framing_ke_506942", "label": "Interview Framing", "display_label": "Interview Framing", "full_label": "How Interviewers Shaped the Kecksburg Story | Witness Memory", "catchy_title": "How Interviewers Shaped the Kecksburg Story", "url": "{{ 'interview-framing/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Paranormal researchers, sceptics and television producers asked different questions, shaping which parts of uncertain memories became prominent.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_interview_framing_ke_506942-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-neighbour-talk-misin-216da3", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_neighbour_talk_misin_216da3", "label": "Neighbour Talk", "display_label": "Neighbour Talk", "full_label": "How Community Talk Could Reshape Kecksburg Memories | Witness Memory", "catchy_title": "How Community Talk Could Reshape Kecksburg Memories", "url": "{{ 'neighbour-talk/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Ordinary conversations after the event could have spread vivid details that later felt like independent personal memories.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_neighbour_talk_misin_216da3-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-retelling-witness-co-d61d9e", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_retelling_witness_co_d61d9e", "label": "Retelling", "display_label": "Retelling", "full_label": "Why Kecksburg Stories Grew More Certain | Witness Memory", "catchy_title": "Why Kecksburg Stories Grew More Certain", "url": "{{ 'retelling/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "Each retelling can strengthen a polished version of an event, even when its added precision does not reflect better historical accuracy.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_retelling_witness_co_d61d9e-Illustration-1.webp' | relative_url }}"}, {"id": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-source-confusion-tes-bcf753", "kind": "child", "depth": 2, "level": 3, "basename": "Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_source_confusion_tes_bcf753", "label": "Source Confusion", "display_label": "Source Confusion", "full_label": "Did Witnesses Remember Seeing or Hearing It? | Witness Memory", "catchy_title": "Did Witnesses Remember Seeing or Hearing It?", "url": "{{ 'source-confusion/' | relative_url }}", "parent_id": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "xs", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "l2-card", "level_label": "Section", "summary": "A remembered detail may feel firsthand even when it came from a neighbour, interviewer, photograph or television reconstruction.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe_source_confusion_tes_bcf753-Illustration-1.webp' | relative_url }}"}], "edges": [{"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf", "to": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-cordon-con-7c2552", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf", "to": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-geiger-cou-2dc4b1", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf", "to": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-headline-s-776186", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf", "to": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-kecksburg-memory-con-0d700a", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf", "to": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-missing-acorn-early-65b60a", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf", "to": "node-kecksburg-ufo-incide-ab793e-early-vs-late-testim-e20bcf-john-murphy-missing-027d8b", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8", "to": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-prop-after-filming-5a14ff", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8", "to": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-roadside-attraction-557411", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8", "to": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-fire-department-acor-694980", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8", "to": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-acorn-monument-resto-92fc49", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8", "to": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-acorn-prop-design-ac7d4c", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8", "to": "node-kecksburg-ufo-incide-ab793e-acorn-monument-origi-93d1e8-symbol-band-visual-m-2e3cec", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d", "to": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-witness-corroboratio-0c01a0", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d", "to": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-late-testimony-timel-7df499", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d", "to": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-kecksburg-object-sha-4bce8d", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d", "to": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-direct-vs-covered-si-a0d1f3", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d", "to": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-romansky-symbol-band-e43716", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d", "to": "node-kecksburg-ufo-incide-ab793e-acorn-object-claims-f69a8d-unsolved-mysteries-p-c2e86e", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822", "to": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-kecksburg-crash-risk-a093ba", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822", "to": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-reentry-debris-hazar-3a6863", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822", "to": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-aircraft-missile-inv-f7e4b4", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822", "to": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-radiation-unknown-sp-be6fea", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822", "to": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-response-larger-than-aa499f", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822", "to": "node-kecksburg-ufo-incide-ab793e-restricted-area-reas-d3d822-army-engineers-scien-363191", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41", "to": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-blue-book-limited-au-15a1d3", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41", "to": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-early-meteor-press-e-f46a41", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41", "to": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-space-debris-kosmos-787407", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41", "to": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-missing-recovery-rec-b83ab3", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41", "to": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-sanitized-blue-book-e38bab", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41", "to": "node-kecksburg-ufo-incide-ab793e-project-blue-book-re-ad1d41-scattered-kecksburg-3828f9", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3", "to": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-blue-book-credibilit-2ffb77", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3", "to": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-kosmos-96-timing-pro-0b34f8", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3", "to": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-kosmos-mission-secre-29cc55", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3", "to": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-moon-dust-recovery-c-425aa6", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3", "to": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-secret-aircraft-ufo-3ef2a5", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3", "to": "node-kecksburg-ufo-incide-ab793e-cold-war-secrecy-4389e3-u2-cover-story-trust-2be989", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7", "to": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-aircraft-missile-che-96ef92", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7", "to": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-early-crash-signals-78a003", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7", "to": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-expected-crash-wreck-97e008", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7", "to": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-response-escalation-b2239e", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7", "to": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-night-search-limits-d949f5", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7", "to": "node-kecksburg-ufo-incide-ab793e-aircraft-crash-respo-f8c7c7-crash-theory-rejecte-c06a49", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4", "to": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-elyria-grass-fires-812351", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4", "to": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-fireball-false-dista-a6624e", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4", "to": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-sanderson-false-rout-640527", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4", "to": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-lake-st-clair-search-a2acce", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4", "to": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-lapeer-radar-chaff-744ccc", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4", "to": "node-kecksburg-ufo-incide-ab793e-multiple-false-landi-d424b4-michigan-meteor-wron-9756d0", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930", "to": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-scattered-impact-rep-2ff5e8", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930", "to": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-kecksburg-story-entr-c8de6d", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930", "to": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-fireball-direction-d-791747", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930", "to": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-fireball-photo-endpo-a050a7", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930", "to": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-kecksburg-search-res-7d7dac", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930", "to": "node-kecksburg-ufo-incide-ab793e-great-lakes-fireball-100930-fireball-shock-waves-b32821", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75", "to": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-blue-book-search-rec-a5ddde", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75", "to": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-early-civilian-searc-8da848", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75", "to": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-air-force-geiger-sea-d306b0", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75", "to": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-ed-myers-search-acco-c99579", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75", "to": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-firefighter-object-a-902885", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75", "to": "node-kecksburg-ufo-incide-ab793e-kecksburg-ground-sea-e60e75-kecksburg-police-cor-f2ba2a", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe", "to": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-launch-fail-37e3b0", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe", "to": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-soviet-debris-milita-e604e3", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe", "to": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-orbit-uncer-59a67e", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe", "to": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-same-day-co-3cd207", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe", "to": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-shape-promp-052087", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe", "to": "node-kecksburg-ufo-incide-ab793e-kosmos-96-theory-0717fe-kosmos96-timing-conf-0ea2a4", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590", "to": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-battle-creek-stone-c-25ef48", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590", "to": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-elyria-fire-debris-r-a04f81", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590", "to": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-fragment-origin-iden-2a61ea", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590", "to": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-jackson-wire-fragmen-c1cc06", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590", "to": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-livonia-metal-proven-6b0508", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590", "to": "node-kecksburg-ufo-incide-ab793e-great-lakes-metal-re-bb6590-great-lakes-strewn-f-835139", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9", "to": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-false-landing-perspe-e22a0c", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9", "to": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-meteor-fragmentation-480a7a", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9", "to": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-persistent-meteor-tr-8db16b", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9", "to": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-pilot-sightings-time-d86926", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9", "to": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-seismograph-shock-wa-3beae2", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9", "to": "node-kecksburg-ufo-incide-ab793e-meteor-explanation-4588d9-detroit-trail-photos-d39d5b", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832", "to": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-ap-no-object-reports-98e9bb", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832", "to": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-cordon-vs-no-object-aff359", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832", "to": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-deadline-reporting-d-1ed33a", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832", "to": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-early-headline-landi-09cba7", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832", "to": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-federal-post-search-dc67e5", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832", "to": "node-kecksburg-ufo-incide-ab793e-newspaper-accounts-c-0b6832-regional-fireball-co-7e1c08", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841", "to": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-geiger-counter-claim-deb383", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841", "to": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-kecksburg-headline-s-776186", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841", "to": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-official-meteor-expl-ce189d", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841", "to": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-nasa-records-lawsuit-90a24e", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841", "to": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-official-denial-dist-82bb78", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841", "to": "node-kecksburg-ufo-incide-ab793e-official-nothing-fou-6ff841-negative-search-limi-1ed382", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2", "to": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-two-event-story-fusi-f78c9c", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2", "to": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-farm-equipment-candi-5fe9d6", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2", "to": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-industrial-object-ma-e3608d", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2", "to": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-darkness-terrain-mis-bd9c34", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2", "to": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-search-equipment-mis-09a387", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2", "to": "node-kecksburg-ufo-incide-ab793e-ordinary-object-theo-d909e2-preexisting-object-r-af2bd2", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117", "to": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-kecksburg-ground-tra-0abfef", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117", "to": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-nasa-lost-debris-rec-6a8619", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117", "to": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-murphy-missing-photo-8f61f8", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117", "to": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-modern-fireball-reco-57d7c5", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117", "to": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-credible-kecksburg-f-6b8a9a", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117", "to": "node-kecksburg-ufo-incide-ab793e-missing-physical-evi-3b8117-fireball-trajectory-9b9ccf", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536", "to": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-nasa-changing-kecksb-69b74b", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536", "to": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-foia-limits-kecksbur-057cdd", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536", "to": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-missing-kecksburg-re-cecdc6", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536", "to": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-nasa-foia-search-fai-c92041", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536", "to": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-federal-recordkeepin-05700e", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536", "to": "node-kecksburg-ufo-incide-ab793e-records-requests-tra-5a3536-classified-lost-neve-b3173c", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03", "to": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-lockbourne-wright-pa-92049a", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03", "to": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-jerry-betters-truck-f2415a", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03", "to": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-kecksburg-convoy-gua-853609", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03", "to": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-john-hays-truck-test-4620ae", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03", "to": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-retrieval-convoy-mis-9d9d19", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03", "to": "node-kecksburg-ufo-incide-ab793e-military-retrieval-s-8d2f03-kecksburg-ohio-truck-856c13", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6", "to": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-debris-vs-fireball-a7f933", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6", "to": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-roswell-press-releas-e74886", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6", "to": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-project-mogul-compar-490c2a", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6", "to": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-military-secrecy-ufo-d52873", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6", "to": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-why-pennsylvanias-ro-709aba", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6", "to": "node-kecksburg-ufo-incide-ab793e-pennsylvania-roswell-281db6-television-roswell-r-0d3729", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e", "to": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-dark-flight-off-cour-74f989", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e", "to": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-ribbeck-search-zone-fc7e89", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e", "to": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-strewn-fields-search-940368", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e", "to": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-bright-fireballs-tin-11478a", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e", "to": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-wind-model-fall-zone-e00237", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e", "to": "node-kecksburg-ufo-incide-ab793e-meteorite-search-fai-0cea6e-woodland-meteorite-s-fa9f5c", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e", "to": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-ballistic-vs-fragmen-490f4d", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e", "to": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-delayed-boom-false-i-4b1833", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e", "to": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-seismic-proof-ground-dc0fba", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e", "to": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-booms-meteor-vs-reen-b1761d", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e", "to": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-modern-sensors-kecks-568189", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e", "to": "node-kecksburg-ufo-incide-ab793e-sonic-booms-seismic-3f648e-terrain-weather-boom-a07d0c", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c", "to": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-space-debris-first-r-876a7f", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c", "to": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-hydrazine-debris-ris-ec9767", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c", "to": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-kosmos-954-cleanup-b4964e", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c", "to": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-moon-dust-debris-rec-989e8d", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c", "to": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-radioactive-satellit-14dab6", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c", "to": "node-kecksburg-ufo-incide-ab793e-hazardous-space-debr-2cf97c-stored-energy-debris-21214a", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28", "to": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-gordon-archive-audit-0adaa5", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28", "to": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-gordon-interview-che-f5c5a5", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28", "to": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-preserved-kecksburg-ab0486", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28", "to": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-television-witness-w-92fa04", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28", "to": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-gordon-witness-netwo-007d85", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28", "to": "node-kecksburg-ufo-incide-ab793e-stan-gordon-witness-6cee28-kecksburg-witness-ty-a615c1", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-television-national-641733", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-television-national-641733", "to": "node-kecksburg-ufo-incide-ab793e-television-national-641733-broadcast-reframed-m-d0e9ad", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-television-national-641733", "to": "node-kecksburg-ufo-incide-ab793e-television-national-641733-reconstruction-vs-re-232681", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-television-national-641733", "to": "node-kecksburg-ufo-incide-ab793e-television-national-641733-vast-of-night-influe-b38a97", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-television-national-641733", "to": "node-kecksburg-ufo-incide-ab793e-television-national-641733-later-programs-kecks-0f97ad", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-television-national-641733", "to": "node-kecksburg-ufo-incide-ab793e-television-national-641733-kecksburg-filming-op-0125a2", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-television-national-641733", "to": "node-kecksburg-ufo-incide-ab793e-television-national-641733-ufo-festival-local-i-4d88ad", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f", "to": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-acorn-craft-testimon-0a3938", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f", "to": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-military-convoy-clai-4a8b6f", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f", "to": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-fireball-trajectory-b0c45e", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f", "to": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-kosmos-96-reentry-59d4de", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f", "to": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-nasa-missing-records-c508f8", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f", "to": "node-kecksburg-ufo-incide-ab793e-evaluating-crash-cla-d8b36f-kecksburg-official-s-8dbebe", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2", "to": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-dark-flight-distance-786023", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2", "to": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-modern-error-scale-6ad6ca", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2", "to": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-kecksburg-fragment-p-edfe54", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2", "to": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-two-camera-triangula-1f9911", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2", "to": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-two-event-hypothesis-0e38b7", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2", "to": "node-kecksburg-ufo-incide-ab793e-trajectory-vs-kecksb-2cc8b2-wind-distortion-limi-8b49ad", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec", "to": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-thor-agena-timeline-35558f", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec", "to": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-mark-2-match-tested-934cf1", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec", "to": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-kecksburg-capsule-si-823936", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec", "to": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-reentry-steering-lim-d35311", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec", "to": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-secret-vehicle-types-a8e3e6", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec", "to": "node-kecksburg-ufo-incide-ab793e-secret-us-reentry-ve-8838ec-x23-prime-timing-62d66b", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6", "to": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-sonic-boom-false-loc-76c136", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6", "to": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-horizon-false-landin-cbb01a", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6", "to": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-fireball-cloud-light-d252ef", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6", "to": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-multiple-towns-local-7f4587", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6", "to": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-angular-speed-proxim-5273b8", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6", "to": "node-kecksburg-ufo-incide-ab793e-fireball-distance-il-d8e7d6-fireball-trajectory-dfa43d", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e", "to": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe", "to": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-kecksburg-collective-85efd7", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe", "to": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-early-reports-memory-f1dc8d", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe", "to": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-interview-framing-ke-506942", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe", "to": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-neighbour-talk-misin-216da3", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe", "to": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-retelling-witness-co-d61d9e", "kind": "tree"}, {"from": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe", "to": "node-kecksburg-ufo-incide-ab793e-witness-memory-evolu-10fbfe-source-confusion-tes-bcf753", "kind": "tree"}], "note": "Scan the main sections visually. 78 items may fold into a focused view on smaller layouts.", "shape": {"total_nodes": 211, "max_depth": 2, "breadth_by_depth": {"0": 1, "1": 30, "2": 180}, "max_breadth": 180}}</script>
+</section>
+</section>
+<div class="home-adaptive-utility home-adaptive-utility--full">
+<section id="browse-reports" class="home-mode-disclosure home-detailed-catalog home-browse-disclosure home-search-pages-box" data-home-detailed-catalog>
+<div class="home-detailed-catalog-summary home-search-pages-header">
+<span class="home-mode-disclosure-copy">
+<span class="home-detailed-catalog-title home-mode-disclosure-title">Search pages</span>
+<span class="home-detailed-catalog-meta home-mode-disclosure-hint">Search topic, branch, or keyword...</span>
+</span>
+<span class="home-mode-disclosure-meta">
+<span class="home-mode-disclosure-current-label">Scope</span>
+<span class="home-mode-disclosure-current">211 pages</span>
+</span>
+</div>
+<div class="home-detailed-catalog-body">
+<div class="home-controls" role="search">
+<label class="home-filter-label" for="home-report-filter">Search pages</label>
+<div class="home-filter-row">
+<input id="home-report-filter" class="home-filter" type="search" placeholder="Search topic, branch, or keyword..." data-home-filter>
+<button class="home-filter-clear nav-pill nav-pill-button" type="button" data-home-filter-clear hidden>Clear</button>
+</div>
+<p class="home-filter-status" data-home-filter-status aria-live="polite"></p>
+<div class="home-filter-results" data-home-filter-results hidden></div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+
