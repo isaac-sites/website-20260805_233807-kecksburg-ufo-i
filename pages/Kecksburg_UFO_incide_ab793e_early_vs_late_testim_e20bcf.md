@@ -1092,7 +1092,7 @@ The most defensible historical reading is neither that the whole Kecksburg story
 
 21.<a id="endnote-21"></a>
    Source: fireball.amsmeteors.org  
-   Link:<a href="https://fireball.amsmeteors.org/members/imo_view/event/2023/7478" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/event/2023/7478</a>  
+   Link:<a href="http://web.archive.org/web/20250714153300/https://fireball.amsmeteors.org//members/imo_view/event/2023/7478" target="_blank" rel="noopener noreferrer nofollow">http://web.archive.org/web/20250714153300/https://fireball.amsmeteors.org//members/imo_view/event/2023/7478</a>  
 
 22.<a id="endnote-22"></a>
    Source: fireball.imo.net  
@@ -1104,11 +1104,11 @@ The most defensible historical reading is neither that the whole Kecksburg story
 
 24.<a id="endnote-24"></a>
    Source: fireball.amsmeteors.org  
-   Link:<a href="https://fireball.amsmeteors.org/imo_view/event/2023/4831" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/imo_view/event/2023/4831</a>  
+   Link:<a href="http://web.archive.org/web/20240510015041/https://fireball.amsmeteors.org/imo_view/event/2023/4831" target="_blank" rel="noopener noreferrer nofollow">http://web.archive.org/web/20240510015041/https://fireball.amsmeteors.org/imo_view/event/2023/4831</a>  
 
 25.<a id="endnote-25"></a>
    Source: fireball.amsmeteors.org  
-   Link:<a href="https://fireball.amsmeteors.org/members/imo_view/event/2023/1133" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/event/2023/1133</a>  
+   Link:<a href="http://web.archive.org/web/20260205224646/https://fireball.amsmeteors.org/members/imo_view/event/2023/1133" target="_blank" rel="noopener noreferrer nofollow">http://web.archive.org/web/20260205224646/https://fireball.amsmeteors.org/members/imo_view/event/2023/1133</a>  
 
 26.<a id="endnote-26"></a>
    Source: theblackvault.com  
