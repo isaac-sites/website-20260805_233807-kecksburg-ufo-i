@@ -1096,7 +1096,8 @@ The most defensible historical reading is neither that the whole Kecksburg story
 
 22.<a id="endnote-22"></a>
    Source: fireball.imo.net  
-   Link:<a href="https://fireball.imo.net/imo_view/event/2023/7019" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/imo_view/event/2023/7019</a>  
+   Title: IMO Fireball Database (event record currently unavailable at source)  
+   Link:<a href="https://fireball.imo.net/members/imo/report_intro" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo/report_intro</a>  
 
 23.<a id="endnote-23"></a>
    Source: fireballs.amsmeteors.org  
