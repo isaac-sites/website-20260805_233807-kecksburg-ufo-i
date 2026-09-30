@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-hazardous/
 description: Focused pages that expand on Space Debris.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_hazardous_space_debr_2cf97c
 parent_title: Space Debris | Kecksburg UFO Incident

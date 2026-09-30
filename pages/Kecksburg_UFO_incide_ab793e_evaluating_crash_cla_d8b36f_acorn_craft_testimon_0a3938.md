@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-05 22:38:30'
+last_modified_at: '2026-08-05 22:38:30'
 parent_title: How Strong Is the Kecksburg Crash Claim?
 parent_permalink: /the-strongest-version-of-the-kecksburg/
 parent_nav_short_title: The Strongest Version Of The Kecksburg Crash Claim

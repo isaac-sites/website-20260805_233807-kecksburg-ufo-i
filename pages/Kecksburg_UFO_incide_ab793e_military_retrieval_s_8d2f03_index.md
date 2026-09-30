@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-military/
 description: Focused pages that expand on Retrieval Story.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_military_retrieval_s_8d2f03
 parent_title: Retrieval Story | Kecksburg UFO Incident

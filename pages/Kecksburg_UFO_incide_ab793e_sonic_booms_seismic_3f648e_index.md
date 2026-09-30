@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-sonic/
 description: Focused pages that expand on Shock Waves.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_sonic_booms_seismic_3f648e
 parent_title: Shock Waves | Kecksburg UFO Incident

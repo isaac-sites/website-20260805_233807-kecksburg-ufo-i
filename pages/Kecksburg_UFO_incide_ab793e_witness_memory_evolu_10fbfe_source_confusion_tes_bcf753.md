@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-05 18:33:26'
+last_modified_at: '2026-08-05 18:33:26'
 parent_title: How Did the Witness Story Grow? | Kecksburg UFO Incident
 parent_permalink: /witness-memory/
 parent_nav_short_title: Witness Memory
