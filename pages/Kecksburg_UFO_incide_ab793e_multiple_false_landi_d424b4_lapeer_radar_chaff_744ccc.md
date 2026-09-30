@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-05 21:54:57'
+last_modified_at: '2026-08-05 21:54:57'
 parent_title: Why Did So Many Places Report a Landing? | Kecksburg UFO Incident
 parent_permalink: /false-landings/
 parent_nav_short_title: False Landings

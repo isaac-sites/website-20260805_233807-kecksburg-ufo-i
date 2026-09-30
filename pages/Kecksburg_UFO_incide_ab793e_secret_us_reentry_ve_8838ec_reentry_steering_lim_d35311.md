@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-05 16:39:45'
+last_modified_at: '2026-08-05 16:39:45'
 parent_title: Was Kecksburg a Secret American Spacecraft?
 parent_permalink: /us-vehicle/
 parent_nav_short_title: US Vehicle

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-05 21:54:49'
+last_modified_at: '2026-08-05 21:54:49'
 parent_title: Was the Woods Object Unrelated to the Fireball? | Kecksburg
 parent_permalink: /ordinary-object/
 parent_nav_short_title: Ordinary Object

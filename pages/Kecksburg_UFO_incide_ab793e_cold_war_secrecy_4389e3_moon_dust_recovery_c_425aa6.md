@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-05 20:39:26'
+last_modified_at: '2026-08-05 20:39:26'
 parent_title: Why Cold War Secrecy Fuelled the Mystery | Kecksburg UFO Incident
 parent_permalink: /cold-war-context/
 parent_nav_short_title: Cold War Context

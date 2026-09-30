@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-05 15:57:20'
+last_modified_at: '2026-08-05 15:57:20'
 parent_title: Why Was the Search Area Sealed Off? | Kecksburg
 parent_permalink: /area-cordon/
 parent_nav_short_title: Area Cordon

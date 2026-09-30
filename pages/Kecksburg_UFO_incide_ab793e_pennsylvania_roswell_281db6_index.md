@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e/
 description: Focused pages that expand on Roswell Comparison.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_281db6
 parent_title: Roswell Comparison

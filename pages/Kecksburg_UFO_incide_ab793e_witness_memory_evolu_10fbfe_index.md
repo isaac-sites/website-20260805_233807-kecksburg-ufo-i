@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-witness/
 description: Focused pages that expand on Witness Memory.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_witness_memory_evolu_10fbfe
 parent_title: Witness Memory | Kecksburg UFO Incident
