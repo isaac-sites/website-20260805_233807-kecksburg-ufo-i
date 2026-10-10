@@ -6,7 +6,7 @@ title_full: Fireball Timeline Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /kecksburg-ufo-incide-ab793e-great/
+permalink: /kecksburg-ufo-incide-ab793e-timeline/
 description: Focused pages that expand on Fireball Timeline.
 date: '2026'
 last_modified_at: '2026'
