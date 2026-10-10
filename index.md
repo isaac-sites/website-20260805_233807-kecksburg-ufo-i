@@ -4581,6 +4581,46 @@ site_image_description: A bright fireball crosses a winter sky above wooded Penn
 </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude="" aria-labelledby="homepage-reading-title">
+<div class="fr-section-shell">
+  <div class="fr-section-header">
+    <div class="fr-section-heading">
+      <p class="fr-section-kicker">Amazon book picks</p>
+      <h3 class="fr-heading" id="homepage-reading-title">Further Reading</h3>
+    </div>
+    <p class="fr-intro">The Kecksburg shelf — the field investigator's own account, the wider crash-retrieval file, and the FOIA documentary record. Each case page carries picks tied to its own subject.</p>
+  </div>
+  <div class="fr-books-grid">
+<article class="fr-book-card">
+  <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+Stan+Gordon&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13572519-M.jpg" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');" /></a>
+  <div class="fr-book-info">
+    <h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Silent+Invasion+Stan+Gordon&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a></h4>
+    <p class="fr-book-author">By Stan Gordon, Roger Marsh</p>
+    <p class="fr-book-desc">The field investigator who chased the Kecksburg acorn for decades tells the whole file.</p>
+    <div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Silent+Invasion+Stan+Gordon&i=stripbooks&tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">See on Amazon</a></div>
+  </div>
+</article>
+<article class="fr-book-card">
+  <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Aztec+UFO+Incident+Scott+Ramsey&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Aztec UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13264064-M.jpg" alt="Cover for The Aztec UFO Incident" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');" /></a>
+  <div class="fr-book-info">
+    <h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Aztec+UFO+Incident+Scott+Ramsey&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Aztec UFO Incident">The Aztec UFO Incident</a></h4>
+    <p class="fr-book-author">By Scott Ramsey, Suzanne Ramsey</p>
+    <p class="fr-book-desc">The other 1948 retrieval claim — the comparative case every Kecksburg reader meets next.</p>
+    <div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Aztec+UFO+Incident+Scott+Ramsey&i=stripbooks&tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">See on Amazon</a></div>
+  </div>
+</article>
+<article class="fr-book-card">
+  <a class="fr-book-cover" href="https://www.amazon.com/s?k=Clear+Intent+Lawrence+Fawcett&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Clear Intent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10076119-M.jpg" alt="Cover for Clear Intent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');" /></a>
+  <div class="fr-book-info">
+    <h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Clear+Intent+Lawrence+Fawcett&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Clear Intent">Clear Intent</a></h4>
+    <p class="fr-book-author">By Lawrence Fawcett, Barry J. Greenwood</p>
+    <p class="fr-book-desc">The FOIA documentary record of the official interest in retrieval claims.</p>
+    <div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Clear+Intent+Lawrence+Fawcett&i=stripbooks&tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">See on Amazon</a></div>
+  </div>
+</article>
+  </div>
 </div>
 </section>
 
+</div>
+</section>
