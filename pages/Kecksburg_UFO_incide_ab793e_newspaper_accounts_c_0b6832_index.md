@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-newspaper/
 description: Focused pages that expand on Newspaper Record.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_newspaper_accounts_c_0b6832
 parent_title: Newspaper Record | Kecksburg UFO Incident

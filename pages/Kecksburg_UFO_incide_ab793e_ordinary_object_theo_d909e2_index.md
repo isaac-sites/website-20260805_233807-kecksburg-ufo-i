@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-ordinary/
 description: Focused pages that expand on Ordinary Object.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_ordinary_object_theo_d909e2
 parent_title: Ordinary Object | Kecksburg UFO Incident

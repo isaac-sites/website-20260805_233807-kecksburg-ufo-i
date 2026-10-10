@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-aircraft/
 description: Focused pages that expand on Crash Response.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_aircraft_crash_respo_f8c7c7
 parent_title: Crash Response | Kecksburg UFO Incident

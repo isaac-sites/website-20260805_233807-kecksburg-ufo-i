@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-cold-war/
 description: Focused pages that expand on Cold War Context.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3
 parent_title: Cold War Context | Kecksburg UFO Incident

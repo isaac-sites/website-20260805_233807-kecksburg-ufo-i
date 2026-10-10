@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-05 16:39:43'
+last_modified_at: '2026-08-05 16:39:43'
 parent_title: Could Kosmos 96 Have Fallen at Kecksburg?
 parent_permalink: /kosmos-96/
 parent_nav_short_title: Kosmos 96

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-05 20:27:40'
+last_modified_at: '2026-08-05 20:27:40'
 parent_title: Why Kecksburg Built a Giant Acorn
 parent_permalink: /acorn-monument/
 parent_nav_short_title: Acorn Monument

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-05 14:59:15'
+last_modified_at: '2026-08-05 14:59:15'
 parent_title: What the Booms and Seismograph Recorded | Kecksburg UFO Incident
 parent_permalink: /shock-waves/
 parent_nav_short_title: Shock Waves

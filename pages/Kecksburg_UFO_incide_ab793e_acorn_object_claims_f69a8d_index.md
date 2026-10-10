@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-acorn/
 description: Focused pages that expand on Acorn Object.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_acorn_object_claims_f69a8d
 parent_title: Acorn Object | Kecksburg UFO Incident

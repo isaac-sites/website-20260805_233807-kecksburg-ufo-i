@@ -10,6 +10,7 @@ permalink: /kecksburg-ufo-incide-ab793e-evaluating/
 description: Focused pages that expand on The Strongest Version Of The Kecksburg Crash
   Claim.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_evaluating_crash_cla_d8b36f
 parent_title: The Strongest Version Of The Kecksburg Crash Claim
