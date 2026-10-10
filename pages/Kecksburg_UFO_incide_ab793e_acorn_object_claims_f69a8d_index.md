@@ -6,7 +6,7 @@ title_full: Acorn Object Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /kecksburg-ufo-incide-ab793e-acorn/
+permalink: /kecksburg-ufo-incide-ab793e-object/
 description: Focused pages that expand on Acorn Object.
 date: '2026'
 layout: default
