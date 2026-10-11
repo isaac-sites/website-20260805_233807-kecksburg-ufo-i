@@ -1042,7 +1042,6 @@ The enduring Kecksburg story may therefore be sincere at its human core while st
 
 16.<a id="endnote-16"></a>
    Source: nap.nationalacademies.org  
-   Link:https://nap.nationalacademies.org/skim.php?act=nap&amp;chap=1-8&amp;record_id=18891  
 
 17.<a id="endnote-17"></a>
    Source: nationalacademies.org  

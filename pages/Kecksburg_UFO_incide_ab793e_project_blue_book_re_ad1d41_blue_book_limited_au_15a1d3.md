@@ -815,7 +815,6 @@ For researchers examining the broader question of a possible record gap, this di
 
 6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 7.<a id="endnote-7"></a>
    Source: archives.gov  
