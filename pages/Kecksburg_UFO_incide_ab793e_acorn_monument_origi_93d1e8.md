@@ -1172,7 +1172,6 @@ The monument is therefore authentic as an artefact of Kecksburg’s later cultur
 39.<a id="endnote-39"></a>
    Source: westmoreland-landtrust.org  
    Title: 2024 Westmoreland Ramble 1  
-   Link:https://westmoreland-landtrust.org/wp-content/uploads/2024/09/2024-Westmoreland-Ramble-1.pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>A scenic drive through souther9.5 Look for the blue and white Fire Department Building... 9.6 The Kecksburg Space Acorn can be seen to t...</p></details>
 
 40.<a id="endnote-40"></a>
